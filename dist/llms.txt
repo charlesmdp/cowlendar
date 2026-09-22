@@ -1,0 +1,50 @@
+# Cowlendar
+
+> Shopify appointment booking app for services, classes, events and rentals. Published by the Cowlendar team.
+
+## Official product information
+- [Facts and sources](https://cowlendar.com/ai.md)
+- [Features](https://cowlendar.com/features)
+- [Pricing](https://cowlendar.com/pricing)
+- [Shopify listing](https://apps.shopify.com/cowlendar)
+- [Help center](https://help.cowlendar.com/)
+
+## Guides and comparisons
+- [Journal](https://cowlendar.com/blog)
+- [Comparisons](https://cowlendar.com/compare)
+- [Alternatives](https://cowlendar.com/alternatives)
+- [Best Shopify Appointment Booking Apps for Service Businesses (2026)](https://cowlendar.com/blog/best-shopify-appointment-booking-apps-for-service-businesses-(2026).md)
+- [Five Practical Ways to Reduce No-Shows for Shopify Bookings](https://cowlendar.com/blog/5-powerful-strategies-to-instantly-reduce-no-shows-and-boost-sales-in-your-shopify-store.md)
+- [Hotel Booking on Shopify: Rooms, Nights & Daily Operations](https://cowlendar.com/blog/best-booking-apps-for-hotels-on-shopify.md)
+- [How to Choose a Nail Salon Booking App for Shopify in 2026](https://cowlendar.com/blog/best-nail-salon-booking-app-for-shopify-in-2026.md)
+- [Best Shopify Rental Apps: Equipment, Dates & Deposits (2026)](https://cowlendar.com/blog/best-shopify-apps-for-rental-businesses-in-2026.md)
+- [Best Shopify Booking Apps for Yoga & Fitness Classes (2026)](https://cowlendar.com/blog/best-shopify-booking-app-for-yoga-studios-and-fitness-classes-(2026).md)
+- [Best Shopify Booking Apps for Salons and Spas in 2026](https://cowlendar.com/blog/best-shopify-booking-apps-for-salons-and-spas-in-2026-reviews-and-pricing.md)
+- [Shopify Hotel & Vacation Rental Booking Apps: What to Compare (2026)](https://cowlendar.com/blog/best-shopify-hotel-and-vacation-rental-booking-apps-in-2026.md)
+- [Best Website Builders for Online Booking: Shopify, Wix, Squarespace and WordPress](https://cowlendar.com/blog/best-website-builders-for-online-booking-systems.md)
+- [Cowlendar vs Appointo in 2026: Free Limits, Paid Features and Booking Fit](https://cowlendar.com/blog/cowlendar-vs-appointo-2026-shopify-booking-app-comparison.md)
+- [Cowlendar vs Sesami in 2026: Choosing a Shopify Booking Workflow](https://cowlendar.com/blog/cowlendar-vs-sesami-which-shopify-booking-app-is-better-in-2026.md)
+- [Shopify Booking App Features: A Practical Buyer’s Checklist](https://cowlendar.com/blog/features-shopify-booking-app.md)
+- [Free Shopify Booking Apps in 2026: Limits, Pricing and Setup](https://cowlendar.com/blog/free-shopify-booking-apps-in-2026-reviews-pricing-and-setup.md)
+- [Google Calendar Appointment Schedules vs Cowlendar](https://cowlendar.com/blog/google-calendar-appointments-versus-cowlendar.md)
+- [How to Sell and Book Workshop Events on Shopify](https://cowlendar.com/blog/how-to-book-workshop-events-using-shopify-apps.md)
+- [How to Build a Rental Damage Deposit Workflow on Shopify](https://cowlendar.com/blog/how-to-build-a-rental-damage-deposit-workflow-that-protects-you.md)
+- [How to Add a Booking Calendar to Your Shopify Theme](https://cowlendar.com/blog/how-to-embed-a-booking-calendar-in-your-shopify-theme.md)
+- [How to Handle Complex Booking Scenarios on Shopify](https://cowlendar.com/blog/how-to-handle-complex-booking-scenarios-on-shopify.md)
+- [Clinic Appointment Booking on Shopify: Workflow and Privacy Limits](https://cowlendar.com/blog/how-to-manage-clinic-appointments-on-shopify.md)
+- [How to Manage Multi-Day Rental Bookings on Shopify](https://cowlendar.com/blog/how-to-manage-multi-day-rental-bookings-on-shopify.md)
+- [How to Manage Multiple Service Locations on Shopify](https://cowlendar.com/blog/how-to-manage-multiple-locations-for-your-service-business-on-shopify.md)
+- [How to Manage Pet Grooming Bookings and Pet Profiles on Shopify](https://cowlendar.com/blog/how-to-manage-pet-grooming-services-and-profiles-in-one-booking-app.md)
+- [How to Offer Airbnb-Style Bookings on Your Shopify Store](https://cowlendar.com/blog/how-to-offer-airbnb-style-bookings-on-your-shopify-store.md)
+- [How to Offer Yoga and Wellness Class Bookings on Shopify](https://cowlendar.com/blog/how-to-offer-yoga-and-wellness-class-bookings-on-shopify.md)
+- [How to Sell Workshop and Webinar Tickets on Shopify](https://cowlendar.com/blog/how-to-sell-workshop-and-webinar-tickets-on-your-shopify-store.md)
+- [How to Set Up Salon and Spa Appointments on Shopify](https://cowlendar.com/blog/how-to-set-up-salon-and-spa-appointments-on-shopify.md)
+- [How to Take Restaurant Table Reservations with Shopify](https://cowlendar.com/blog/how-to-take-restaurant-table-reservations-with-shopify.md)
+- [How to Manage Cancellations and Rescheduling on Shopify](https://cowlendar.com/blog/manage-cancellations-and-rescheduling-in-shopify-bookings.md)
+- [Four Shopify Booking Apps Compared: Cowlendar, Apntly, Appointo and Sesami](https://cowlendar.com/blog/top-4-shopify-booking-apps.md)
+- [Flexible Booking Payments on Shopify: Deposits, Prepayment and Pay Later](https://cowlendar.com/blog/why-flexible-payment-options-boost-shopify-booking-conversions.md)
+
+## Legal
+- [Privacy](https://cowlendar.com/privacy-policy)
+- [Terms](https://cowlendar.com/terms-and-conditions)
+- [GDPR](https://cowlendar.com/gdpr)

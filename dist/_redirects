@@ -1,2 +1,14 @@
-/feature /features/ 301
-/feature/* /features/:splat 301
+/2 / 301
+/2/ / 301
+/feature /features 301
+/feature/ /features 301
+/free-timezone-converter /free-tools/timezone-converter 301
+/free-timezone-converter/ /free-tools/timezone-converter 301
+/cowlendar-vs-apntly /cowlendar-vs-appntly 301
+/cowlendar-vs-bookthatapp /cowlendar-vs-book-that-app 301
+/blog/best-rental-businesses-in-2026 /blog/best-shopify-apps-for-rental-businesses-in-2026 301
+/blog/best-shopify-rental-businesses-in-2026 /blog/best-shopify-apps-for-rental-businesses-in-2026 301
+/blog/how-to-add-vacation-rental-booking-your-shopify-store-in-2026 /blog/how-to-add-vacation-rental-booking-to-your-shopify-store-in-2026 301
+/blog/best-shopify-apps-zoom-meetings /blog/best-shopify-apps-for-zoom-meetings-in-2026 301
+/blog/bookthatapp-vs-cowlendar-which-shopify-booking-app-is-right-for-you-in-2025 /cowlendar-vs-book-that-app 301
+/blog/are-your-shopify-bookings-mobile-friendly-enough /blog/how-to-optimize-shopify-bookings-for-mobile-customers 301

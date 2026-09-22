@@ -1,71 +1,41 @@
 # Cowlendar website
 
-Site anglais de Cowlendar : homepage, variante `/2/`, catalogue des fonctionnalités, pricing, pages légales et convertisseur de fuseaux horaires. Préparé pour Cloudflare Pages, avec une fondation de blog sur D1 (SQLite).
+Site anglais de Cowlendar, conçu pour **Cloudflare Pages + D1**, avec un blog rendu côté serveur et des pages statiques rapides.
 
-## Pages
-
-- `/` : homepage et démonstration originale.
-- `/2/` : hero texte à gauche, réservation interactive à droite. Le reste de la homepage est identique.
-- `/features/` : catalogue de 59 fonctionnalités avec recherche et navigation par catégorie.
-- `/feature/` : redirection vers `/features/`.
-- `/pricing/`.
-- `/free-tools/timezone-converter/`.
-- `/terms-and-conditions/`, `/privacy-policy/`, `/gdpr/`.
-
-## Déploiement
-
-Voir **[le guide Cloudflare Pages + D1](docs/CLOUDFLARE-PAGES.md)** : connexion GitHub, réglages exacts, création de la base, liaison `BLOG_DB`, domaine et gestion des futurs articles.
-
-Le site d’aperçu Sites et le projet Cloudflare Pages du propriétaire sont deux hébergements distincts. `.openai/hosting.json` conserve uniquement la référence de l’aperçu Sites. Les fonctions `functions/` sont destinées à Cloudflare Pages et ne tournent pas sur l’aperçu statique Sites.
+- Homepage, catalogue des fonctionnalités, pricing, FAQ, partenaires et pages légales.
+- 115 articles conservés à leur URL d’origine, dont 30 guides réécrits en septembre 2026.
+- 9 comparatifs et 9 guides d’alternatives, avec sources officielles et limites par formule.
+- Convertisseur de fuseaux horaires, calculateur de prix et vraie page 404.
+- Sitemap dynamique, canonical, JSON-LD, robots.txt, llms.txt, llms-full.txt et versions Markdown.
+- `/2` supprimé et redirigé vers la homepage.
 
 ## Développement
 
-Node 22 ou version compatible plus récente.
+Node 22 ou plus récent compatible.
 
 ```sh
 npm ci
 npm run db:migrate:local
+npm run build
 npm run dev
 ```
 
-Pour consulter seulement le site statique, sans API :
+`npm test` vérifie la confidentialité des brouillons, les publications programmées, le rendu et les cas de fuseaux horaires. Avec le serveur local ouvert :
 
 ```sh
-python3 -m http.server 4187 --directory dist
+SITE_TEST_URL=http://localhost:8788 node checks/http-smoke.mjs
 ```
 
-```sh
-npm test
-npm run build
-```
+## Modifier le contenu
 
-Le build prépare l’indexation des pages de production. Les aperçus Cloudflare et la variante `/2/` conservent `noindex`. Les sources HTML/CSS/JS sont dans `dist/` ; il s’agit d’un site statique directement éditable, pas d’un export à régénérer depuis un framework.
+- Articles : fichiers Markdown dans `content/articles/`, métadonnées dans `content/posts.json`.
+- Comparatifs : faits et sources dans `content/apps.json`, présentation dans `lib/editorial.mjs`.
+- Navigation commune : `lib/header.html`, `lib/footer.html` et `lib/prefooter.html`, repris par `lib/chrome.generated.mjs`.
+- Pages marketing : HTML/CSS/JS dans `dist/`. Le build met à jour leurs métadonnées et leur navigation.
+- Nouveaux articles ou mises à jour sans déploiement : table D1 `blog_posts`, via le tableau de bord Cloudflare authentifié.
 
-## Blog D1
+Le build régénère le blog, les comparatifs, les pages de ressources et les fichiers d’indexation. Il rend la branche Cloudflare `main` indexable ; les autres builds sont en `noindex`. Pour simuler la production localement : `BUILD_PRODUCTION=1 npm run build`.
 
-Le schéma est dans `db/schema.ts`, la migration versionnée dans `cloudflare/migrations/`, les lectures préparées dans `db/blog.mjs` et l’API Cloudflare dans `functions/api/posts/[[path]].js`.
+Les données privées Search Console ne figurent pas dans ce dépôt. Les illustrations et captures disposent de fichiers de provenance dans `content/`.
 
-- Articles en Markdown, résumé, couverture, auteur, catégorie, champs SEO.
-- Brouillons et publications programmées exclus des réponses publiques.
-- API en lecture seule, pagination bornée, requêtes paramétrées.
-- Gestion initiale depuis le tableau de bord Cloudflare. Aucun mot de passe, clé secrète ou formulaire d’administration public.
-- Interface du blog et import des anciens articles à réaliser lors de l’étape blog. Les liens Blog actuels ouvrent le blog existant.
-- D1 local vérifié. La base distante doit encore être créée et liée dans le compte Cloudflare du propriétaire.
-
-## Contenus et sources
-
-Les chiffres d’avis, extraits de septembre 2026 et tarifs sont documentés dans `content/proof-and-pricing.json`. Les logos authentiques et favicons vérifiés sont documentés dans `content/logo-sources.json` et `content/brand-assets-v4.json`. Trois marchands sans favicon vérifié conservent leurs initiales.
-
-Les 13 photos de cas d’usage et la photo de promenade avec un lama ont été harmonisées. Les prompts des nouvelles images sont conservés dans `content/image-prompts-v4.json`.
-
-La privacy policy concerne uniquement **BOOKING APPOINTMENT COWLENDAR SAS**, SIREN 989 284 062, 14 rue Charles V, 75004 Paris. Identité fournie par le propriétaire dans sa capture du 22 septembre 2026. Les mentions de l’ancienne entité et des autres apps ont été retirées des pages légales. Les anciennes durées contradictoires de conservation (60 et 75 jours) ont été remplacées par une formulation par finalité ; un délai chiffré unique pourra être ajouté lorsque la politique opérationnelle sera confirmée.
-
-Apple Calendar est présenté comme une intégration sur instruction du propriétaire, sans promesse supplémentaire de synchronisation bidirectionnelle.
-
-## Vérifications
-
-14 tests automatisés passent : changements d’heure et conversions, confidentialité des brouillons, dates de publication, pagination, contraintes SQLite et routes publiques en lecture seule. Aperçus visuels et interactions vérifiés sur mobile et ordinateur. Les animations respectent la préférence de réduction du mouvement.
-
-## Dernières retouches
-
-Les onglets de `/2/` sont au-dessus du module de réservation. La homepage principale propose un cinquième onglet « Your Services ». Le prefooter reprend les illustrations, les proportions et les trajectoires flottantes du site original et figure sur les huit pages. Les interactions du bento sont rétablies : calendrier multijour, fuseaux horaires, cartes d’équipe, durée personnalisée, participants, rappels et interrupteurs des dates bloquées. Les rappels peuvent être ajoutés ou retirés dans la démonstration.
+Voir [le guide de déploiement](docs/CLOUDFLARE-PAGES.md), [le fonctionnement éditorial](docs/BLOG-EDITORIAL.md) et [les redirections](docs/URL-MIGRATION.csv).

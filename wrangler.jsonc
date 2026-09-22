@@ -1,0 +1,13 @@
+{
+  "name": "cowlendar",
+  "compatibility_date": "2026-09-22",
+  "pages_build_output_dir": "dist",
+  "d1_databases": [
+    {
+      "binding": "BLOG_DB",
+      "database_name": "cowlendar-blog",
+      "database_id": "a646e99c-9745-4883-90c7-684e3b147085",
+      "migrations_dir": "cloudflare/migrations"
+    }
+  ]
+}

@@ -1,0 +1,2899 @@
+[
+  {
+    "key": "cowlendar-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/e297c43d07c087a231c656afcdca283f/icon/CMnisvit1pADEAE=.jpeg",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/cowlendar",
+    "alt": "Appointment Booking Cowlendar",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "cowlendar-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/e297c43d07c087a231c656afcdca283f/desktop_screenshot/COr4z42i-4wDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/cowlendar",
+    "alt": "booking app so more appointments and more bookings",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "apntly-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/883122886ab7faa62c87a8519152d0c5/icon/CNLD0dqi6_4CEAE=.jpeg",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/appointly",
+    "alt": "Appointment Booking App Apntly",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "apntly-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/883122886ab7faa62c87a8519152d0c5/desktop_screenshot/CLT-xcyunoMDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/appointly",
+    "alt": "Appointment Booking Widget",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "appointo-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/b3dccf14643e2c76121cb5c5ca9a068e/icon/CLiykKz0lu8CEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/appointo-appointments-and-bookings",
+    "alt": "Appointment Booking App ointo",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "appointo-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/b3dccf14643e2c76121cb5c5ca9a068e/desktop_screenshot/CJaq8N3J3YMDEAE=.jpeg?height=360&quality=90&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/appointo-appointments-and-bookings",
+    "alt": "Appointment Booking Modal",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "easy-appointment-booking-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/bf510b52ef314616e8735ded3fd16d0b/icon/CM7g_9Lz-O8CEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/appointments-and-bookings",
+    "alt": "Easy Appointment Booking App",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "easy-appointment-booking-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/bf510b52ef314616e8735ded3fd16d0b/desktop_screenshot/CKnx6YT5oIkDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/appointments-and-bookings",
+    "alt": "Booking appointments for any product. Start for free! 🏆",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "bookx-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/9c675d0bbcbe0209ed5982adee417ccd/icon/CI3poNnzlYADEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/appointment-booking-bookeasy",
+    "alt": "BookX Appointment Booking App",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "bookx-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/9c675d0bbcbe0209ed5982adee417ccd/desktop_screenshot/CLjvsczM5I0DEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/appointment-booking-bookeasy",
+    "alt": "Shopify booking app for reservations & event ticketing.",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "meety-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/b951a800586a400c245b5d4d91ea5189/icon/CNj71Le9pZEDEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/meety-appointment-booking",
+    "alt": "Meety: Appointment Booking App",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "meety-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/b951a800586a400c245b5d4d91ea5189/desktop_screenshot/CNKqyo74q4wDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/meety-appointment-booking",
+    "alt": "Customize your appointment with timeslot and add-ons",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "bookthatapp-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/35b63cb98175322a555e035845626664/icon/CP7xiPDSyP8CEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/bookthatapp",
+    "alt": "BTA Appointment Booking App",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "bookthatapp-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/35b63cb98175322a555e035845626664/desktop_screenshot/CIO1kK-BmokDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/bookthatapp",
+    "alt": "All-in-One Shopify Appointment Booking App ",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "hoppy-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/213b15624151ea3b908a552125924ead/icon/CJuYqMn7x5MDEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/suppr-appointment-booking",
+    "alt": "Hoppy Appointment Booking App",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "hoppy-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/213b15624151ea3b908a552125924ead/desktop_screenshot/CO3-vsmpwJUDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/suppr-appointment-booking",
+    "alt": "Integrates with tools you already use like calendar, zoom & More",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "tipo-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/318ce1b300f9be5a8b50dac838f13a43/icon/CMX7v4mw-PwCEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/tipo-appointment-booking",
+    "alt": "Tipo Appointment Booking",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "tipo-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/318ce1b300f9be5a8b50dac838f13a43/desktop_screenshot/CJvb-oWugJMDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/tipo-appointment-booking",
+    "alt": "Tipo Appointment booking - Shopify booking app",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "sesami-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/e3639682dd96fcb7ec291e8af21a37d1/icon/CP34g6uBnv4CEAE=.png",
+    "kind": "icon",
+    "source": "https://apps.shopify.com/sesami",
+    "alt": "Sesami Booking Platform",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "sesami-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/e3639682dd96fcb7ec291e8af21a37d1/desktop_screenshot/CM6xy-vBy5YDEAE=.png?height=360&width=640",
+    "kind": "screen",
+    "source": "https://apps.shopify.com/sesami",
+    "alt": "Sesami Booking Experiences, Calendars and SDK",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-d100041e1f33",
+    "url": "https://framerusercontent.com/images/kvQ17ZCQuHNlSsvv1EMt14TshQ0.png?width=2048&height=2048",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/5-powerful-strategies-to-instantly-reduce-no-shows-and-boost-sales-in-your-shopify-store",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-736c59309247",
+    "url": "https://framerusercontent.com/images/nIcqrwgh68iwiFGcwD5rowcO1qo.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/add-cross-sells-to-your-shopify-booking-checkout-flow",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-23e737c33695",
+    "url": "https://framerusercontent.com/images/uj0wcrPv4pAMPMsum78P8CT4s58.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/ai-is-rewriting-the-booking-funnel-what-shopify-merchants-should-do-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-82d2a42d7420",
+    "url": "https://framerusercontent.com/images/7LY3ckBC0vyRINpJ8ttGNbKUdY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-booking-app-on-shopify-to-use-in-2025",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-1125deae1b6d",
+    "url": "https://framerusercontent.com/images/dGNf7XPE1HzreBcVOY92RsFZuY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-booking-apps-for-hotels-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-050803fa1974",
+    "url": "https://framerusercontent.com/images/rt7s7SMlJJPsuTVJRJl0DMnB5ko.png?width=1024&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-free-appointment-booking-app-for-shopify-stores",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-93525d574a62",
+    "url": "https://framerusercontent.com/images/f5ZdlGurUVt2LeyHcc6RB752Ik4.webp?lossless=1&width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-nail-salon-booking-app-for-shopify-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-90140117146b",
+    "url": "https://framerusercontent.com/images/vApf4o2TRg7FE03mZj0FnTap4.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-salon-booking-software-for-small-businesses-(2026-reviews)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-05a0377446c6",
+    "url": "https://framerusercontent.com/images/9W04jLtkPqmhcz8wi95Le4GYUjI.png?width=1080&height=1080",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-app-for-spas",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-c46b817c1d5d",
+    "url": "https://framerusercontent.com/images/myyZB7rWV5jT7Kz8KB7UJ84V7ms.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-appointment-booking-apps-for-service-businesses-(2026)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-ba35b8e7112e",
+    "url": "https://framerusercontent.com/images/abakeK1wg58WZxAFIDtQURRcfs.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-apps-for-rental-businesses-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-466e9e6d068f",
+    "url": "https://framerusercontent.com/images/zXt2Ngmt5Ig7Jp1tWVa9waZDJSw.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-apps-for-zoom-meetings-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-27ea4b88101d",
+    "url": "https://framerusercontent.com/images/KVVGJZP3EFWbj5WsIC0DdNjW1nE.png?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-apps-in-2026-8-tools-worth-installing-right-now",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-4a15ddd0a58b",
+    "url": "https://framerusercontent.com/images/d7MpOu63g3lrt99id1g5EmoLDQ.webp?width=1535&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-booking-app-for-yoga-studios-and-fitness-classes-(2026)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-04847817d3e1",
+    "url": "https://framerusercontent.com/images/LG2TMu0BKMQ29frl08UTdD2qg0.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-booking-apps-for-salons-and-spas-in-2026-reviews-and-pricing",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-80167a6fad74",
+    "url": "https://framerusercontent.com/images/Zk538dkKk7987PhIrGBsaBib8.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-booking-apps-for-yoga-studios-in-2026-(honest-rankings)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-0b4bab0bda2f",
+    "url": "https://framerusercontent.com/images/LdbbsU27elmE2GkJKWn4tiP9yk0.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-booking-options-for-photographers",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f6b1796db4dc",
+    "url": "https://framerusercontent.com/images/VvYfMcrvWiwbcCkmHuPFRuqmAk.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-hotel-and-vacation-rental-booking-apps-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-941dafe50ff5",
+    "url": "https://framerusercontent.com/images/iGq7vapG9YAzhBX6yMa7mai2ZU.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-shopify-rental-and-scheduling-platforms-reviews-and-pricing-for-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-e21a7f3af488",
+    "url": "https://framerusercontent.com/images/dVz8bD1e2Bv2FE7O5gtKVtnLQ.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/best-website-builders-for-online-booking-systems",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-1d0e6863a368",
+    "url": "https://framerusercontent.com/images/zDQqBH128qtkVTnohx97BbFi3dU.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/boost-shopify-service-sales-with-limited-time-promotions",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-b62070eb410c",
+    "url": "https://framerusercontent.com/images/sZdzhbYkpaQAtsxuPBkSz0Xz8.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/calendly-vs-a-native-shopify-booking-app",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-553090f55c90",
+    "url": "https://framerusercontent.com/images/qcb1dcEGLbEsYUmvOcHKdbo3rY.png?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/coaches-and-consultants-on-shopify-from-discovery-call-to-retainer-on-one-domain",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-516c6d5e35db",
+    "url": "https://framerusercontent.com/images/FE6ec87xFiBImYG5UQ4Gapntek.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/cowlendar-vs-appointo-2026-shopify-booking-app-comparison",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-b0095c6ae82a",
+    "url": "https://framerusercontent.com/images/vDfgjvT4XurIkIvLaDdb6Qh2oiw.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/cowlendar-vs-sesami-which-shopify-booking-app-is-better-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-d93a5470a4df",
+    "url": "https://framerusercontent.com/images/vstA6AVe1IW01wEjwZoFFD0Uwg.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/cut-admin-time-boost-efficiency-and-streamline-bookings-on-your-shopify-store",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-e2ce447a1a89",
+    "url": "https://framerusercontent.com/images/aWOxr7o4RDqZ20NAW5OJh06a8EQ.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/features-shopify-booking-app",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-5f4fc3a758ad",
+    "url": "https://framerusercontent.com/images/iyxvxDrU11rFmXil7U1LlEHAnxs.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/free-shopify-booking-apps-in-2026-reviews-pricing-and-setup",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-c3b89e8fd4ae",
+    "url": "https://framerusercontent.com/images/jkV6ScSNiWtCAi9gT0RCZteRII.jpg?width=680&height=590",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/google-calendar-appointments-versus-cowlendar",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-43a0386b93f3",
+    "url": "https://framerusercontent.com/images/LtIZLpGQiLSwZVYLaGYuZsedjrk.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-advanced-booking-features-help-shopify-stores-grow",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f26e4ca31d49",
+    "url": "https://framerusercontent.com/images/Hrh76cTeCwhcrPwG26IXYwJZtRw.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-bars-and-restaurants-can-take-world-cup-reservations-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-91902d0b3ec0",
+    "url": "https://framerusercontent.com/images/U5miVS5fI48GSllhxA3m2kP0uE.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-bars-and-restaurants-can-take-world-cup-reservations-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-2ead4de632e1",
+    "url": "https://framerusercontent.com/images/zbQ7ky8Ym1Lo926uTWrsgaE0OM.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-booking-apps-help-plan-staffing-with-data-insights",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-106bc40be0eb",
+    "url": "https://framerusercontent.com/images/atuLRk0TS5RzdVwf3AVIUYpf0.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-clear-policies-cut-no-shows-and-cancellations-in-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f482f4537831",
+    "url": "https://framerusercontent.com/images/c6t6fftg59pzfuXghHub0TzOzY0.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-flexible-booking-options-boost-customer-satisfaction-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-888a17b5aba2",
+    "url": "https://framerusercontent.com/images/f1HAig4MqKEWIQUD4VqnYhqEPio.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-mobile-salons-can-handle-service-zones-and-travel-costs-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f4fe877fd5e7",
+    "url": "https://framerusercontent.com/images/Pko2IFOSSB5zGENTgUrxsgHU.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-new-merchants-can-manage-bookings-on-shopify-easily",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-bc6d33b13131",
+    "url": "https://framerusercontent.com/images/ct8EuguP4RBhaSFOxgbTQD8uBk.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-play-centers-can-boost-bookings-with-family-and-group-rates",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-bb83908db9e7",
+    "url": "https://framerusercontent.com/images/KaITPUUCd7OiRIZy67Ohz3fQp0c.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-professional-booking-apps-build-trust-for-shopify-merchants",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-25cf689a29f3",
+    "url": "https://framerusercontent.com/images/dHQ50ViRtM14xIJzfYLZacReg.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-shopify-booking-apps-automate-multi-day-retreats-and-guest-management",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-9c68fc8599f2",
+    "url": "https://framerusercontent.com/images/tX4GLSDFdNwr4h24eYvSqopNw.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-shopify-booking-apps-boost-profits-with-smart-integrations",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-5938302d6914",
+    "url": "https://framerusercontent.com/images/HMYKNX8maBBhF0Yp3oshZRnoNpw.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-shopify-booking-solutions-can-improve-your-store-s-brand-reputation",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-82385d51f01d",
+    "url": "https://framerusercontent.com/images/20jR1SS4qPOO0kkCgD37tRPmsNY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-shopify-booking-systems-improve-staff-scheduling",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-30e7ca57f81d",
+    "url": "https://framerusercontent.com/images/lgi2jdBhv3ulJi3KuN0AqEZBUbY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-tattoo-studios-can-blend-virtual-and-in-person-consultations",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-47d92054c62c",
+    "url": "https://framerusercontent.com/images/Wp0NlMrhxtie6HSjC8gqQRWOyg.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-accept-in-home-and-mobile-service-bookings-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-d1c9ff8e013d",
+    "url": "https://framerusercontent.com/images/KqsK18ZGYekCtkEwTsfgMH55oqI.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-accept-payments-for-appointments-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-5c36259d11db",
+    "url": "https://framerusercontent.com/images/F3cmM6S5SqtGFXKPuCjN4Wk7NWk.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-add-tour-booking-to-shopify-best-apps-setup-(2026)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-82cb98638611",
+    "url": "https://framerusercontent.com/images/mU0jgjqwvhEgL83rtkwQU4.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-add-vacation-rental-booking-to-your-shopify-store-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-4ad940a4c7fd",
+    "url": "https://framerusercontent.com/images/nMAA4jcU41l6C5cpS4P2Qj4JQns.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-align-spa-appointment-times-with-smart-inventory-management",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-99d6b1bbcde4",
+    "url": "https://framerusercontent.com/images/EtRPZdeFizXZWT1vQqMPhPgIg.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-book-workshop-events-using-shopify-apps",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-8cc3a56dea3b",
+    "url": "https://framerusercontent.com/images/4VsjZvl6XLdVwCMBukXge952II.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-boost-adventure-bookings-with-equipment-add-on-rentals",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-b8e350a17352",
+    "url": "https://framerusercontent.com/images/d7TTD8bKLRwwCCa6GcgDOmYWG60.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-build-a-booking-app-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-a09691103391",
+    "url": "https://framerusercontent.com/images/HCCxn25724q3LW0jUW8vM2tmjg.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-build-a-rental-damage-deposit-workflow-that-protects-you",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-d82c47d03851",
+    "url": "https://framerusercontent.com/images/qKsl5IqYUuYct8AToJhuFZB2gs.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-convert-followers-into-clients-with-shopify-booking-apps",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-fa565c691bdc",
+    "url": "https://framerusercontent.com/images/kl9O825vMIiLgntWbdM1brEe4.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-eliminate-friction-from-shopify-booking-flows",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-e8babeaae904",
+    "url": "https://framerusercontent.com/images/pQKzgQaha3BG26w8BpfbZWT2s.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-embed-a-booking-calendar-in-your-shopify-theme",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-785a048b5c0c",
+    "url": "https://framerusercontent.com/images/pyAOodBRCBFeAZz8hKdlIs0Cbso.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-encourage-clients-to-pre-pay-for-services-without-losing-flexibilit",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-405eba1ec5db",
+    "url": "https://framerusercontent.com/images/X4x9356w3pGM1m76FUYp452B3Yo.png?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-fix-double-bookings-with-a-google-calendar-two-way-sync-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-ba5042c31432",
+    "url": "https://framerusercontent.com/images/Z5E2y8g8kBS2yxYX6JKgAEKwvY.png?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-handle-cancellations-and-rescheduling-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-843d8daff3f5",
+    "url": "https://framerusercontent.com/images/0bPOA0UgFXv8NSYtL9LImo8kDc.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-handle-complex-booking-scenarios-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-bf23dcb7205e",
+    "url": "https://framerusercontent.com/images/2Z7Ec1hzv22J1aWQ0Uj7VKnAeK0.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-handle-gdpr-and-data-privacy-in-shopify-bookings",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-5ee608d83e91",
+    "url": "https://framerusercontent.com/images/IZ1zaLGXUzpvJ7qhBvF7lGsHhE.png?width=1024&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-manage-clinic-appointments-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-43afe91d4577",
+    "url": "https://framerusercontent.com/images/gLnuY2tEEfovmdUVJn8Hjxkc9c.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-manage-fair-use-rules-in-sports-padel-court-reservations",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-99d2bdaa67ee",
+    "url": "https://framerusercontent.com/images/av9OmCZLxPN7xd9J3wGAhPsoJfs.png?width=1024&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-manage-multi-day-rental-bookings-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f417dba25339",
+    "url": "https://framerusercontent.com/images/ylmO6z42AO3m6zASbKk30IXBpc.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-manage-multiple-locations-for-your-service-business-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-a511c66085fa",
+    "url": "https://framerusercontent.com/images/vuGgk91QIesSB36l0AIy48Bv08.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-manage-pet-grooming-services-and-profiles-in-one-booking-app",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-6437bcc79499",
+    "url": "https://framerusercontent.com/images/4FdQzkn4rdSDiuH4z4HOOMu87c.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-manage-rooms-classes-and-private-sessions-in-a-single-system",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-20332a3e094d",
+    "url": "https://framerusercontent.com/images/GyvnIF9QHV51XkQCNrIWfnHKPE.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-maximize-seasonal-booking-trends-with-a-shopify-app",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-31e3e197eb61",
+    "url": "https://framerusercontent.com/images/57FEfCnXI7gT5aBeDd4jLwnvxVM.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-offer-airbnb-style-bookings-on-your-shopify-store",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-601d3bc9fd99",
+    "url": "https://framerusercontent.com/images/eIt5nNIH14EeoRshypRH0uG9k.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-offer-flexible-service-times-in-your-shopify-booking-system",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-e8d5d1834dc4",
+    "url": "https://framerusercontent.com/images/5GY8xJdaXjUnWCTh3meI899E.png?lossless=1&width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-offer-group-bookings-on-shopify-capacity-pricing-and-waitlist-strategies",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-25e4867691ba",
+    "url": "https://framerusercontent.com/images/VvjhgJz4JRspvHAf1ydwc9pPU.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-offer-tutoring-and-coaching-bookings-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-323a7932e288",
+    "url": "https://framerusercontent.com/images/GokyRDfLELQ2s9GmAxOZcMkKeQ4.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-offer-yoga-and-wellness-class-bookings-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-afef2b77e18e",
+    "url": "https://framerusercontent.com/images/TnyIEYEISdWJuhZ6r5XLoNe1oQ.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-optimize-shopify-bookings-for-mobile-customers",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-05eaf2866172",
+    "url": "https://framerusercontent.com/images/5N7tRe8hdudRihuOQKrlZjq6B6E.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-prevent-booking-management-mistakes-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-6204be33fc5e",
+    "url": "https://framerusercontent.com/images/SXjpup0AhPDoTX3B1lTtL2Q.png?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-prevent-double-bookings-on-shopify-even-with-a-booking-app-installed",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-07365b0b13c4",
+    "url": "https://framerusercontent.com/images/xqdtq5JpzhN34jYUtSUAvJ3qSg.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-prevent-double-bookings-on-shopify-with-google-calendar-sync",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-ce7ac5aebb74",
+    "url": "https://framerusercontent.com/images/CCfEwh758fyQ2MrIVuX0o1QPRVo.webp?lossless=1&width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-reduce-no-shows-on-your-shopify-booking-store-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f45cca05c271",
+    "url": "https://framerusercontent.com/images/8QiQXdT4roeO8zGlvPFhOgAk850.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-reduce-no-shows-with-booking-reminders",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-81f84a70d300",
+    "url": "https://framerusercontent.com/images/HCVK1v4yVc9iS1rP7AEutS8n8.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-scale-shopify-bookings-with-advanced-management-tools",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-13714cb7ae31",
+    "url": "https://framerusercontent.com/images/5TWBMYEFRUQKJq7XeavcgMrAEw.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-sell-services-on-shopify-in-2026-complete-setup-guide",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-04448c2e5160",
+    "url": "https://framerusercontent.com/images/qHF5uIc79uG8mM2bn77DeaCCY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-sell-workshop-and-webinar-tickets-on-your-shopify-store",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-9b0781723563",
+    "url": "https://framerusercontent.com/images/f9GQWWwU7VtEwKpoxQsXb4gTn2o.webp?lossless=1&width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-set-up-a-barbershop-booking-system-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-4590ec149bd6",
+    "url": "https://framerusercontent.com/images/czQCOo113r3UkaZ0um7iPIVsNzg.png?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-set-up-group-bookings-for-world-cup-watch-parties",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-1022294385f4",
+    "url": "https://framerusercontent.com/images/3Zp945Rmx4cupb4YUhz2srjRog.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-set-up-salon-and-spa-appointments-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f62150b0df52",
+    "url": "https://framerusercontent.com/images/eJGywMu6y2Q4hIjMyeC3sqVZHs.png?width=1024&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-setup-a-mountain-bike-company-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-f12f15c8430f",
+    "url": "https://framerusercontent.com/images/4jY4VgHD1aGsFOoqsyUH7wQEmHM.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-sync-google-calendar-with-your-shopify-booking-system",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-ccc7f297c551",
+    "url": "https://framerusercontent.com/images/cA5bUeXMno4W5ctoYp5klGJZ4E.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-sync-shopify-bookings-with-google-calendar-in-2026-(-troubleshooting)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-bf58864cdcdc",
+    "url": "https://framerusercontent.com/images/BaeqFk62jkq69rBpwquGma8.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-take-restaurant-table-reservations-with-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-a6de8d8c2e14",
+    "url": "https://framerusercontent.com/images/We8qdodnolHu6uanVYws8OHA3ZE.png?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/how-to-upsell-add-ons-during-a-shopify-booking",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-d307a53440df",
+    "url": "https://framerusercontent.com/images/049t7VqoIzXSVTFjVdRuWdIF5o.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/is-free-salon-booking-software-worth-it-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-838c07ff2a64",
+    "url": "https://framerusercontent.com/images/EMjfxW4XC90wZfnfgaEqktxiEw.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/key-features-your-shopify-booking-app-must-have-to-retain-clients",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-1a04528e20df",
+    "url": "https://framerusercontent.com/images/f7T9HnsZ8Q2scvVzGu6e42m4Cw.png?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/klaviyo-and-cowlendar-email-flows-for-booking-businesses-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-0c1e5349f753",
+    "url": "https://framerusercontent.com/images/LGIDAizyZk0fY4HfDb1wEX3Emo.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/launching-your-first-online-course-with-live-session-scheduling",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-789eb66b95cb",
+    "url": "https://framerusercontent.com/images/GRG8LJXXnNmPI5pUZse3lmVU.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/manage-cancellations-and-rescheduling-in-shopify-bookings",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-0a5256b6d6ce",
+    "url": "https://framerusercontent.com/images/upVDKbjfkPJivHynN9dw5KJ3IXc.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/managing-part-time-staff-schedules-for-barbershops-without-conflicts",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-d893b069992f",
+    "url": "https://framerusercontent.com/images/9T4RGOmDbUIvXEvqAtlVYlIgbgY.png?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/mindbody-vs-shopify-for-yoga-and-fitness-studios-the-real-migration-math",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-aa002c61eb09",
+    "url": "https://framerusercontent.com/images/w6S2zo45m39I2AOsUVJM3oDzY.png?width=1080&height=1080",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/online-booking-for-small-gyms",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-20459699f8f9",
+    "url": "https://framerusercontent.com/images/Rz5LodhaOdoAQb5IzpGYFy9AYbY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/optimizing-your-shopify-booking-system-for-international-customers",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-8afe9ae016dd",
+    "url": "https://framerusercontent.com/images/8i6Gz8oVA9NHDMi83FOvwSRkE8Y.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/reasons-to-use-a-booking-app-on-shopify",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-1bcdc6a7746d",
+    "url": "https://framerusercontent.com/images/b7opSq1G7beQWHnm2KMt3Gjk9iQ.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/shopify-booking-apps-to-optimize-routing-and-save-time-for-services",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-8636182c9d8c",
+    "url": "https://framerusercontent.com/images/4UZLwtrRnzg9xfIXh4hKfC0kZlY.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/shopify-booking-apps-vs-woocommerce-plugins",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-af17e5e28472",
+    "url": "https://framerusercontent.com/images/aD6TaEaPVYaTXWMH9j9F4d6nUJs.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/shopify-equipment-rental-app-how-to-track-and-manage-inventory-(2026)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-e46d7042c34a",
+    "url": "https://framerusercontent.com/images/JmBP1g1SzEKMzCm36Dr562pE.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/shopify-scheduling-apps-for-fitness-trainers",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-c7f331f5d5f5",
+    "url": "https://framerusercontent.com/images/9fC6anIYXH4SNsC06GXsjNQg.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/slug-why-shopify-service-calendars-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-6b8b51c27edb",
+    "url": "https://framerusercontent.com/images/fBKXqDtQ2fUC2I2pQSrC6Tr4m4.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/the-benefits-of-early-booking-app-integration-for-shopify-merchants",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-cbd69f4231d0",
+    "url": "https://framerusercontent.com/images/esOjSFhd3rLJRD0WgRQyP2qsZg.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/top-4-shopify-booking-apps",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-eda8d6f11c60",
+    "url": "https://framerusercontent.com/images/0dKssAkfklwLhcrNjXmif28dUM.png?width=1080&height=1080",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/top-6-shopify-apps",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-c7dcee859a2e",
+    "url": "https://framerusercontent.com/images/l0isO1UZ5f4BliHAvsits4a56G8.webp?width=1254&height=1254",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/top-rated-built-for-shopify-booking-apps-in-2026",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-944be6ee078f",
+    "url": "https://framerusercontent.com/images/48FCS2MLCzwu9T4z5jQwWHQM4o.webp?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/top-shopify-shipping-apps-to-save-time-and-cut-costs-in-2025",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-19163b5e54f5",
+    "url": "https://framerusercontent.com/images/r6aLNNCrm6tFgAH6182i96r6Smw.png?width=1080&height=1080",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/ultimate-appointment-setting-guide",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-70734e71fd3e",
+    "url": "https://framerusercontent.com/images/stiYcjLP4yUUQvVNnVSf8WHonYc.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/why-calendly-doesn-t-work-like-a-shopify-booking-app-(2026)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-b3f5f45e8bc6",
+    "url": "https://framerusercontent.com/images/RBxEJmGoMrXHPr8u5C4286Ov0.webp?width=1672&height=941",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/why-every-shopify-service-store-needs-a-booking-app-in-2026-(and-what-our-data-shows)",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-1c7aed130c81",
+    "url": "https://framerusercontent.com/images/lWajTPwlbS4iaGmnexI5Rxn0qU.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/why-flexible-payment-options-boost-shopify-booking-conversions",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "legacy-9b9bd2614cca",
+    "url": "https://framerusercontent.com/images/6D2ImEsiltQRIIWCC79OD9Tj9Y.png?width=1536&height=1024",
+    "kind": "cover",
+    "source": "https://cowlendar.com/blog/why-shopify-merchants-need-instant-booking-confirmation-now",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d4061d6f0d5c3b88",
+    "url": "https://framerusercontent.com/images/0DDniy1lkHXQaVhxba0mIa1dwI.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c03f9cf0614cb814",
+    "url": "https://framerusercontent.com/images/0RYWdSodI0neN6MKd4pqYTrZk.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5143c7814c1442e2",
+    "url": "https://framerusercontent.com/images/0wPNpzCL2xiHQlWZfGq86juRMWQ.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2c2847258b1aad36",
+    "url": "https://framerusercontent.com/images/0zqRrbOgTqgFEc9E7Ddp8MkKvw.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0908cad720d26cd3",
+    "url": "https://framerusercontent.com/images/1VXKSOxYKxClRUJuF3jzwbejIaU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ff6d007e50b07aaa",
+    "url": "https://framerusercontent.com/images/20WydMiVsYZQ3SOJtafWj5v5yZA.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5c5977ae922b5e80",
+    "url": "https://framerusercontent.com/images/2HDqPjRsSbDnyCBfgjFjfcfSNo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bef0b24eab05e8d2",
+    "url": "https://framerusercontent.com/images/2Ng5j5BSSFJjTuUk6woqaIAQmw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a58e2b197b9c58ab",
+    "url": "https://framerusercontent.com/images/2PERgTXCKPktXYuMvFQYWETwxcY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a48e8534271cdeae",
+    "url": "https://framerusercontent.com/images/2dJZEiH5cHeB49xxW8zL28Oc55U.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e4852083390196c4",
+    "url": "https://framerusercontent.com/images/35Ehym9bEOrJAplQBhC7b0QiwSg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e5a304158c887701",
+    "url": "https://framerusercontent.com/images/3BNw6OSVCQd83RYjrbD5yIOTAw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-63468165deb0ae9f",
+    "url": "https://framerusercontent.com/images/3EWUwb6CyFjqOufG2ULWJkFYnQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fac96aa03ffa0916",
+    "url": "https://framerusercontent.com/images/3MNIdilGJuguCwfvYZIua3zHY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-aff85fd68475d62d",
+    "url": "https://framerusercontent.com/images/3cCLlSUWFx09IGqbweTGaYej8.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9d3a6371047d0b07",
+    "url": "https://framerusercontent.com/images/40GrBjjYTZOKzYRWVumz4TDUVs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-304ab5c44eb60856",
+    "url": "https://framerusercontent.com/images/4BQyIAN67fRIt6P1ABNEWPf4o.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c60902343e795edb",
+    "url": "https://framerusercontent.com/images/4Sglej4mwyISFCnHZqBcVhbScHc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c715e6be8580eba3",
+    "url": "https://framerusercontent.com/images/4cz0yJmwLDGm5QBcifcn1GahnY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b69092280945e1a5",
+    "url": "https://framerusercontent.com/images/4gbiyDBETPn9LoX7eS03sSivr3s.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0b053265734940df",
+    "url": "https://framerusercontent.com/images/4mnKwHebA4PWsh9pQ4QWN5VaGJk.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e406c61ccf863d22",
+    "url": "https://framerusercontent.com/images/4sosxjPIkPUebWfJUmSivzkyg60.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bb601667960bfeb8",
+    "url": "https://framerusercontent.com/images/4t0hFQ2n6fdcDIP5iAIqNcQZiyE.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d7ef0b16ce500050",
+    "url": "https://framerusercontent.com/images/5LNA5no3s9BoNp56jnWk3slfRA.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-66ab9bbbc724c37c",
+    "url": "https://framerusercontent.com/images/5jmr4FmKo4LETpMDevdo676ws.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-37689ec5e62a9c6c",
+    "url": "https://framerusercontent.com/images/5o1nSH3lTZjQXyDxG6nUDm7KDU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ba0f7c1abb2543aa",
+    "url": "https://framerusercontent.com/images/5zPYdfd29KHjf7VrkDm91Ss5no.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-77626dcad2846e78",
+    "url": "https://framerusercontent.com/images/66a8ms0aQXA5HXSECQdpmlyUXdc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c11ff846358a68d1",
+    "url": "https://framerusercontent.com/images/6bIW6Hl1XfenaK6iF7lvPKiM7pU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a546a981ee1cc229",
+    "url": "https://framerusercontent.com/images/6zrYLP6e3QBlMyS2Cr1jrHf8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-046e1fb54cd4bb0c",
+    "url": "https://framerusercontent.com/images/75EuHLLJ0zSZoSUU1OfnsZbW2U.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-6fb8992992bf6f48",
+    "url": "https://framerusercontent.com/images/75IQS0iWMxmq163MNj1wwOtZhI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-74b49230a3724927",
+    "url": "https://framerusercontent.com/images/75bfYm5AcVPNAotWG20UUEAHQU.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5e05b981e1a39963",
+    "url": "https://framerusercontent.com/images/7IdRdTppRWBV8QFCCNlYEUPVnU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-25fe75efa8e92e8f",
+    "url": "https://framerusercontent.com/images/7ZoiRBj0yT0dCL3heTww3BBGOQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5e506108e3d82925",
+    "url": "https://framerusercontent.com/images/7d8fD5mcGmauLYCcdKW72aI5bs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d0f7beba11f2ac5a",
+    "url": "https://framerusercontent.com/images/7iyJo7rvNZfZkw9V0UWfqndM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-890197fab00974ed",
+    "url": "https://framerusercontent.com/images/7ntyHMLC2EC1Cgax2Spi1zoQFbI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-af3543231fd41bce",
+    "url": "https://framerusercontent.com/images/7tODCseKOmfiqxOGUOByeFn4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5ff794302f455ef4",
+    "url": "https://framerusercontent.com/images/8EwLvpExqSoxZeqhJDU7oz2AFuU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-6807876e56d5c204",
+    "url": "https://framerusercontent.com/images/8O3deh3MkRXz2kFTMkVfTFpidM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2c4b35341e6ea4ca",
+    "url": "https://framerusercontent.com/images/8vkqJ6kF5smKAFH8dF7UIkUk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a717977b40d14b89",
+    "url": "https://framerusercontent.com/images/8w2FeMSsYInX2ZjhZ9UbEb8F4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-246d34eaff4350c9",
+    "url": "https://framerusercontent.com/images/8ztdC2LyZWieU7TNFTRyV58Ioo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f56066dc44a4952e",
+    "url": "https://framerusercontent.com/images/974wJIlFaxYhyYnWC23C98nYHRE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1c0fd81982aa71de",
+    "url": "https://framerusercontent.com/images/9BBbwZ6Wg36dUGmHJLIYKCF80A.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8ad0321810b00596",
+    "url": "https://framerusercontent.com/images/9BVyYURKHuxBvAbGPHjpJMzxr8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b95f610f3a103a0a",
+    "url": "https://framerusercontent.com/images/9HzymKNAuJGq80hWNBKiECKPZg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c465bb86006331be",
+    "url": "https://framerusercontent.com/images/9XMuiaiuRr921LE6Mz3BYT7jY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1f3949cec913ac23",
+    "url": "https://framerusercontent.com/images/9mUllS3O85SeJsX8ohTG3fQpZU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b5c0fb2e84525800",
+    "url": "https://framerusercontent.com/images/9sW75NSv4sZzOhORCJAOGKXg6xQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-131744e71680ba94",
+    "url": "https://framerusercontent.com/images/9u0WphX6XVYodaD57IzMkYvk.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a555531dd7465906",
+    "url": "https://framerusercontent.com/images/Ar0C3UYIGKOp5WTRKf71H40bKA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7537433c6b317dcc",
+    "url": "https://framerusercontent.com/images/BPgFjd74IAA9LPIfDaA68Vep3FY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4fb9bc0582786432",
+    "url": "https://framerusercontent.com/images/BvMby6iSbf6UOq7uwTeTvaKnx2I.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5992495868499ce4",
+    "url": "https://framerusercontent.com/images/C3PlJ4xRQ0WO0thQR3c41bPA3Fg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-31918264b01d76d6",
+    "url": "https://framerusercontent.com/images/CCeMYdHWeAOZS1HiB8AL3ybCgg.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2626f6a620d336b4",
+    "url": "https://framerusercontent.com/images/CJqoBJcBwwFQeRy1jJ2jk6nHfU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-045a485b6157ea9f",
+    "url": "https://framerusercontent.com/images/CPoSorrrbOCdtXs6NFFGgcgqqg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ebdb6df31cb90474",
+    "url": "https://framerusercontent.com/images/DDVj4a72vKC340y0h6UwQHe7izM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-db0577dfcba31cee",
+    "url": "https://framerusercontent.com/images/DqeNoKyKjrmUbKPklZ9NFDd4ilE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-349362833f77ba58",
+    "url": "https://framerusercontent.com/images/EjUlftreGEhugMzBokzSN5Xk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bbdc9a1ce6dc287a",
+    "url": "https://framerusercontent.com/images/EqFxmPgCcTYqUqqZwWl4mUQ2KnE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b1b8bf804583c731",
+    "url": "https://framerusercontent.com/images/EuYUkVcC4806x3zlPmVi1X9q2w.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0e9aafd53eeea7b0",
+    "url": "https://framerusercontent.com/images/ExPVyI0PQ92AKqkVbsKcWAz6EOw.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0faa28d3282e95cb",
+    "url": "https://framerusercontent.com/images/FH6U4HSuzXHb3nNBTyNFIms7hGs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-aa01978acc0d6001",
+    "url": "https://framerusercontent.com/images/FiGp0cTrRDPGitRdIzDKOOVoBc8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-15982f5960d06854",
+    "url": "https://framerusercontent.com/images/Fpe96dczCr6P7wW23Gz8RqDwgn0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f470c06b59bc9be1",
+    "url": "https://framerusercontent.com/images/FwV4PZwe9yy4pcHcEiSVkcRsXWM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1defebb896e516a4",
+    "url": "https://framerusercontent.com/images/G9UEXEz2QLm18RaAnRVEczGBzI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-237e1acda2d6efed",
+    "url": "https://framerusercontent.com/images/GT7j8FrZTTcshiC0cgCzxifssQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b7d57460341b92cd",
+    "url": "https://framerusercontent.com/images/Gl9L7NZq9Ih24uANaG4x7ahM.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bb4c0a1628bc2f23",
+    "url": "https://framerusercontent.com/images/HYrwWJfyz2ey0joiUVYnUFnpsY0.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0c5f644756dd8cca",
+    "url": "https://framerusercontent.com/images/HeQTBmxXn2mjDHM23SVCoANuOqw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-91d94814e47b1e8a",
+    "url": "https://framerusercontent.com/images/I2UBC5gdhIQidEtBR6qfgvmZNc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-aafb0dbf3f41c3c1",
+    "url": "https://framerusercontent.com/images/I3GdyOw6xxNS6tjQ0hmJQd734.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bdd4aa9b93fff71d",
+    "url": "https://framerusercontent.com/images/I7xt93EZKdmK4tyvLKE7umQ2gk8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-43e7bdb11d61f25f",
+    "url": "https://framerusercontent.com/images/JWwLxpCnS3lOxMH9u9M2SySN2Q.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8c64aa7205bab1e3",
+    "url": "https://framerusercontent.com/images/Jkzco2EWoeGmcKxSsl7bIn5MfA.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e0a1a6e92e619ad8",
+    "url": "https://framerusercontent.com/images/KCsgoLcmr9eJqiFEYP68mIW42Nw.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9a42d2d65603df08",
+    "url": "https://framerusercontent.com/images/KnDEzjvcl2HZY0r1ImEglD53s.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2edd621b5fb9f3c0",
+    "url": "https://framerusercontent.com/images/Krt9PGGHuhl1TyaydQ2yq10WEJ8.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8480fbee1b823407",
+    "url": "https://framerusercontent.com/images/L7VX667NhpIi0VViMIPlEc9kRw.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-beb5b63aa0f24b76",
+    "url": "https://framerusercontent.com/images/LNY9E8QvdrpnUEH98GldYGM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e70639f2598ba2e7",
+    "url": "https://framerusercontent.com/images/LPnrPYgxZJgFPD3uAAdYtBgK8.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-070c9b545a89b589",
+    "url": "https://framerusercontent.com/images/LPxLIT595iUDfG9NKenwZ5ecpM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7480d4e31d653706",
+    "url": "https://framerusercontent.com/images/LgpOS1mOmLx9psVNgjRymc7wk4E.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-70592750073b0ab7",
+    "url": "https://framerusercontent.com/images/LmoObiEFccl1GgUxE2UC1NSaE.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f7b00f9ae91948ec",
+    "url": "https://framerusercontent.com/images/MAraOaiO2jU8Hj0TkPzbBdVuZ0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1af015c1aa1ef5a8",
+    "url": "https://framerusercontent.com/images/MGZ3fG7noFF2XBV6niFA2c5F3s.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9491ad90303b45fe",
+    "url": "https://framerusercontent.com/images/MMKmxaMXs1Xr7hsqJkZ8cvw1w.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-23b35c1cce79022a",
+    "url": "https://framerusercontent.com/images/MWY16WWpqT62jJ1CywkQLllNm1I.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-90de1a17b46d4a79",
+    "url": "https://framerusercontent.com/images/MfV6xMNdec0PlcxJFRd751FNsCI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1b55a61bfb701a36",
+    "url": "https://framerusercontent.com/images/N8v4Fi4By0AZfRuXmzlzL9hXdYk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c6fc190101aeb3d8",
+    "url": "https://framerusercontent.com/images/NlR0xWId0LRetJxV9pdmRdtaRA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3c614c904ac5baae",
+    "url": "https://framerusercontent.com/images/NuM4Ll2J2B8sO5BlwQJlNrug0E.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1aa93267658ec4ff",
+    "url": "https://framerusercontent.com/images/OjRGaIehaOX4QwrEkwu0VbLceZU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-162ee19c616646fa",
+    "url": "https://framerusercontent.com/images/P3X1M7KfqA0ObTmsUUTtwYnKA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d2234884f8ada7c2",
+    "url": "https://framerusercontent.com/images/P7JpBvJyT4tTexVEEThpMfexnI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7a2902fe8c96fd46",
+    "url": "https://framerusercontent.com/images/PEUCNbeAJXLaGznJ6A9Iv2OkH1g.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a4b7b42e19b9f0d9",
+    "url": "https://framerusercontent.com/images/PObm1S8zstjjNqsNFzQcX8t0.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3ba1ef5da8a2cd1e",
+    "url": "https://framerusercontent.com/images/PWyuo5XFFfQtkU8AUP6yXbmSfE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c6cedfffd3857406",
+    "url": "https://framerusercontent.com/images/PYJMS0jbRQdm6UMS1cnrfG9Rc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-442376f2de2a0641",
+    "url": "https://framerusercontent.com/images/PayyK8NqnsT3QxsKnK8yAKDDq4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e06ff6cd063145b5",
+    "url": "https://framerusercontent.com/images/Q8yJq2pd2BHn8Qc2NMHIxhgPTw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4fb3ad1a1b0602f3",
+    "url": "https://framerusercontent.com/images/QZA5wenOFeRpqV1bE2IYmMfHLLE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f78263f7eff1156e",
+    "url": "https://framerusercontent.com/images/QzDN8zsKAEEIMBZ5sh9WJSuJfzQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a28d34f31fc3fe6f",
+    "url": "https://framerusercontent.com/images/RnilPr3f1gmO8fmrPsSp4hlCk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-843eba114c60b9fa",
+    "url": "https://framerusercontent.com/images/RrVKlvtRCNTMdvmee5ZLeSov0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-73aa041e274fd62a",
+    "url": "https://framerusercontent.com/images/S7JXdK2CWVLK9dGONjTQHJN6rM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-848e4b76c9c18a39",
+    "url": "https://framerusercontent.com/images/Sa3BjQ8plK6vwecW2pUJI720.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-81eb3406cef2d8e2",
+    "url": "https://framerusercontent.com/images/Sbud7ueeAeGBGVSZlcGnKoeOH4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7732a4e39f47aecb",
+    "url": "https://framerusercontent.com/images/SzJZFdyoS21eNJWCvmG8dnb9Yc.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d8eb2d50449339d1",
+    "url": "https://framerusercontent.com/images/TDcTvAYJreklSa1ciCibVhhbb5Y.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3ebfd48610e31930",
+    "url": "https://framerusercontent.com/images/TR76fJJnChnhcSSZEcm0Y71lw4w.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f1270ffe49177316",
+    "url": "https://framerusercontent.com/images/Tu3iLq5KrOzLl8abQsThL7LnAs.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-53be8234ee4b7a31",
+    "url": "https://framerusercontent.com/images/UBYmVcCaElpxU1E7vJps0or11sg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-72d49e5871acd721",
+    "url": "https://framerusercontent.com/images/UKV5lhHs6gi2hMgTceo8rsCX7Ps.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0a0d610beaa3576a",
+    "url": "https://framerusercontent.com/images/URlWSEvs3RhDFqQ8Bvb2BoVHc1E.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-cc9f2a73085d89e9",
+    "url": "https://framerusercontent.com/images/UZ6t86R66PQA28NPo0hqog2oAk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0cd02bf6d0c3865b",
+    "url": "https://framerusercontent.com/images/Ujc55e9LZgsCo5joTqZ2RAnw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-abfd9fd3836a24fb",
+    "url": "https://framerusercontent.com/images/UnFHM1eLPrcWmtQ6NFXWyybOhE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-280e63d3ea01d03a",
+    "url": "https://framerusercontent.com/images/V0i8gb8cWO60GKS16hiNg5PoqVA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d610198b391ba10e",
+    "url": "https://framerusercontent.com/images/V1ylVVZ9KV3bdpUDylykudfOnl4.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-383edb738cbe412a",
+    "url": "https://framerusercontent.com/images/V5LYpGV0idyS4E0NBQdPkxsgQhg.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0d753726fbb2dd52",
+    "url": "https://framerusercontent.com/images/VUI1bYFaXagmgBm3xPvTUKawigs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-98c01ecd9615df46",
+    "url": "https://framerusercontent.com/images/VZCaUNObkB6WNKt6hc0J8pQ1TJc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9f6e569961431fd9",
+    "url": "https://framerusercontent.com/images/VkYQjtFGWyT0bKBmeVEAvJQYYo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7dc6b236e29337b2",
+    "url": "https://framerusercontent.com/images/WLJPS0EjznHGA5vm4Dwth3KZ8w.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4c63ba95d1275976",
+    "url": "https://framerusercontent.com/images/WPFuXVgZDa18xsBf23pykOBZNoc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-53f30e7b4fd44f47",
+    "url": "https://framerusercontent.com/images/Whn7SGQC2Iawi4IxksqP0KUSQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e78a861d5e8ebf54",
+    "url": "https://framerusercontent.com/images/WljOKztFVbu0ZbQ5zmA7dmL7X8s.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-986e4c0fb5ea4874",
+    "url": "https://framerusercontent.com/images/Ww36ePRkSJPWKm8gJKUZXr56MOQ.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-31380e6e2646fb9a",
+    "url": "https://framerusercontent.com/images/WwsHyzIQdCgwxI2YnmuaPUnVzc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-dc2bf889fdf151ba",
+    "url": "https://framerusercontent.com/images/XrIK9ARIvzya08rV6IX6cNDjiTQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-51a10dc5c9f7b28f",
+    "url": "https://framerusercontent.com/images/XvrnAjAsQiQahG9nK3LSyzHcBg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bcee2dfec9fa99b6",
+    "url": "https://framerusercontent.com/images/YHIwRcZ3PX9bGYTopkkEYpQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-93a3e856045cd895",
+    "url": "https://framerusercontent.com/images/YJYyX4eC4sDHfSkCgsBBYZXoBNU.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0da22083e11b43b7",
+    "url": "https://framerusercontent.com/images/YN6hATQ8doWJ4N4N0hyTHVLPj4.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-698491fe482a1bf4",
+    "url": "https://framerusercontent.com/images/YdnflotXoNmYKyFaHQv4mjWPbmI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-277da6e05142937d",
+    "url": "https://framerusercontent.com/images/YpYIFV1dmenpNlNMkq0xumWxXA.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f2e5079c17bf8733",
+    "url": "https://framerusercontent.com/images/Z4qzzIE7qJYLA8xstddwctRb2Q.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-eeeb97836f62ea29",
+    "url": "https://framerusercontent.com/images/ZOAK3rcMx1DdIH0ZmkkzSpEMow8.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-864613630c2356c0",
+    "url": "https://framerusercontent.com/images/aEgrUwliAIxpxWxoYGK0KfwP30.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a854e65ca940c040",
+    "url": "https://framerusercontent.com/images/aJd2LyVB5Pz4ufy7BRrVG232QI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-66b07b965c83509b",
+    "url": "https://framerusercontent.com/images/aXXI1wA3yuITn0oJPW3FxPBiB8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-78aad7db76eb1f9e",
+    "url": "https://framerusercontent.com/images/aqHy8WGpjXrQwaGFJg0RFOpU8g.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-20f0a6af53ec8edb",
+    "url": "https://framerusercontent.com/images/bDOVFumuoxiD2g9JQ4zQGQyIn08.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-91d2d7d611103c75",
+    "url": "https://framerusercontent.com/images/bPctXwyNxHxZlItQeLgOnRl38.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9467ee83a4979d61",
+    "url": "https://framerusercontent.com/images/bWF5oxAiTZ0c8jqwQibRP3d0Ro0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-55de9ca43da65450",
+    "url": "https://framerusercontent.com/images/bt37HKS1ixmA56XZ6DSS6aMiU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fcbb2b79bb479011",
+    "url": "https://framerusercontent.com/images/cNmPNBSYgDg2o75RA7l9KpoUDcg.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f6e6cbb23baa0bc9",
+    "url": "https://framerusercontent.com/images/cQa2bol7rwmJ9MEjktfLISy3w.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-324259ddf07eaa45",
+    "url": "https://framerusercontent.com/images/cSFhsh1smpDwyQvRyfTONL5xGOo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fb5b351628c774c7",
+    "url": "https://framerusercontent.com/images/cY3NmT7quJJpB8FXbh2TeKdD1cQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0f98ce51323fda75",
+    "url": "https://framerusercontent.com/images/cZmPOCnfhw5KJUPQaJqboHvQ28E.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2bd95568ac9cfa85",
+    "url": "https://framerusercontent.com/images/d7tz8KWyi4s1NZ3Rlr0owpH1s.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-04dd2a353ab49b0a",
+    "url": "https://framerusercontent.com/images/dS7isph2wuSO8IDBCC44kdtO1F0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7bd9400ac6519ff6",
+    "url": "https://framerusercontent.com/images/doFe7tO9KErlq9Ohzap4Lg0bWYQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2f735cbfaaf98cb3",
+    "url": "https://framerusercontent.com/images/dr5XwNQebh7CczLOHvETR02aadQ.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0e8c12ff38e0f099",
+    "url": "https://framerusercontent.com/images/dyxYFRkvJnnPFO5SI3goeyGH7A.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e1cc4f684920c76f",
+    "url": "https://framerusercontent.com/images/e29YG7PpPsae2ZTeZRJu7D2NM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c2a7c410e2ec9741",
+    "url": "https://framerusercontent.com/images/e8I19QOH4v0UnIBpc1XSjm5V9g.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-6188f5714da2fb83",
+    "url": "https://framerusercontent.com/images/eN0NYmg4v9s9xTYSMreLwpJk6s.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8889313ca14e7087",
+    "url": "https://framerusercontent.com/images/eQ7uREBMnPS553roqyoG4D568zc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-632d14cab59fb3b1",
+    "url": "https://framerusercontent.com/images/eVuwLlvo9nONkmBIdLhigDQ9dY.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ed57fdd7150486e4",
+    "url": "https://framerusercontent.com/images/ehSc6ZaJjiuDexIPGRWM0mpZcqE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b80d74415d150176",
+    "url": "https://framerusercontent.com/images/eoF0qze7AAvpDVZ5j9FUCEDXTkY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a56702ed4aa17d68",
+    "url": "https://framerusercontent.com/images/erl9eMmoPXo3ZETBbvEwW3mGg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8e1e77ce8e4e5825",
+    "url": "https://framerusercontent.com/images/f7lAxSZzyI3Y0AkUpURR1lnJxk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-256ae25bd9f20850",
+    "url": "https://framerusercontent.com/images/fYGBtpiAVfTmFhps1SJ7PSrrw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e8990119a165b8d6",
+    "url": "https://framerusercontent.com/images/fsW6PmJxINCIrcv7jbXmGvDUew.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8f9b1ea3ed619636",
+    "url": "https://framerusercontent.com/images/fx5gFoaggJUFWTzZwLX7uYis2c.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-aefa0f711114fd43",
+    "url": "https://framerusercontent.com/images/fy2Mdpct6Ka2n2kf7XAoUZ38Y5E.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-acc05f468c58de72",
+    "url": "https://framerusercontent.com/images/g4jPr2oGp8RubdGvgksUsDs9ww.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-34b6cf1bb36bcafc",
+    "url": "https://framerusercontent.com/images/h1NeyqsurgdHO5880reJ4cdnusk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-6dfea0d7bafcd485",
+    "url": "https://framerusercontent.com/images/h639oyLfqh6c0i1pltOocgPlQo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-156a013d02c4de5a",
+    "url": "https://framerusercontent.com/images/hfnjgn8kp2WPxVAWwecSAEVKu4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ba8f784091d59822",
+    "url": "https://framerusercontent.com/images/hh35ACn2yD2WjVFuTvaXTk9z9A.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-29a0709df43f662a",
+    "url": "https://framerusercontent.com/images/hqoCeOamSyMEFrXvzExeRqa988g.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-381198d5d9124bf3",
+    "url": "https://framerusercontent.com/images/ieUB9GF2g6CPxFeNLsP1I53fo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-31d833dfc793e71c",
+    "url": "https://framerusercontent.com/images/ir1pQrjtf94UCQsWmoKzDaU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-845968b49d9605b2",
+    "url": "https://framerusercontent.com/images/j6OzoWwkmNE6a6zoEUnaH7Cqfw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3e6eed1020781c26",
+    "url": "https://framerusercontent.com/images/jspq9YzP0N4sF2TJ1SutAWmGo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5c552e68bf3414c9",
+    "url": "https://framerusercontent.com/images/kCbCAbltCT1Liapflscvs8IocKI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2a6e1ebedb979f30",
+    "url": "https://framerusercontent.com/images/kHbtH8oeyVaDcMzwPVnjSrIyV3o.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-93549857c3be44b3",
+    "url": "https://framerusercontent.com/images/kMKM0EeFDkiOBH7Osy3fMvodM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ddc1c6991a500a01",
+    "url": "https://framerusercontent.com/images/kNJOnn3AlOHF94UVKekgeoz1s.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-56007604c9d299d8",
+    "url": "https://framerusercontent.com/images/khmdnGy4M5WtmdXQkEFBY4bBTq4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7a3369e9c9c4bbeb",
+    "url": "https://framerusercontent.com/images/kiK3z3jNIsjQptwymC62JcPythQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4235a55b3e9c09dc",
+    "url": "https://framerusercontent.com/images/knqSHsmnDVW87dHHued91xovwlc.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-609a44594f95c612",
+    "url": "https://framerusercontent.com/images/kwJnJsZGJvOkRExCtq3nf0CeA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ba2730017a0a4dc1",
+    "url": "https://framerusercontent.com/images/lBvx57dvvycM0qP6KjrvI5RSjes.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-81b970f2a942ae52",
+    "url": "https://framerusercontent.com/images/lL9n3a0J9b5WdIVLMyV6eh7Wp0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9993d86b6c616d50",
+    "url": "https://framerusercontent.com/images/lYvsXU5bZCoYiiV8kgcwakFQs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e33c2f82e6324062",
+    "url": "https://framerusercontent.com/images/liXPjo473gEIwNd2WfX1MGD9XY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f3deb308c7313aee",
+    "url": "https://framerusercontent.com/images/loIWPlEo460KkxROs7C4e9buOVc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e5fe7113ddc62b1b",
+    "url": "https://framerusercontent.com/images/mYOOpLKYd0Inu0rJ52q1pesX9k.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-56dc499b4b722c59",
+    "url": "https://framerusercontent.com/images/mdNxkqgLFF6tUw2xI1u3b29JGY.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2edd135fdc549a89",
+    "url": "https://framerusercontent.com/images/mme0bjXnQVLPr5EoqLNGdNE6o.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d47d1b2a5bdcbc72",
+    "url": "https://framerusercontent.com/images/mqhrX70oH4PUivl5AQTZymObqMg.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-94ab1a15a2daf5a2",
+    "url": "https://framerusercontent.com/images/mujaNkUjTJIhdeQzhghwYjkNQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a4fbe3c99841e00e",
+    "url": "https://framerusercontent.com/images/mzhRhr8J01ukB7wmK579b4oaE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-28145382becfac0a",
+    "url": "https://framerusercontent.com/images/n2IY6NXeosXHhnRAydcUbjzXIY.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-41ba006fe86d98cf",
+    "url": "https://framerusercontent.com/images/n4TDMs1vmGNS0ifl5jelHh3Enm4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-27274d1a8f6484e8",
+    "url": "https://framerusercontent.com/images/n8512gRMHzklrjBFsSpeYVhFY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-84d7377f8dd8947e",
+    "url": "https://framerusercontent.com/images/n8M5Bysn7x5E2GZeYSBydDaMA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7b7eed79456f9cb9",
+    "url": "https://framerusercontent.com/images/nbPAP2M8oOG4cL9pEZaidU1Hk.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-dd312a08b581be1f",
+    "url": "https://framerusercontent.com/images/ngbzcvvthgmG7rUydxGPa4dypY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-625e94cda55d8a08",
+    "url": "https://framerusercontent.com/images/nz3UszH56Hi0hr0Q8G5uYRjQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4076934dfe47361e",
+    "url": "https://framerusercontent.com/images/oIjd2tKlPDO5C3GC4ydPIifOCzU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8360d3f03cd9ee1f",
+    "url": "https://framerusercontent.com/images/oMPJCzaMFEahb4Ic0hSmf2NlI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-dc9d17fbcf059e73",
+    "url": "https://framerusercontent.com/images/oSbY9SWjr4DoR9JxY7NlqtZEk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2793bd8397c19fa8",
+    "url": "https://framerusercontent.com/images/oxl7pcivsoaT0bcHiMBBuVyoJnE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fc3be197e7dd4726",
+    "url": "https://framerusercontent.com/images/oycsNq1n1B9aL41u1w7hU1Y3TPY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9817a10947b3a8c2",
+    "url": "https://framerusercontent.com/images/p8IxBaxMFX7pMJj35Dn2rqfXP4g.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-56e69ef10fc40d5e",
+    "url": "https://framerusercontent.com/images/pIfGA0yXk1iTseyDZuTJXyLGBaU.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b75ef72350f680bc",
+    "url": "https://framerusercontent.com/images/pIvP5BJBIAfKOye2VFHXAhr4I4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-635d260062cb58e6",
+    "url": "https://framerusercontent.com/images/pOSlmjrtNVfXXGB0tZsq4sWCVE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-cdec362717ac57ff",
+    "url": "https://framerusercontent.com/images/pQ9T0qixS72TrkERAbNSJNgc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b6f60d989389b65d",
+    "url": "https://framerusercontent.com/images/pnlXc8vFzYoxvyfO1oyxs5HhR1c.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b9b8f478f5cad9af",
+    "url": "https://framerusercontent.com/images/pp6zwvd1g8on2GgF63dplyvWSoQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9b7b94f4dc1ccc88",
+    "url": "https://framerusercontent.com/images/pumk3WXyAbSrA2NzCFEkCFDQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-37229a3fc3437119",
+    "url": "https://framerusercontent.com/images/q2kU4FVH1wf0YUxbrtyODOBDig.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-1023a39f4a553776",
+    "url": "https://framerusercontent.com/images/q4vnPXROXTEUxMuH3dK9fLhpJGM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3d41073a534a2732",
+    "url": "https://framerusercontent.com/images/qD4dMr3azkigc552y5xqe8nXPo.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e60f5ff86bcc9f31",
+    "url": "https://framerusercontent.com/images/qIT01ZP2ROeJV94XYPR5Hjdue0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fc30802684231bab",
+    "url": "https://framerusercontent.com/images/qTUlVdjfWFpZDDWFhZijE42o.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-84846605ae8db64c",
+    "url": "https://framerusercontent.com/images/qeLlW0G7LUIxSLvMUuDnyzuYqCw.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7b0c2e1ef251af1c",
+    "url": "https://framerusercontent.com/images/qiFnw37GxmKPJIjfO7cmeOYoVc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-38712a3468ff53d5",
+    "url": "https://framerusercontent.com/images/r31EoXenRhWx0ROxslqD5oKmspY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5284110c2aa21ad7",
+    "url": "https://framerusercontent.com/images/r36eitK7ZeH6s7nzukoiR7WtqMQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-abf7e3ac8df65108",
+    "url": "https://framerusercontent.com/images/r5KGt8F1pnJNegDGoKz2hXTblnE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d55010b769b37c93",
+    "url": "https://framerusercontent.com/images/rMqrM83zeGU6Cod5vzgwwqTRyM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fe01f2d21cb73d25",
+    "url": "https://framerusercontent.com/images/s5pqKFrsNUsToPm2YyOUNgNkg8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a37b3d37adcdcea0",
+    "url": "https://framerusercontent.com/images/s80878Toa9dAmdDuHKizEZWeE.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3733cfdab3e1708c",
+    "url": "https://framerusercontent.com/images/sD5AytSgkY8E2jzcMX1ymOV344.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-bcc3a26499c43bb4",
+    "url": "https://framerusercontent.com/images/sa0ZEyM3fCfabthC4EK7sqqfc.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ffa8d5f25ee6565b",
+    "url": "https://framerusercontent.com/images/sky3XwbY3SyZ3k0fpN7QOPAQ8Dk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-5e64162f0cf399f8",
+    "url": "https://framerusercontent.com/images/swWnAIcGHoqwhpZWK0eQy3eeOw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-f3a65de21bb5197e",
+    "url": "https://framerusercontent.com/images/t2cVU2LLpXeOqIGwISEbD44avg.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-dde6b2c19b6fa9c0",
+    "url": "https://framerusercontent.com/images/tAmDw1CX3127mtHiGVYL0bFVIs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-091ced8eec0c32e2",
+    "url": "https://framerusercontent.com/images/tGeISusAEpFK2GDGfvg7TMGQv5k.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fb95ac36df9ec333",
+    "url": "https://framerusercontent.com/images/tHgYXjRKNRab7fGbVKnGDOdj53A.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-12d86958c11adcbe",
+    "url": "https://framerusercontent.com/images/tTv1zYdWlkjruzGNLkeOP0IUOo.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-05452450ea2c4a58",
+    "url": "https://framerusercontent.com/images/teE3vaoyD1V6JcQCOatC8sJMqus.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-c6a38edf4775fbe9",
+    "url": "https://framerusercontent.com/images/uj2lwZkys4maHn3A2nfliaSJSQ.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a6c9ef0622b585cb",
+    "url": "https://framerusercontent.com/images/uqHzaC7bKvJ0NWb51QiZrQOjjXk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-dac1a0805cb2afdc",
+    "url": "https://framerusercontent.com/images/uqSr0J9eGjYDbpCWcZDy7Zwqe8.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4ab9e50650a3bcb4",
+    "url": "https://framerusercontent.com/images/vHLL21Fp2dXFndAA1lI6K6PKT4.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-6f8f9cbfd8583fe8",
+    "url": "https://framerusercontent.com/images/vNYTdrei6k6g3xVkIBYbW0W5eN8.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-9efeababca2b63ef",
+    "url": "https://framerusercontent.com/images/valsZ95ptLHKiqcQCWhP0VnAwNI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ba5dce56f0f394f0",
+    "url": "https://framerusercontent.com/images/vkdpCUTNsSgSzDUHpwGYONlOUk.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-3d437a6ef4a5460f",
+    "url": "https://framerusercontent.com/images/vrKpmcnwuSvW2hMFDSaiDoCFMFM.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-8b17fb937a6f6e78",
+    "url": "https://framerusercontent.com/images/wSL6NwWnRlPb1fZptMac7DWg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-cbca3817609306c0",
+    "url": "https://framerusercontent.com/images/wb6mfJhnAZ7TOQkihMCQjOOWI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-ef2b195723c35787",
+    "url": "https://framerusercontent.com/images/wyElfP8lmuBnc4KPFwYUnUY8Uw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-e4ae4f582f86de52",
+    "url": "https://framerusercontent.com/images/xKScU1sMM5EjLVqTkTKONNxInw.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-324954f302022736",
+    "url": "https://framerusercontent.com/images/xShX6YcFAr5GW46tZo1S7ko.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a0b4595802c8f49d",
+    "url": "https://framerusercontent.com/images/xfUY8XKT9RP2Y3t2CK2KKifJB0.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-d8c5fdbf6d5019a5",
+    "url": "https://framerusercontent.com/images/xjPN1IElq1Xv4ximSXKAAZAeqU.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-76fcdc6e038f6b79",
+    "url": "https://framerusercontent.com/images/xyiaSyuAIe41sAK9GoXcOjm1vOs.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fb278ad7520f7c05",
+    "url": "https://framerusercontent.com/images/y6sfXxb8WNCgJufrkRPC1Eacv7Y.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-dc4d84bfc2ea996b",
+    "url": "https://framerusercontent.com/images/yAkuCNm8eDXRbsAjWUpIyXqng.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-fc31b10698293a7f",
+    "url": "https://framerusercontent.com/images/yFPAteTHNFXpABp6CquM1xHX8.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2cdb4053ac303181",
+    "url": "https://framerusercontent.com/images/yRElRQxdSXyvCesop6YBjyY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-be5387db77accdce",
+    "url": "https://framerusercontent.com/images/yVXjK0rcEYfmATTeIsQr9llxnI.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2400e6fb5b2583c1",
+    "url": "https://framerusercontent.com/images/ysCNKdE32VGnN4T4ROYZZMvMuvg.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-4dafc92961f52442",
+    "url": "https://framerusercontent.com/images/yu8K9D9So3nJ47fe5Zraqond8Q.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-0dd70affecd8a4bd",
+    "url": "https://framerusercontent.com/images/yvVuyizUSy5cAf6g5SUdknP7coI.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-7e13882caff27d24",
+    "url": "https://framerusercontent.com/images/zF7tytMOi22a22pvRyYeMUyos.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-b2b57e68651e495c",
+    "url": "https://framerusercontent.com/images/zH0PuYxhmO8USHYjGngtUQLpS30.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-50ce729523cd4534",
+    "url": "https://framerusercontent.com/images/zHcstjynBJDwGDvM5jO3sgDtgjs.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-364ad06be79bbcad",
+    "url": "https://framerusercontent.com/images/zSuq0GjSmESGwsRAQpTyVcvCsl0.webp",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-a01d2c5722f070a8",
+    "url": "https://framerusercontent.com/images/zfGyeqIu7AvEst1TP6ugOaY5UY.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "inline-2cc81833f23ddb48",
+    "url": "https://framerusercontent.com/images/zxBCUAajPu17ELV5mfznbVdCA.png",
+    "kind": "legacy-inline",
+    "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  }
+]

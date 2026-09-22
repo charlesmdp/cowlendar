@@ -1,0 +1,802 @@
+[
+  {
+    "key": "cowlendar",
+    "name": "Cowlendar",
+    "listing": "https://apps.shopify.com/cowlendar",
+    "rating": "4.9",
+    "reviews": 2236,
+    "price": "$13.99",
+    "free": "5 bookings/month; all features",
+    "model": "Booking revenue tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "5 bookings/month"
+      ],
+      [
+        "Starter",
+        "$13.99/month",
+        "Up to $1,000 booking revenue"
+      ],
+      [
+        "Basic",
+        "$29.99/month",
+        "Up to $3,000 booking revenue"
+      ],
+      [
+        "Growth",
+        "$59.99/month",
+        "Up to $10,000 booking revenue"
+      ]
+    ],
+    "focus": "One Shopify booking workflow for appointments, group sessions and multi-day rentals.",
+    "bestFor": "Merchants who want the same feature set while their booking revenue grows.",
+    "tradeoff": "The free plan stops at five monthly bookings. Paid tiers have booking-revenue ceilings: compare the applicable tier, not just the entry price.",
+    "features": {
+      "freeLive": [
+        true,
+        "5 bookings/month"
+      ],
+      "unlimitedFree": [
+        false,
+        "5 bookings/month"
+      ],
+      "google": [
+        true,
+        "Included"
+      ],
+      "outlook": [
+        true,
+        "Included"
+      ],
+      "groups": [
+        true,
+        "Included"
+      ],
+      "multiday": [
+        true,
+        "Included"
+      ],
+      "deposits": [
+        true,
+        "Included"
+      ],
+      "bundles": [
+        true,
+        "Included"
+      ],
+      "pos": [
+        true,
+        "Cowlendar product documentation"
+      ],
+      "klaviyo": [
+        true,
+        "Cowlendar product documentation"
+      ]
+    },
+    "docs": "https://help.cowlendar.com/"
+  },
+  {
+    "key": "apntly",
+    "name": "Apntly",
+    "listing": "https://apps.shopify.com/appointly",
+    "rating": "5.0",
+    "reviews": 1621,
+    "price": "$5",
+    "free": "One service, one team member; unlimited bookings",
+    "model": "Feature tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "One service and one team member"
+      ],
+      [
+        "Starter",
+        "$5/month",
+        "Unlimited services and team members"
+      ],
+      [
+        "Pro",
+        "$9/month",
+        "Groups, calendar integrations and deposits"
+      ]
+    ],
+    "focus": "A low entry price for service appointments and team scheduling.",
+    "bestFor": "A solo service or a team prioritizing a low fixed subscription cost.",
+    "tradeoff": "Group appointments, custom questions, calendar integrations and deposits are listed on Pro. Check the exact workflow before choosing Starter.",
+    "features": {
+      "freeLive": [
+        true,
+        "One service"
+      ],
+      "unlimitedFree": [
+        true,
+        "One service / one team member"
+      ],
+      "google": [
+        true,
+        "Pro"
+      ],
+      "outlook": [
+        true,
+        "Calendar integrations"
+      ],
+      "groups": [
+        true,
+        "Pro"
+      ],
+      "multiday": [
+        null,
+        "Confirm the date-range workflow"
+      ],
+      "deposits": [
+        true,
+        "Pro"
+      ],
+      "bundles": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "pos": [
+        true,
+        "Free plan listing"
+      ],
+      "klaviyo": [
+        null,
+        "Not confirmed in checked sources"
+      ]
+    },
+    "scenarios": [
+      "Choose Apntly when you need unlimited bookings for a single service without a monthly app charge. Test the free plan with your actual service duration and assigned staff member.",
+      "For a growing appointment-only team, compare Apntly Pro at $9 with the Cowlendar tier matching your booking revenue. The subscription difference is clear; the decision is whether each app handles your full workflow.",
+      "For a business mixing date-range rentals, bundles and appointments, ask Apntly to demonstrate those requirements. Cowlendar explicitly lists multi-day and bundle bookings; missing documentation is not proof that a competitor cannot do them."
+    ],
+    "docs": "https://app.apntly.com/apntly-app/support/"
+  },
+  {
+    "key": "appointo",
+    "name": "Appointo",
+    "listing": "https://apps.shopify.com/appointo-appointments-and-bookings",
+    "rating": "4.9",
+    "reviews": 922,
+    "price": "$14",
+    "free": "Unlimited services and bookings; multi-day booking",
+    "model": "Feature tiers and some usage charges",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "Unlimited services/bookings; multi-day"
+      ],
+      [
+        "Pro",
+        "$14/month",
+        "Reminders and calendar integrations"
+      ],
+      [
+        "Premium",
+        "$25/month",
+        "Groups, waitlists and custom questions"
+      ],
+      [
+        "Advanced",
+        "$39/month",
+        "Add-ons and customer/team portals"
+      ]
+    ],
+    "focus": "A broad free plan with feature-based upgrades and customer-facing portals.",
+    "bestFor": "Stores that need ongoing free bookings or want customer self-service and advanced scheduling options.",
+    "tradeoff": "The listing discloses text/WhatsApp usage charges and a 2% charge for subscriptions/bundles on paid tiers. Include those costs in a like-for-like comparison.",
+    "features": {
+      "freeLive": [
+        true,
+        "Unlimited bookings"
+      ],
+      "unlimitedFree": [
+        true,
+        "Unlimited services"
+      ],
+      "google": [
+        true,
+        "Pro"
+      ],
+      "outlook": [
+        true,
+        "Pro"
+      ],
+      "groups": [
+        true,
+        "Premium"
+      ],
+      "multiday": [
+        true,
+        "Free; advanced widget on Advanced"
+      ],
+      "deposits": [
+        true,
+        "Listed; confirm required plan"
+      ],
+      "bundles": [
+        true,
+        "2% subscription/bundle charge listed"
+      ],
+      "pos": [
+        true,
+        "Free plan listing"
+      ],
+      "klaviyo": [
+        null,
+        "Not confirmed in checked sources"
+      ]
+    },
+    "scenarios": [
+      "Appointo is worth testing when the free plan's unlimited services and bookings match your needs. Calendar sync and automated reminders require a paid-plan comparison.",
+      "If you sell recurring bookings or bundles, estimate their monthly revenue and the listed 2% charge. Compare that total with the appropriate Cowlendar revenue tier, including any messaging costs on either side.",
+      "If customer or staff portals are central to your operation, use the trial to test Appointo Advanced end to end: book, reschedule, cancel, and check the changed record in Shopify. Compare the same tasks in Cowlendar rather than judging only the widget."
+    ],
+    "docs": "https://help.appointo.me/"
+  },
+  {
+    "key": "bookx",
+    "name": "BookX",
+    "listing": "https://apps.shopify.com/appointment-booking-bookeasy",
+    "rating": "5.0",
+    "reviews": 607,
+    "price": "$9.99",
+    "free": "One service and one team member; unlimited bookings",
+    "model": "Feature, location and team tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "One service and one team member"
+      ],
+      [
+        "Starter",
+        "$9.99/month",
+        "Up to 5 locations/team members"
+      ],
+      [
+        "Growth",
+        "$19.99/month",
+        "Up to 10; deposits and seasonal pricing"
+      ],
+      [
+        "Business",
+        "$39.99/month",
+        "Up to 20; two-way sync and Klaviyo"
+      ]
+    ],
+    "focus": "Explicit tiers for locations and staff, with rental and seasonal-pricing options.",
+    "bestFor": "Businesses comparing location counts, team capacity and seasonal pricing.",
+    "tradeoff": "The listing separates basic Google Calendar integration from two-way sync on Business. Do not assume the cheaper plan includes the same synchronization behavior.",
+    "features": {
+      "freeLive": [
+        true,
+        "One service"
+      ],
+      "unlimitedFree": [
+        true,
+        "One service / one team member"
+      ],
+      "google": [
+        true,
+        "Starter; two-way on Business"
+      ],
+      "outlook": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "groups": [
+        true,
+        "Class capacity documented"
+      ],
+      "multiday": [
+        true,
+        "Starter"
+      ],
+      "deposits": [
+        true,
+        "Growth; partial payments on Starter"
+      ],
+      "bundles": [
+        true,
+        "Starter"
+      ],
+      "pos": [
+        true,
+        "Growth"
+      ],
+      "klaviyo": [
+        true,
+        "Business"
+      ]
+    },
+    "scenarios": [
+      "BookX deserves a place on the shortlist if five, ten or twenty locations and team members map neatly to your operation. Confirm how the plan counts shared resources and inactive staff.",
+      "A seasonal rental business should test BookX's date-range conditions and seasonal pricing using real high-season and low-season examples. Cowlendar is another option for combining rentals with services, but equivalent pricing rules should be demonstrated.",
+      "For calendar conflict prevention, simulate an outside calendar event before purchase. BookX explicitly places two-way Google Calendar sync on Business, so compare that tier when external events must block availability."
+    ],
+    "docs": "https://bookeasy.helpkit.so/"
+  },
+  {
+    "key": "easy-appointment-booking",
+    "name": "Easy Appointment Booking",
+    "listing": "https://apps.shopify.com/appointments-and-bookings",
+    "rating": "4.9",
+    "reviews": 547,
+    "price": "$15",
+    "free": "One event/service; unlimited bookings and team members",
+    "model": "Feature tiers; some staff add-ons",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "One event or service"
+      ],
+      [
+        "Standard",
+        "$15/month",
+        "Reminders and intake questions"
+      ],
+      [
+        "Pro",
+        "$29/month",
+        "Google Calendar/Zoom; product upsells"
+      ],
+      [
+        "Pro Plus",
+        "$39/month",
+        "Waitlists, packs and deposits"
+      ]
+    ],
+    "focus": "Events, experiences and repeat visits, with reporting and booking-pack options.",
+    "bestFor": "Workshops, tastings and teams prioritizing event operations and packages.",
+    "tradeoff": "The listing mentions team logins at $8 per staff member and Klaviyo/Flow on an Ultimate $99 plan. The headline $39 tier is not the full cost of every advertised capability.",
+    "features": {
+      "freeLive": [
+        true,
+        "One event or service"
+      ],
+      "unlimitedFree": [
+        true,
+        "One event or service"
+      ],
+      "google": [
+        true,
+        "Pro"
+      ],
+      "outlook": [
+        true,
+        "Pro Plus listing"
+      ],
+      "groups": [
+        true,
+        "Group sessions documented"
+      ],
+      "multiday": [
+        null,
+        "Confirm rental date-range needs"
+      ],
+      "deposits": [
+        true,
+        "Pro Plus"
+      ],
+      "bundles": [
+        true,
+        "Pro Plus"
+      ],
+      "pos": [
+        true,
+        "Listed integration"
+      ],
+      "klaviyo": [
+        true,
+        "Ultimate $99 plan mentioned"
+      ]
+    },
+    "scenarios": [
+      "For a recurring workshop, compare the attendee roster, pack redemption and waitlist flow. Easy Appointment Booking explicitly advertises booking packs on Pro Plus, while Cowlendar lists bundles in its common feature set.",
+      "When several instructors need individual logins, calculate the total including staff charges. Unlimited team members on a plan does not automatically mean unlimited individual login accounts.",
+      "For a store that relies on Klaviyo or Shopify Flow, ask for a demonstration on the exact tier you intend to purchase. Easy Appointment Booking lists these on Ultimate; use that figure in your budget instead of the entry plan."
+    ],
+    "docs": "https://intercom.help/easy-appointment-booking/en/"
+  },
+  {
+    "key": "meety",
+    "name": "Meety",
+    "listing": "https://apps.shopify.com/meety-appointment-booking",
+    "rating": "5.0",
+    "reviews": 462,
+    "price": "$7",
+    "free": "Unlimited bookings and team members",
+    "model": "Feature tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "Bookings, capacity and notifications"
+      ],
+      [
+        "Basic",
+        "$7/month",
+        "Unlimited services and widget controls"
+      ],
+      [
+        "Starter",
+        "$14/month",
+        "Bundles, subscriptions, Google Calendar/Zoom"
+      ],
+      [
+        "Business",
+        "$27/month",
+        "Waitlist, Outlook and staff portal"
+      ]
+    ],
+    "focus": "A wide feature ladder with bundles, notifications and customer self-service.",
+    "bestFor": "Teams comparing low entry pricing with gradual upgrades for advanced workflows.",
+    "tradeoff": "The listing points to Enterprise at $47 for deposits, Klaviyo, Zapier and API integrations. Verify the final plan and messaging charges rather than treating every advertised feature as included at $7.",
+    "features": {
+      "freeLive": [
+        true,
+        "Bookings and team members"
+      ],
+      "unlimitedFree": [
+        true,
+        "Listed"
+      ],
+      "google": [
+        true,
+        "Starter"
+      ],
+      "outlook": [
+        true,
+        "Business"
+      ],
+      "groups": [
+        true,
+        "Capacity and group options"
+      ],
+      "multiday": [
+        null,
+        "Confirm required rental workflow"
+      ],
+      "deposits": [
+        true,
+        "Enterprise $47 mentioned"
+      ],
+      "bundles": [
+        true,
+        "Starter"
+      ],
+      "pos": [
+        true,
+        "Business"
+      ],
+      "klaviyo": [
+        true,
+        "Enterprise mentioned"
+      ]
+    },
+    "scenarios": [
+      "Meety's free plan is worth checking for a team needing basic capacity and notifications. Build one complete service before comparing paid features; confirm any service-count limits with support.",
+      "For packs, subscriptions and Google Calendar, compare Starter with the Cowlendar revenue tier your store would actually use. If deposits are essential, move the Meety comparison to Enterprise.",
+      "If you depend on automated messaging, test the timing, sender, cancellation links and opt-in requirements. A long integration list is useful only when the actions you need work on your selected plan."
+    ],
+    "docs": "https://meetyapp.io/docs/"
+  },
+  {
+    "key": "bookthatapp",
+    "name": "BookThatApp",
+    "listing": "https://apps.shopify.com/bookthatapp",
+    "rating": "4.7",
+    "reviews": 406,
+    "price": "$25",
+    "free": "10 bookings; no product limit",
+    "model": "Booking volume, staff and feature tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "10 bookings; no product limit"
+      ],
+      [
+        "Lite",
+        "$25/month",
+        "50 monthly bookings; one staff account"
+      ],
+      [
+        "Premium",
+        "$49.95/month",
+        "350 monthly bookings; 10 staff accounts"
+      ],
+      [
+        "Business",
+        "$110/month",
+        "1,000 monthly bookings; 20 staff accounts"
+      ]
+    ],
+    "focus": "Resource scheduling across rentals, tours, classes and service businesses.",
+    "bestFor": "Operators with detailed resource rules, bond handling or API requirements.",
+    "tradeoff": "Compare booking volume and staff requirements carefully. Lite is listed for one booking type and 50 monthly bookings; API access appears on Business.",
+    "features": {
+      "freeLive": [
+        true,
+        "10 bookings listed"
+      ],
+      "unlimitedFree": [
+        false,
+        "10 bookings listed"
+      ],
+      "google": [
+        true,
+        "Lite listing"
+      ],
+      "outlook": [
+        true,
+        "Listed integration"
+      ],
+      "groups": [
+        true,
+        "Explicit group booking support"
+      ],
+      "multiday": [
+        true,
+        "Rental booking documented"
+      ],
+      "deposits": [
+        true,
+        "Premium: deposits/bonds"
+      ],
+      "bundles": [
+        null,
+        "Recurring subscriptions listed; confirm packs"
+      ],
+      "pos": [
+        true,
+        "Lite"
+      ],
+      "klaviyo": [
+        null,
+        "Not confirmed in checked sources"
+      ]
+    },
+    "scenarios": [
+      "BookThatApp belongs on a rental shortlist when you need to model equipment, staff and locations together. Run a scenario where two services compete for one resource, then cancel and rebook to verify inventory recovery.",
+      "For a damage-bond workflow, ask both vendors to demonstrate collection, release and refund handling. A booking deposit and a refundable damage bond solve different problems; the BTA listing explicitly mentions deposits/bonds on Premium.",
+      "For a store needing an API, evaluate BTA Business and its documented endpoints. Do not choose a lower tier based on a general integration label. Cowlendar may suit the booking workflow without custom development, but that is a different requirement."
+    ],
+    "docs": "https://support.bookthatapp.com/hc/en-us"
+  },
+  {
+    "key": "hoppy",
+    "name": "Hoppy",
+    "listing": "https://apps.shopify.com/suppr-appointment-booking",
+    "rating": "4.9",
+    "reviews": 401,
+    "price": "Free",
+    "free": "Listed as free",
+    "model": "Free listing",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "Confirm current limits and integration behavior"
+      ]
+    ],
+    "focus": "A free booking app with hourly, full-day and multi-day scheduling.",
+    "bestFor": "Merchants testing a booking offer with no advertised monthly app subscription.",
+    "tradeoff": "A free listing does not establish every operational limit or service commitment. Test reminders, calendar conflict handling and rescheduling with your theme before depending on them.",
+    "features": {
+      "freeLive": [
+        true,
+        "Listed as free"
+      ],
+      "unlimitedFree": [
+        null,
+        "No booking quota confirmed"
+      ],
+      "google": [
+        true,
+        "Listed integration"
+      ],
+      "outlook": [
+        true,
+        "Listed integration"
+      ],
+      "groups": [
+        true,
+        "Capacity documented"
+      ],
+      "multiday": [
+        true,
+        "Explicitly listed"
+      ],
+      "deposits": [
+        null,
+        "Confirm partial-payment workflow"
+      ],
+      "bundles": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "pos": [
+        true,
+        "Listed integration"
+      ],
+      "klaviyo": [
+        null,
+        "Not confirmed in checked sources"
+      ]
+    },
+    "scenarios": [
+      "Hoppy is a sensible candidate when avoiding a monthly app fee is the main requirement. Start with a real paid test appointment and verify what the customer sees after checkout.",
+      "If you already use Outlook, Teams or Apple Calendar, confirm whether the integration exports events, synchronizes busy time, or both. The presence of a logo alone does not answer that question for any app.",
+      "For revenue-critical bookings, weigh a successfully tested workflow and support responsiveness against the subscription cost. Cowlendar has a limited free plan and paid tiers; Hoppy's current free listing can be a real advantage for a suitable simple setup."
+    ],
+    "docs": "https://help.hoppyapps.com/en/category/appointment-bookings-bj7ic2/"
+  },
+  {
+    "key": "tipo",
+    "name": "Tipo",
+    "listing": "https://apps.shopify.com/tipo-appointment-booking",
+    "rating": "4.9",
+    "reviews": 354,
+    "price": "$9.90",
+    "free": "One service and one team member",
+    "model": "Service and team-member tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "One service and one team member"
+      ],
+      [
+        "Basic",
+        "$9.90/month",
+        "10 services/team members; multi-day"
+      ],
+      [
+        "Pro",
+        "$14.90/month",
+        "Unlimited services and team members"
+      ]
+    ],
+    "focus": "Straightforward service/team limits with participant and multi-day options.",
+    "bestFor": "Stores wanting a predictable staff-and-service pricing model.",
+    "tradeoff": "Google Calendar, custom questions and multi-day bookings are listed on Basic. Confirm requirements such as deposits or specific video platforms that are not clearly established in the checked listing.",
+    "features": {
+      "freeLive": [
+        true,
+        "One service / one team member"
+      ],
+      "unlimitedFree": [
+        null,
+        "No quota confirmed"
+      ],
+      "google": [
+        true,
+        "Basic"
+      ],
+      "outlook": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "groups": [
+        true,
+        "Participant types and quantities"
+      ],
+      "multiday": [
+        true,
+        "Basic"
+      ],
+      "deposits": [
+        null,
+        "Flexible payments listed; verify deposits"
+      ],
+      "bundles": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "pos": [
+        true,
+        "Free plan listing"
+      ],
+      "klaviyo": [
+        null,
+        "Not confirmed in checked sources"
+      ]
+    },
+    "scenarios": [
+      "Tipo can be a good fit for a service business whose requirements align with its ten-service Basic tier or unlimited Pro tier. Count the services and staff you will publish before comparing costs.",
+      "For group sessions, test participant categories and quantity discounts against your ticket rules. A family booking and a per-person workshop may require different capacity calculations.",
+      "If you need a particular meeting platform or partial-payment rule, obtain a concrete example from support. Compare confirmed behavior with Cowlendar's listed Zoom, Teams and deposit capabilities rather than marking an undocumented feature as absent."
+    ],
+    "docs": "https://docs.tipo.io/tipo-appointment-booking"
+  },
+  {
+    "key": "sesami",
+    "name": "Sesami",
+    "listing": "https://apps.shopify.com/sesami",
+    "rating": "4.6",
+    "reviews": 266,
+    "price": "$19",
+    "free": "Development stores only",
+    "model": "Resources, flows and feature tiers",
+    "plans": [
+      [
+        "Free",
+        "$0",
+        "Development stores only"
+      ],
+      [
+        "Small",
+        "$19/month",
+        "5 resources; Google Calendar, API/SDK, POS"
+      ],
+      [
+        "Pro",
+        "$129/month",
+        "20 resources; groups, Klaviyo and reports"
+      ],
+      [
+        "Premium",
+        "$299/month",
+        "40 resources; multi-location and priority support"
+      ]
+    ],
+    "focus": "A commerce booking platform with an SDK and configurable workflows.",
+    "bestFor": "Retail teams or agencies building a customized booking experience.",
+    "tradeoff": "The free tier is for development stores. Group appointments and customer rescheduling are listed on Pro; multi-location is listed on Premium. Compare the required tier, not Small alone.",
+    "features": {
+      "freeLive": [
+        false,
+        "Development stores only"
+      ],
+      "unlimitedFree": [
+        false,
+        "No free live-store tier listed"
+      ],
+      "google": [
+        true,
+        "Small"
+      ],
+      "outlook": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "groups": [
+        true,
+        "Pro"
+      ],
+      "multiday": [
+        null,
+        "Confirm rental date-range workflow"
+      ],
+      "deposits": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "bundles": [
+        null,
+        "Not confirmed in checked sources"
+      ],
+      "pos": [
+        true,
+        "Small"
+      ],
+      "klaviyo": [
+        true,
+        "Pro"
+      ]
+    },
+    "scenarios": [
+      "Sesami is a strong candidate when your agency wants an SDK and control over the booking experience. Set aside time to assess the implementation and maintenance work alongside the monthly subscription.",
+      "For a small live store, compare Sesami Small with Cowlendar's paid tiers and five-booking free plan. Sesami's free development plan is for building and testing, not an ongoing free live-store offer.",
+      "For group services or multiple locations, price Sesami at the tier that includes those needs. A larger retail operation may value its resource model and architecture support; a simpler merchant may prefer Cowlendar's common feature set."
+    ],
+    "docs": "https://help.sesami.co/"
+  }
+]
