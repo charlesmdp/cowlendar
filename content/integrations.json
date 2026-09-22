@@ -1,0 +1,787 @@
+[
+  {
+    "key": "google-calendar",
+    "path": "/integrations/google-calendar",
+    "updated": "2026-09-22",
+    "name": "Google Calendar",
+    "logo": "google-calendar.svg",
+    "color": "sky",
+    "title": "Shopify Booking App with Google Calendar Sync | Cowlendar",
+    "description": "Connect Shopify bookings to Google Calendar with Cowlendar. Sync bookings, block busy times and manage meeting ownership for your team.",
+    "heading": "Shopify bookings.",
+    "accent": "Meet your Google Calendar.",
+    "intro": "Keep the appointments customers book on Shopify alongside the rest of your day. Cowlendar creates Google Calendar events and offers optional two-way availability sync, with controls for meeting ownership and booking changes.",
+    "flow": [
+      "Booked on Shopify",
+      "Synced by Cowlendar",
+      "Visible in Google Calendar"
+    ],
+    "exampleTitle": "One appointment. The right calendar.",
+    "exampleRows": [
+      [
+        "New booking",
+        "Create a Google event"
+      ],
+      [
+        "Outside calendar time",
+        "Block availability when two-way sync is enabled"
+      ],
+      [
+        "Assigned teammate",
+        "Use the selected organizer’s account"
+      ]
+    ],
+    "benefits": [
+      [
+        "Bookings join your day",
+        "A new booking creates an event in the connected Google Calendar. Connect the admin and relevant teammates so the booking reaches the right people."
+      ],
+      [
+        "Outside commitments count",
+        "Enable two-way sync to use calendar events for blocking booking dates and times. Check which account and calendar are connected before testing a conflict."
+      ],
+      [
+        "Choose the meeting owner",
+        "Select the assigned teammate or the admin as organizer for each service. A teammate’s connected account can own the event and its Google Meet link."
+      ],
+      [
+        "Recognize services at a glance",
+        "Choose a Google event color per service. The current integration documents eleven colors and an option to invite the admin to teammate-owned events."
+      ]
+    ],
+    "steps": [
+      [
+        "Connect the account",
+        "Open Cowlendar from Shopify, go to Team and edit the admin or teammate. Use Connect Google in the General settings and authorize the intended account."
+      ],
+      [
+        "Configure availability and ownership",
+        "Enable two-way sync if outside commitments should affect bookable times. Choose the meeting organizer in the service’s Meeting location settings."
+      ],
+      [
+        "Try both directions",
+        "Create a test booking and inspect the Google event. Then add a conflicting calendar event and confirm the intended time is unavailable in the storefront."
+      ]
+    ],
+    "detailTitle": "Move the meeting. Know what changes.",
+    "detail": "The 2026 integration can reschedule or cancel an actual booking when its Google event is moved or deleted. Both controls are disabled by default and enabled per teammate. This is separate from displaying bookings or blocking busy times.",
+    "notes": [
+      [
+        "Calendar edits are real booking changes",
+        "When enabled, deleting the event cancels the booking and triggers the configured customer and order handling."
+      ],
+      [
+        "Manual moves bypass an availability check",
+        "Cowlendar trusts the new time selected in Google Calendar. Check staff and capacity before moving an event."
+      ],
+      [
+        "Allow time for the update",
+        "Google-originated changes can take 90–120 seconds to arrive. Allow for that delay when checking a rescheduled or cancelled booking."
+      ]
+    ],
+    "faq": [
+      [
+        "Does Cowlendar support two-way Google Calendar sync?",
+        "Yes. Enable two-way sync after connecting the Google account if calendar events should block Cowlendar availability. Creating booking events and changing bookings from Google are separate settings."
+      ],
+      [
+        "Can each teammate connect their own Google account?",
+        "Yes. Connections are managed through Team. The organizer setting determines whether the assigned teammate or admin owns the service’s calendar event."
+      ],
+      [
+        "Can I reschedule a Shopify booking from Google Calendar?",
+        "Yes, when the teammate’s rescheduling control is enabled. The selected time is accepted without checking availability, so verify the new slot first."
+      ],
+      [
+        "Do I also need Google Meet?",
+        "No. Calendar events can be created for connected accounts regardless of the meeting location. Choose Google Meet only when the service is a virtual meeting."
+      ]
+    ],
+    "solutions": [
+      "appointment",
+      "salon",
+      "fitness"
+    ],
+    "related": [
+      "google-meet",
+      "outlook",
+      "zoom"
+    ],
+    "sources": [
+      [
+        "Google Calendar: what changed in 2026",
+        "https://help.cowlendar.com/how-to/-google-calendar-integration-whats-new-in-2026"
+      ],
+      [
+        "Connect Google Calendar",
+        "https://help.cowlendar.com/how-to-google/how-to-connect-google"
+      ],
+      [
+        "Booking and busy-time sync",
+        "https://help.cowlendar.com/how-to-google/how-can-we-have-our-bookings-sync-into-our-google-calendar"
+      ],
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "outlook",
+    "path": "/integrations/outlook",
+    "updated": "2026-09-22",
+    "name": "Outlook",
+    "logo": "outlook.svg",
+    "color": "sky",
+    "title": "Shopify Booking App with Outlook Calendar | Cowlendar",
+    "description": "Connect Cowlendar to Outlook Calendar for Shopify booking events. Configure teammate accounts, meeting ownership and booking updates.",
+    "heading": "Booked in Shopify.",
+    "accent": "Organized in Outlook.",
+    "intro": "Bring customer appointments into the calendar your team already uses. Connect Outlook to Cowlendar, choose the right organizer and keep booking updates connected to the people delivering the service.",
+    "flow": [
+      "Customer books",
+      "Cowlendar assigns the host",
+      "Outlook event created"
+    ],
+    "exampleTitle": "The appointment follows its organizer.",
+    "exampleRows": [
+      [
+        "Admin-hosted service",
+        "Event on the admin account"
+      ],
+      [
+        "Teammate-hosted service",
+        "Use the assigned connected teammate"
+      ],
+      [
+        "Cowlendar booking changed",
+        "Linked events updated or re-hosted"
+      ]
+    ],
+    "benefits": [
+      [
+        "Appointments in the working calendar",
+        "Cowlendar documents automatic Outlook event creation when a booking is made. Staff can see their appointments in the calendar used for their day."
+      ],
+      [
+        "Connections for the right people",
+        "Connect the admin or teammate from Team settings. An account connected for one provider should not be assumed to represent the availability of every teammate."
+      ],
+      [
+        "Control the organizer",
+        "The current service settings let you choose admin or assigned-teammate ownership. An optional admin invitation keeps the shop owner included in teammate events."
+      ],
+      [
+        "Updates follow booking changes",
+        "The 2026 calendar update documents a shared rescheduling process across Google, Outlook and Zoom. If the resolved host changes, the event can be recreated under the new host."
+      ]
+    ],
+    "steps": [
+      [
+        "Choose the account",
+        "In Shopify, open Cowlendar, select Team and edit the relevant teammate. In General, choose Connect Outlook and sign into the intended Microsoft account."
+      ],
+      [
+        "Assign the service and organizer",
+        "Check which teammate delivers the service and review Meeting organizer in the service settings. Choose whether the admin should be invited to teammate-owned events."
+      ],
+      [
+        "Verify creation and changes",
+        "Make a test booking, then reschedule it from Cowlendar. Confirm the event, host and customer information in Outlook before using the flow with customers."
+      ]
+    ],
+    "detailTitle": "An Outlook event is not a blanket sync promise.",
+    "detail": "Event creation, busy-time blocking and editing a booking from an external calendar are different capabilities. The Outlook connection guide documents event creation, while the 2026 update explains host and rescheduling behavior. Confirm any additional Outlook-specific availability requirement with our team.",
+    "notes": [
+      [
+        "Use Cowlendar for the tested change workflow",
+        "Do not assume that deleting an Outlook event has the same booking-cancellation behavior as the optional Google Calendar control."
+      ],
+      [
+        "Microsoft account access matters",
+        "Check that the account can authorize the connection. Your organization may manage app permissions centrally."
+      ],
+      [
+        "Check the time zone and host",
+        "A correct calendar event should show the expected service time and the provider who will actually deliver it."
+      ]
+    ],
+    "faq": [
+      [
+        "Does Cowlendar create Outlook Calendar events?",
+        "Yes. The Outlook setup guide documents automatic event creation for bookings once the account is connected."
+      ],
+      [
+        "Can I connect individual teammates?",
+        "Yes. Edit the relevant teammate in Cowlendar’s Team area and connect Outlook. Review the service organizer settings afterward."
+      ],
+      [
+        "Will a Cowlendar reschedule update Outlook?",
+        "The 2026 integration guide documents rescheduling logic shared by Outlook, Google and Zoom, including re-hosting when the assigned organizer changes. Test the flow for your connected accounts."
+      ],
+      [
+        "Can I delete an Outlook event to cancel a booking?",
+        "Do not assume this behavior. The documented opt-in external cancellation control is specifically described for Google Calendar. Manage the booking in Cowlendar unless support confirms another supported workflow."
+      ]
+    ],
+    "solutions": [
+      "appointment",
+      "salon",
+      "class"
+    ],
+    "related": [
+      "google-calendar",
+      "google-meet",
+      "zoom"
+    ],
+    "sources": [
+      [
+        "Connect Outlook",
+        "https://help.cowlendar.com/how-to-zoom-outlook/how-to-connect-outlook"
+      ],
+      [
+        "Google Calendar: what changed in 2026",
+        "https://help.cowlendar.com/how-to/-google-calendar-integration-whats-new-in-2026"
+      ],
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "zoom",
+    "path": "/integrations/zoom",
+    "updated": "2026-09-22",
+    "name": "Zoom",
+    "logo": "zoom.svg",
+    "color": "lavender",
+    "title": "Shopify Booking App with Zoom Integration | Cowlendar",
+    "description": "Sell Zoom appointments and online classes on Shopify. Cowlendar generates meeting links and supports a shared link for each group time slot.",
+    "heading": "From Shopify checkout",
+    "accent": "to “see you on Zoom.”",
+    "intro": "Sell consultations, coaching and online classes through Shopify without manually creating every meeting link. Cowlendar connects the booked session to Zoom, with a choice between private meetings and a shared group session.",
+    "flow": [
+      "Session booked",
+      "Meeting created in Zoom",
+      "Link ready for the session"
+    ],
+    "exampleTitle": "Choose how your sessions meet.",
+    "exampleRows": [
+      [
+        "Private consultation",
+        "A meeting for the individual booking"
+      ],
+      [
+        "Group class",
+        "Enable one shared link per time slot"
+      ],
+      [
+        "Different host",
+        "Check the assigned teammate’s connection"
+      ]
+    ],
+    "benefits": [
+      [
+        "A meeting link for the booking",
+        "Connect Zoom and use it as the service’s meeting location. Cowlendar documents automatic link generation when the booking is created."
+      ],
+      [
+        "One class, one meeting room",
+        "Enable the shared-link option so everyone booking the same group slot receives the same Zoom meeting. This matters when guests reserve their places separately."
+      ],
+      [
+        "Private sessions stay separate",
+        "Without the shared-slot option, the guide describes a unique meeting for each booking. Choose deliberately between one-to-one and group delivery."
+      ],
+      [
+        "A host who can run the session",
+        "Connect the relevant host accounts and test the meeting ownership. Your selected organizer needs the right Zoom access to deliver the service."
+      ]
+    ],
+    "steps": [
+      [
+        "Connect Zoom",
+        "Open Cowlendar → Team, edit the admin or teammate and choose Connect Zoom in General. Authorize the account that should host the sessions."
+      ],
+      [
+        "Choose the meeting behavior",
+        "Edit the service and set Meeting location to Zoom. For a class, enable “Use the same meeting link for all bookings in the same slot”."
+      ],
+      [
+        "Book as two customers",
+        "For a group service, place two test bookings in one time slot and verify that both receive the same meeting link. For private sessions, verify their individual links."
+      ]
+    ],
+    "detailTitle": "Capacity in the shop. Capacity in the call.",
+    "detail": "Cowlendar manages the bookable places in your service. Zoom manages the meeting itself. Set a group capacity that works with your Zoom account’s participant and meeting limits, and decide which provider can host overlapping sessions.",
+    "notes": [
+      [
+        "Zoom is a separate service",
+        "A Cowlendar plan does not include a paid Zoom subscription or change Zoom’s meeting limits."
+      ],
+      [
+        "Match the group-link setting to the offer",
+        "A shared group slot and a private session require different link behavior. Test before customers book."
+      ],
+      [
+        "Verify the revised invitation",
+        "When changing a time or host, inspect the updated meeting and the customer’s notification."
+      ]
+    ],
+    "faq": [
+      [
+        "Does Cowlendar generate Zoom links automatically?",
+        "Yes, after Zoom is connected and selected as the service’s meeting location. The connection and digital-service setup must both be completed."
+      ],
+      [
+        "Can everyone in one class join the same Zoom meeting?",
+        "Yes. Enable the option to use the same meeting link for all bookings in the same slot."
+      ],
+      [
+        "Is Zoom included in the Cowlendar subscription?",
+        "No. Your Zoom account and any paid Zoom plan are separate. Choose a Zoom plan that fits the duration and size of your sessions."
+      ],
+      [
+        "Can I sell both private calls and group sessions?",
+        "Yes. Configure separate services and select the appropriate meeting-link behavior and participant capacity for each."
+      ]
+    ],
+    "solutions": [
+      "appointment",
+      "class",
+      "fitness"
+    ],
+    "related": [
+      "google-meet",
+      "google-calendar",
+      "klaviyo"
+    ],
+    "sources": [
+      [
+        "Connect Zoom",
+        "https://help.cowlendar.com/how-to-zoom-outlook/how-to-connect-zoom"
+      ],
+      [
+        "Shared Zoom links for group bookings",
+        "https://help.cowlendar.com/how-to-zoom-outlook/how-to-use-a-shared-zoom-link-for-group-bookings-in-the-same-time-slot"
+      ],
+      [
+        "Google Calendar: what changed in 2026",
+        "https://help.cowlendar.com/how-to/-google-calendar-integration-whats-new-in-2026"
+      ],
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "google-meet",
+    "path": "/integrations/google-meet",
+    "updated": "2026-09-22",
+    "name": "Google Meet",
+    "logo": "google-meet.svg",
+    "color": "sage",
+    "title": "Shopify Booking App with Google Meet | Cowlendar",
+    "description": "Accept Google Meet appointments through Shopify. Cowlendar connects bookings, meeting links and the right Google account for your team.",
+    "heading": "Your next Shopify booking,",
+    "accent": "one Google Meet away.",
+    "intro": "Make online consultations and lessons bookable from your own store. Use Google Meet as the meeting location, with the connected Google account determining who owns the session and its meeting link.",
+    "flow": [
+      "Appointment booked",
+      "Google organizer resolved",
+      "Meet session created"
+    ],
+    "exampleTitle": "The right host, from the start.",
+    "exampleRows": [
+      [
+        "Admin organizer",
+        "Meeting belongs to the connected admin"
+      ],
+      [
+        "Assigned teammate",
+        "Their connected account owns the Meet link"
+      ],
+      [
+        "No teammate connection",
+        "Documented fallback to the admin"
+      ]
+    ],
+    "benefits": [
+      [
+        "Virtual services inside your store",
+        "A bookable Shopify service can use Google Meet as its digital location. Customers reserve the service through the same storefront as your other offers."
+      ],
+      [
+        "Choose the person who hosts",
+        "The service’s organizer setting lets the admin or assigned teammate own the meeting. Teammate ownership gives that connected account host controls."
+      ],
+      [
+        "Keep calendar and call together",
+        "The meeting link belongs to the organizer’s Google Calendar event, making the session and its scheduled time part of the same workflow."
+      ],
+      [
+        "Handle a change of provider",
+        "The 2026 integration update documents re-resolving the host when the assigned teammate changes. Check the new link and notification when a meeting is re-hosted."
+      ]
+    ],
+    "steps": [
+      [
+        "Connect Google",
+        "Connect the admin or teammate’s Google account through Cowlendar → Team. Review the account you want to own the calendar event and meeting."
+      ],
+      [
+        "Select Google Meet",
+        "Edit the service, choose Google Meet for the meeting location and select the organizer. For teammate-led sessions, connect the teammate’s Google account."
+      ],
+      [
+        "Try the session",
+        "Create a booking and inspect the calendar event, customer details and meeting link. Join as the intended host and test a booking change."
+      ]
+    ],
+    "detailTitle": "Google Calendar and Google Meet have different jobs.",
+    "detail": "Google Calendar handles the event and its time. Google Meet is where the conversation happens. You can use the calendar integration for in-person services too; select Meet when the booked service actually needs a video session.",
+    "notes": [
+      [
+        "Check the host fallback",
+        "If the assigned teammate has no Google account connected, the documentation describes a fallback to the admin account."
+      ],
+      [
+        "Meet account limits still apply",
+        "Google controls meeting duration, participant limits and Workspace account policies. Cowlendar does not replace those requirements."
+      ],
+      [
+        "Check who receives the invitation",
+        "Review the organizer, optional admin invitation and customer-facing meeting information for your service."
+      ]
+    ],
+    "faq": [
+      [
+        "Can I book Google Meet calls from Shopify?",
+        "Yes. Cowlendar supports Google Meet as a virtual meeting location for bookable services. Connect Google and configure the service’s meeting settings."
+      ],
+      [
+        "Who owns the generated Google Meet link?",
+        "The selected meeting organizer owns it. Choose the admin or the assigned teammate; a teammate needs a connected Google account to host through that account."
+      ],
+      [
+        "Do I need to use Google Meet for every service?",
+        "No. Calendar events can also be used for in-person bookings. Select the meeting location independently for each service."
+      ],
+      [
+        "Is a Google Workspace subscription included?",
+        "No. Google account and Workspace plans are separate. Check the meeting capabilities available with the account you connect."
+      ]
+    ],
+    "solutions": [
+      "appointment",
+      "class",
+      "fitness"
+    ],
+    "related": [
+      "google-calendar",
+      "zoom",
+      "outlook"
+    ],
+    "sources": [
+      [
+        "Google Calendar: what changed in 2026",
+        "https://help.cowlendar.com/how-to/-google-calendar-integration-whats-new-in-2026"
+      ],
+      [
+        "Connect Google Calendar",
+        "https://help.cowlendar.com/how-to-google/how-to-connect-google"
+      ],
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "shopify-pos",
+    "path": "/integrations/shopify-pos",
+    "updated": "2026-09-22",
+    "name": "Shopify POS",
+    "logo": "shopify-pos.svg",
+    "color": "sage",
+    "title": "Shopify POS Appointment Booking App | Cowlendar",
+    "description": "Take appointments and payments at the counter with Cowlendar for Shopify POS. Connect in-person reservations with your online booking schedule.",
+    "heading": "Book the next visit in Shopify POS.",
+    "accent": "Right at the counter.",
+    "intro": "A great visit is a good moment to book the next one. Cowlendar in Shopify POS lets your team schedule appointments and collect in-person payments, with reservations connected to the same booking system as your online store.",
+    "flow": [
+      "Customer at the counter",
+      "Book through the POS tile",
+      "Reservation in Cowlendar"
+    ],
+    "exampleTitle": "A follow-up before they leave.",
+    "exampleRows": [
+      [
+        "Choose the service",
+        "Find the appointment to book"
+      ],
+      [
+        "Select the time",
+        "Use the Cowlendar booking flow"
+      ],
+      [
+        "Collect payment",
+        "Complete the in-person POS transaction"
+      ]
+    ],
+    "benefits": [
+      [
+        "Turn a conversation into a booking",
+        "Schedule an appointment while the customer is in your store. This fits salons, service retailers and businesses that regularly arrange a follow-up visit."
+      ],
+      [
+        "Take the in-person payment",
+        "The documented POS flow supports creating the booking and collecting payment with Shopify’s POS system. Payment and hardware requirements belong to your Shopify setup."
+      ],
+      [
+        "One booking system for both channels",
+        "Bookings made through POS are synchronized to Cowlendar. Your team can work with online and in-person reservations in the same booking system."
+      ],
+      [
+        "Manage the reservation at the desk",
+        "The help center documents viewing and managing bookings from POS, including rescheduling and cancellation workflows. Test your staff’s intended actions and permissions."
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare the services",
+        "Configure and test the services in Cowlendar first. Make sure the durations, prices and availability are ready for an actual customer."
+      ],
+      [
+        "Add Cowlendar to POS",
+        "Open the official Shopify POS app, sign into the store with Cowlendar installed and add the Cowlendar app tile. Use the current setup guide for the tile flow."
+      ],
+      [
+        "Run a counter booking",
+        "Schedule a test appointment and check its payment, Cowlendar record and online availability. Have the relevant staff member try the workflow."
+      ]
+    ],
+    "detailTitle": "Booking software meets your retail setup.",
+    "detail": "Your POS device, Shopify plan, payment hardware and staff access determine how the counter operates. Cowlendar adds the appointment workflow. Validate them together so a teammate can book a service and find the reservation again after checkout.",
+    "notes": [
+      [
+        "Shopify POS support is required",
+        "Use a Shopify setup that supports your intended POS features. Hardware, POS subscriptions and payment-processing costs are separate."
+      ],
+      [
+        "Booking changes and payment changes differ",
+        "When a customer cancels or reschedules, inspect both the reservation and the payment outcome. Do not assume a calendar change automatically refunds an order."
+      ],
+      [
+        "Start with one complete service",
+        "Test the full desk journey before rolling it out across your whole service menu or every location."
+      ]
+    ],
+    "faq": [
+      [
+        "Can I book appointments in Shopify POS?",
+        "Yes. Cowlendar’s POS documentation describes scheduling manual bookings and collecting payments in the Shopify POS app."
+      ],
+      [
+        "Will POS bookings appear in Cowlendar?",
+        "Yes. The documented integration connects POS reservations to Cowlendar so online and in-person bookings can be managed together."
+      ],
+      [
+        "Is Shopify POS included in the Cowlendar price?",
+        "No. Shopify plans, POS features, compatible hardware and payment fees are separate from your Cowlendar subscription."
+      ],
+      [
+        "Can I rebook a customer after a salon visit?",
+        "Yes. Follow-up appointments are a documented use case. Set up the service, add the Cowlendar tile and test the booking with the staff who use the counter."
+      ]
+    ],
+    "solutions": [
+      "salon",
+      "appointment",
+      "rental"
+    ],
+    "related": [
+      "google-calendar",
+      "klaviyo",
+      "outlook"
+    ],
+    "sources": [
+      [
+        "Set up Cowlendar in Shopify POS",
+        "https://help.cowlendar.com/how-to-calendar/how-to-set-up-cowlendar-in-the-shopify-pos-app"
+      ],
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "klaviyo",
+    "path": "/integrations/klaviyo",
+    "updated": "2026-09-22",
+    "name": "Klaviyo",
+    "logo": "klaviyo.svg",
+    "color": "peach",
+    "beta": true,
+    "title": "Shopify Booking App with Klaviyo Integration | Cowlendar",
+    "description": "Turn Shopify booking events into Klaviyo flows. Connect Cowlendar for confirmations, reminders, follow-ups and customer segments. Beta integration.",
+    "heading": "Shopify bookings, meet Klaviyo.",
+    "accent": "Keep the conversation going.",
+    "intro": "Send Cowlendar booking activity and customer information to Klaviyo. Build confirmations, timely reminders and follow-ups around the appointment itself, with the brand and flow controls your marketing team already uses.",
+    "flow": [
+      "Booking activity",
+      "Cowlendar metric in Klaviyo",
+      "Your message or segment"
+    ],
+    "exampleTitle": "The right event. A more useful message.",
+    "exampleRows": [
+      [
+        "Booking Rescheduled",
+        "Send the revised appointment details"
+      ],
+      [
+        "Booking Reminder",
+        "Remind them before the session"
+      ],
+      [
+        "Booking Checked In",
+        "Separate attended customers for follow-up"
+      ]
+    ],
+    "benefits": [
+      [
+        "Flows tied to booking activity",
+        "Create metric-triggered flows for new, confirmed, declined, rescheduled or cancelled bookings. You choose which Cowlendar events are enabled."
+      ],
+      [
+        "Reminders built around the session",
+        "Scheduled reminder, ended and follow-up events use the appointment date and time. The guide documents handling booking changes before those scheduled events are sent."
+      ],
+      [
+        "Segments with service context",
+        "Sync customer statistics such as total bookings and total spent to Klaviyo profiles. Use the available data to distinguish first-time, returning or high-value customers."
+      ],
+      [
+        "A welcome for the next chapter",
+        "A package-purchased event supports subscription or booking-package welcome flows. Ready-made templates help you start with relevant booking messages."
+      ]
+    ],
+    "steps": [
+      [
+        "Connect securely",
+        "Open Cowlendar → Settings → Klaviyo. Enable the beta integration and create the private key with the permissions in the guide. Enter it only in Cowlendar’s private settings and test the connection."
+      ],
+      [
+        "Choose and test the events",
+        "Enable the relevant events, then make a test booking. In Klaviyo → Analytics → Metrics, confirm the metric and inspect the actual event properties."
+      ],
+      [
+        "Build the flow and switch messages",
+        "Create a metric-triggered flow and preview its email or SMS with a real test event. Keep Cowlendar notifications active until the replacement messages are tested and live; then disable the matching duplicates."
+      ]
+    ],
+    "detailTitle": "Ten documented events. Plenty of useful starting points.",
+    "detail": "Use the exact metric that matches the customer action. A placed booking is different from an approved request, an attended visit or the purchase of a session package. Preview event properties in Klaviyo rather than guessing template variables.",
+    "events": [
+      [
+        "Cowlendar Booking Placed",
+        "A booking is created"
+      ],
+      [
+        "Cowlendar Booking Confirmed",
+        "A pending request is accepted"
+      ],
+      [
+        "Cowlendar Booking Declined",
+        "A pending request is declined"
+      ],
+      [
+        "Cowlendar Booking Rescheduled",
+        "The date, time or teammate changes"
+      ],
+      [
+        "Cowlendar Booking Cancelled",
+        "The booking is cancelled"
+      ],
+      [
+        "Cowlendar Booking Checked In",
+        "Attendance is marked Arrived"
+      ],
+      [
+        "Cowlendar Package Purchased",
+        "A subscription or package is created"
+      ],
+      [
+        "Cowlendar Booking Reminder",
+        "Before the appointment"
+      ],
+      [
+        "Cowlendar Booking Ended",
+        "Shortly after it ends"
+      ],
+      [
+        "Cowlendar Booking Follow Up",
+        "After the appointment"
+      ]
+    ],
+    "notes": [
+      [
+        "Currently in beta",
+        "The current connection guide labels the integration beta. Follow that guide for the latest setup and event behavior."
+      ],
+      [
+        "Avoid duplicate booking messages",
+        "Only turn off a matching Cowlendar notification after its replacement Klaviyo flow is tested and live."
+      ],
+      [
+        "Your Klaviyo account is separate",
+        "Klaviyo subscription and messaging charges are separate. Apply your customer messaging preferences and consent settings to the flows you publish."
+      ]
+    ],
+    "faq": [
+      [
+        "Which Cowlendar events can trigger a Klaviyo flow?",
+        "The guide documents placed, confirmed, declined, rescheduled, cancelled and checked-in bookings; package purchases; and scheduled reminder, ended and follow-up events. Enable the metrics you need."
+      ],
+      [
+        "Can I send a reminder relative to the appointment time?",
+        "Yes. Use the Cowlendar Booking Reminder metric. The guide describes scheduled events based on the appointment date and handling changes before sending them."
+      ],
+      [
+        "Does the integration add data to Klaviyo profiles?",
+        "Yes, when customer-stat syncing is enabled. Documented properties include cowlendar_total_bookings and cowlendar_total_spent; visit dates may also be added."
+      ],
+      [
+        "Should I turn off Cowlendar emails immediately?",
+        "No. Keep them active while building and testing the Klaviyo flows. Once a replacement message is live and verified, disable the matching Cowlendar notification to avoid duplicates."
+      ],
+      [
+        "Where should I put the Klaviyo private API key?",
+        "Only in the private Klaviyo settings inside Cowlendar. Do not place the key in a Shopify theme, storefront script or public page."
+      ]
+    ],
+    "solutions": [
+      "salon",
+      "fitness",
+      "event"
+    ],
+    "related": [
+      "shopify-pos",
+      "google-calendar",
+      "zoom"
+    ],
+    "sources": [
+      [
+        "Connect Cowlendar to Klaviyo",
+        "https://help.cowlendar.com/connecting-cowlendar-to-klaviyo"
+      ],
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ]
+    ]
+  }
+]

@@ -9,6 +9,24 @@
 - [Shopify listing](https://apps.shopify.com/cowlendar)
 - [Help center](https://help.cowlendar.com/)
 
+## Booking solutions
+- [Shopify Appointment Booking App for Services | Cowlendar](https://cowlendar.com/shopify-appointment-booking-app)
+- [Shopify Rental Booking App for Equipment & Gear | Cowlendar](https://cowlendar.com/shopify-rental-booking-app)
+- [Shopify Class Booking App for Workshops & Lessons | Cowlendar](https://cowlendar.com/shopify-class-booking-app)
+- [Shopify Event Booking App for Tickets & Experiences | Cowlendar](https://cowlendar.com/shopify-event-booking-app)
+- [Shopify Salon Booking App for Hair & Beauty | Cowlendar](https://cowlendar.com/shopify-salon-booking-app)
+- [Shopify Tour Booking App for Activities & Trips | Cowlendar](https://cowlendar.com/shopify-tour-booking-app)
+- [Shopify Hotel Booking App for Direct Stays | Cowlendar](https://cowlendar.com/shopify-hotel-booking-app)
+- [Shopify Fitness Booking App for Yoga & Studios | Cowlendar](https://cowlendar.com/shopify-fitness-booking-app)
+
+## Integrations
+- [Google Calendar](https://cowlendar.com/integrations/google-calendar)
+- [Outlook](https://cowlendar.com/integrations/outlook)
+- [Zoom](https://cowlendar.com/integrations/zoom)
+- [Google Meet](https://cowlendar.com/integrations/google-meet)
+- [Shopify POS](https://cowlendar.com/integrations/shopify-pos)
+- [Klaviyo](https://cowlendar.com/integrations/klaviyo)
+
 ## Guides and comparisons
 - [Journal](https://cowlendar.com/blog)
 - [Comparisons](https://cowlendar.com/compare)

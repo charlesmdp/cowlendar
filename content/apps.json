@@ -72,7 +72,7 @@
       ],
       "klaviyo": [
         true,
-        "Cowlendar product documentation"
+        "Beta: 10 booking and package events"
       ],
       "allFree": [
         true,
@@ -104,6 +104,10 @@
       [
         "Public API & webhooks (beta)",
         "https://help.cowlendar.com/how-to-integrations/connect-cowlendar-to-crm-erp-or-app-public-api-webhooks"
+      ],
+      [
+        "Klaviyo connection & events (beta)",
+        "https://help.cowlendar.com/connecting-cowlendar-to-klaviyo"
       ]
     ],
     "pricingTiers": [

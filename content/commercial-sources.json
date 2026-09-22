@@ -1,0 +1,58 @@
+{
+  "listing": [
+    "Cowlendar on the Shopify App Store",
+    "https://apps.shopify.com/cowlendar"
+  ],
+  "google": [
+    "Google Calendar: what changed in 2026",
+    "https://help.cowlendar.com/how-to/-google-calendar-integration-whats-new-in-2026"
+  ],
+  "googleConnect": [
+    "Connect Google Calendar",
+    "https://help.cowlendar.com/how-to-google/how-to-connect-google"
+  ],
+  "googleSync": [
+    "Booking and busy-time sync",
+    "https://help.cowlendar.com/how-to-google/how-can-we-have-our-bookings-sync-into-our-google-calendar"
+  ],
+  "outlook": [
+    "Connect Outlook",
+    "https://help.cowlendar.com/how-to-zoom-outlook/how-to-connect-outlook"
+  ],
+  "zoom": [
+    "Connect Zoom",
+    "https://help.cowlendar.com/how-to-zoom-outlook/how-to-connect-zoom"
+  ],
+  "zoomGroup": [
+    "Shared Zoom links for group bookings",
+    "https://help.cowlendar.com/how-to-zoom-outlook/how-to-use-a-shared-zoom-link-for-group-bookings-in-the-same-time-slot"
+  ],
+  "pos": [
+    "Set up Cowlendar in Shopify POS",
+    "https://help.cowlendar.com/how-to-calendar/how-to-set-up-cowlendar-in-the-shopify-pos-app"
+  ],
+  "klaviyo": [
+    "Connect Cowlendar to Klaviyo",
+    "https://help.cowlendar.com/connecting-cowlendar-to-klaviyo"
+  ],
+  "multiday": [
+    "Configure multiday booking services",
+    "https://help.cowlendar.com/how-to-multiday/how-to-configure-multiday-booking-services"
+  ],
+  "equipment": [
+    "Equipment availability for rentals",
+    "https://help.cowlendar.com/how-to-equipment/how-to-set-up-bikes-ski-gear-or-trailers-as-equipment-in-cowlendar"
+  ],
+  "airbnb": [
+    "Airbnb calendar sync: current limitation",
+    "https://help.cowlendar.com/questions/does-cowlendar-synchronize-to-airbnb-calendar-booking"
+  ],
+  "help": [
+    "Cowlendar setup guides",
+    "https://help.cowlendar.com/"
+  ],
+  "api": [
+    "Public API and webhooks (beta)",
+    "https://help.cowlendar.com/how-to-integrations/connect-cowlendar-to-crm-erp-or-app-public-api-webhooks"
+  ]
+}

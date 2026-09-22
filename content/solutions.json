@@ -1,0 +1,1127 @@
+[
+  {
+    "key": "appointment",
+    "path": "/shopify-appointment-booking-app",
+    "updated": "2026-09-22",
+    "name": "Appointments",
+    "image": "consulting",
+    "color": "lavender",
+    "title": "Shopify Appointment Booking App for Services | Cowlendar",
+    "description": "Turn Shopify products into appointments. Manage staff availability, deposits, reminders and video meetings with Cowlendar. Start with a free plan.",
+    "heading": "Shopify appointment booking,",
+    "accent": "minus the back-and-forth.",
+    "intro": "Your customers know what they need. Give them a clear service, an available time and a booking flow inside your Shopify store. Cowlendar brings consultations, fittings and one-to-one appointments into the business you already run.",
+    "imageAlt": "A consultant meeting a customer at a sunlit table",
+    "tags": [
+      "One-to-one services",
+      "Staff calendars",
+      "In person or online"
+    ],
+    "visual": {
+      "title": "Personal consultation",
+      "subtitle": "45 minutes · Online or in store",
+      "label": "Choose your appointment",
+      "values": [
+        "09:00",
+        "10:00",
+        "11:30"
+      ],
+      "selected": "10:00",
+      "note": "Your service. Your availability."
+    },
+    "problemTitle": "Sell your expertise with the same care as your products.",
+    "problem": "A consultation is more than an empty square on a calendar. You need the right person, enough preparation time and clear instructions before the customer arrives. Configure those rules once, then let customers choose from the availability you offer.",
+    "features": [
+      [
+        "A schedule for each provider",
+        "Use service availability for a solo business, or assign teammates when several people deliver appointments. Customers can choose a specific teammate when your service is configured for it."
+      ],
+      [
+        "Time for the work around the work",
+        "Set session duration, notice rules and preparation buffers. A 45-minute consultation can leave room for notes before the next customer."
+      ],
+      [
+        "Choose how customers pay",
+        "Take a deposit or prepayment, or use a booking flow without checkout for a complimentary discovery call. Define the payment policy alongside the service."
+      ],
+      [
+        "The details before the hello",
+        "Ask booking questions, send confirmations and reminders, and let customers cancel or reschedule according to your settings."
+      ]
+    ],
+    "example": {
+      "title": "One store. Three appointment formats.",
+      "intro": "A consultant can sell a quick introduction, a paid strategy session and ongoing coaching without moving customers to separate scheduling websites.",
+      "rows": [
+        [
+          "Discovery call",
+          "15 minutes",
+          "No-checkout booking"
+        ],
+        [
+          "Strategy session",
+          "45 minutes",
+          "Prepayment + intake questions"
+        ],
+        [
+          "Ongoing coaching",
+          "Session pack",
+          "Bundles or subscriptions"
+        ]
+      ],
+      "note": "Illustrative setup. Configure each service and payment flow to match your actual offer."
+    },
+    "steps": [
+      [
+        "Create the service",
+        "Choose your Shopify product, then set the session duration, location and price. Make the customer-facing description specific about what is included."
+      ],
+      [
+        "Connect the right availability",
+        "Assign the teammate and connect Google Calendar or Outlook. For Google, enable two-way sync if outside calendar events should block booking times."
+      ],
+      [
+        "Book it as a customer",
+        "Check the time zone, payment, confirmation and calendar event. Make a test change so you know how rescheduling behaves."
+      ]
+    ],
+    "fit": [
+      "Consultants, coaches, personal shopping and professional services.",
+      "Stores selling physical products alongside appointment-based expertise."
+    ],
+    "boundary": "For a complex custom workflow, review the available API endpoints before designing an integration. The public API and webhooks are documented as beta.",
+    "faq": [
+      [
+        "Can I take paid appointments through Shopify?",
+        "Yes. Cowlendar adds booking options to Shopify services and supports deposits and prepayment. You can also configure a booking without checkout for a free appointment."
+      ],
+      [
+        "Can I book a specific team member?",
+        "Yes. Assign teammates to the service and configure their availability. Test the teammate selection and calendar connection with a real service."
+      ],
+      [
+        "Can I offer Zoom or Google Meet appointments?",
+        "Yes. Connect the relevant account and choose the meeting location for the service. The integration guides explain meeting ownership and link generation."
+      ],
+      [
+        "Does the free plan include appointment features?",
+        "The current Shopify listing includes all features on the free plan. Usage allowances apply; see the pricing page for the current free allowance and paid revenue tiers."
+      ]
+    ],
+    "integrations": [
+      "google-calendar",
+      "outlook",
+      "zoom"
+    ],
+    "related": [
+      "salon",
+      "fitness",
+      "class"
+    ],
+    "guides": [
+      [
+        "Set up service sales on Shopify",
+        "/blog/how-to-sell-services-on-shopify-in-2026-complete-setup-guide"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Booking and busy-time sync",
+        "https://help.cowlendar.com/how-to-google/how-can-we-have-our-bookings-sync-into-our-google-calendar"
+      ],
+      [
+        "Google Calendar: what changed in 2026",
+        "https://help.cowlendar.com/how-to/-google-calendar-integration-whats-new-in-2026"
+      ],
+      [
+        "Public API and webhooks (beta)",
+        "https://help.cowlendar.com/how-to-integrations/connect-cowlendar-to-crm-erp-or-app-public-api-webhooks"
+      ]
+    ]
+  },
+  {
+    "key": "rental",
+    "path": "/shopify-rental-booking-app",
+    "updated": "2026-09-22",
+    "name": "Rentals",
+    "image": "rentals",
+    "color": "sage",
+    "title": "Shopify Rental Booking App for Equipment & Gear | Cowlendar",
+    "description": "Accept hourly, full-day and multiday rentals on Shopify. Manage equipment availability, booking dates and deposits with Cowlendar. Start for Free.",
+    "heading": "Shopify rental booking.",
+    "accent": "More time out in the world.",
+    "intro": "Bikes ready for a weekend. Gear for a big day. A trailer for the next move. Make your rental products bookable on Shopify, with availability built around the equipment customers actually need.",
+    "imageAlt": "Bicycles ready for a rental ride",
+    "tags": [
+      "Equipment availability",
+      "Multiday bookings",
+      "Booking deposits"
+    ],
+    "visual": {
+      "title": "Weekend bike rental",
+      "subtitle": "Mountain bike · Size M",
+      "label": "Your rental period",
+      "values": [
+        "Fri 25",
+        "Sat 26",
+        "Sun 27"
+      ],
+      "selected": "Sat 26",
+      "note": "3 days · Equipment availability"
+    },
+    "problemTitle": "A rental needs a return date. And an available item.",
+    "problem": "Stock on a product page cannot tell the whole rental story. A customer needs the item for a particular period, and your next booking depends on when it returns. Cowlendar lets you configure date ranges and availability per equipment, including quantities or individually identified units.",
+    "features": [
+      [
+        "Track a pool or a particular unit",
+        "Manage interchangeable equipment by quantity, or track individual items with their own identifiers. Choose the model that matches how you hand over your rental inventory."
+      ],
+      [
+        "Let customers select a date range",
+        "Offer multiday rentals and set the minimum and maximum number of bookable days. Full-day and timed formats also suit different rental offers."
+      ],
+      [
+        "Make longer rentals attractive",
+        "The multiday settings support fixed or percentage discounts based on the number of days selected. Define the tiers around your own rates and operating costs."
+      ],
+      [
+        "Collect the booking payment",
+        "Use deposits or prepayment for the reservation. A booking deposit pays part of the rental price; it should not be presented as an automatic refundable damage authorization."
+      ]
+    ],
+    "example": {
+      "title": "Nine bikes, one clear inventory model.",
+      "intro": "A bike shop with nine identical bikes can track quantity as a pool. A shop with individually sized or numbered bikes can track each unit instead.",
+      "rows": [
+        [
+          "Identical city bikes",
+          "Track quantities",
+          "Availability follows the available pool"
+        ],
+        [
+          "Numbered mountain bikes",
+          "Track individually",
+          "Associate bookings with a specific unit"
+        ],
+        [
+          "Weekend hire",
+          "Multiday service",
+          "Set a minimum and maximum duration"
+        ]
+      ],
+      "note": "Test overlapping date ranges, pickup and return arrangements before opening the calendar."
+    },
+    "steps": [
+      [
+        "Model the equipment",
+        "Create your equipment and decide whether customers reserve from a shared quantity or identifiable units. Use labels customers can understand."
+      ],
+      [
+        "Connect equipment to the rental service",
+        "Choose availability per equipment, link the items and define the date or time rules. Configure duration and any multiday discounts."
+      ],
+      [
+        "Test an overlap and a return",
+        "Reserve the same equipment for overlapping dates, then verify the availability and customer confirmation. Check handover times and the payment policy separately."
+      ]
+    ],
+    "fit": [
+      "Bike, ski, trailer and equipment shops adding rentals to Shopify.",
+      "Stores with both rental services and products for sale."
+    ],
+    "boundary": "For damage bonds, insurance, maintenance operations or external rental marketplaces, confirm the exact workflow with our team. A booking calendar does not automatically replace every rental back-office system.",
+    "faq": [
+      [
+        "Can I rent the same item for several days?",
+        "Yes. Create a multiday service, configure minimum and maximum days, and connect equipment availability when the actual item must be reserved."
+      ],
+      [
+        "Can I track separate rental units?",
+        "Yes. The equipment guide documents quantity-based and individual tracking. Choose based on whether your items are interchangeable or need individual identifiers."
+      ],
+      [
+        "Can I offer discounts for a longer rental?",
+        "Yes. Multiday settings document percentage and fixed discounts based on the number of selected days."
+      ],
+      [
+        "Is a booking deposit the same as a damage bond?",
+        "No. A booking deposit is a payment toward the reservation. Confirm your requirements for damage deposits or card authorizations separately."
+      ]
+    ],
+    "integrations": [
+      "shopify-pos",
+      "google-calendar"
+    ],
+    "related": [
+      "tour",
+      "hotel",
+      "appointment"
+    ],
+    "guides": [
+      [
+        "Plan equipment rental inventory",
+        "/blog/shopify-equipment-rental-app-how-to-track-and-manage-inventory-(2026)"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Configure multiday booking services",
+        "https://help.cowlendar.com/how-to-multiday/how-to-configure-multiday-booking-services"
+      ],
+      [
+        "Equipment availability for rentals",
+        "https://help.cowlendar.com/how-to-equipment/how-to-set-up-bikes-ski-gear-or-trailers-as-equipment-in-cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "class",
+    "path": "/shopify-class-booking-app",
+    "updated": "2026-09-22",
+    "name": "Classes & workshops",
+    "image": "workshops",
+    "color": "peach",
+    "title": "Shopify Class Booking App for Workshops & Lessons | Cowlendar",
+    "description": "Sell classes and workshops on Shopify with seat limits, participant details, session packs and reminders. Make every class bookable with Cowlendar.",
+    "heading": "Your next class,",
+    "accent": "booked through Shopify.",
+    "intro": "From a first pottery lesson to a six-session course, give every student a clear path to a place in your class. Cowlendar connects dates, capacity and repeat visits to your Shopify storefront.",
+    "imageAlt": "Hands shaping clay during a pottery workshop",
+    "tags": [
+      "Seats per class",
+      "Session packs",
+      "Participant information"
+    ],
+    "visual": {
+      "title": "The pottery studio",
+      "subtitle": "Wheel throwing · 90 minutes",
+      "label": "Saturday classes",
+      "values": [
+        "10:00",
+        "13:00",
+        "16:00"
+      ],
+      "selected": "13:00",
+      "note": "Example: 8 seats per session"
+    },
+    "problemTitle": "Fill the class. Keep the details organized.",
+    "problem": "A workshop needs a date, a seat and the right preparation. Some customers buy one place; others book together or come back every week. Build the booking around the class you teach, with capacity and participant questions that keep the experience manageable.",
+    "features": [
+      [
+        "Capacity for the actual room",
+        "Set a maximum number of participants per time slot. For group bookings, test a purchase of several seats so the remaining capacity reflects the participants you expect."
+      ],
+      [
+        "Different people, different tickets",
+        "Participant types can represent adults, children or other categories with different prices. Ask for the details your instructor needs before class."
+      ],
+      [
+        "Make the next lesson easy to book",
+        "Use bundles for several sessions, or a subscription for an ongoing service offer. Define the credit and renewal rules for the package you sell."
+      ],
+      [
+        "Keep the class informed",
+        "Send confirmations, preparation instructions and reminders. Use a waitlist to collect interest when your service is full."
+      ]
+    ],
+    "example": {
+      "title": "One workshop, a few ways to join.",
+      "intro": "A creative studio can combine a single introductory session with a recurring learning offer. The same Shopify store can sell supplies alongside the experience.",
+      "rows": [
+        [
+          "First-time student",
+          "Single session",
+          "Choose one available class"
+        ],
+        [
+          "Friends booking together",
+          "Group quantity",
+          "Reserve several available seats"
+        ],
+        [
+          "Returning student",
+          "Bundle or subscription",
+          "Continue with more sessions"
+        ]
+      ],
+      "note": "Illustrative class offer. Confirm participant quantities, session selection and credit rules in your configuration."
+    },
+    "steps": [
+      [
+        "Define the session",
+        "Set the duration, class dates and room capacity. Use specific dates for one-off workshops or a recurring availability schedule."
+      ],
+      [
+        "Choose the customer journey",
+        "Configure participant details, group quantities and any packs. Explain what a customer receives and how future sessions are selected."
+      ],
+      [
+        "Try the last seats",
+        "Book several participants, fill the final places, and test a cancellation. Review the waitlist and customer messages before launch."
+      ]
+    ],
+    "fit": [
+      "Art studios, cooking schools, language classes and practical workshops.",
+      "Businesses selling lessons plus materials or supplies on Shopify."
+    ],
+    "boundary": "A booking app handles session reservations. If you also need recorded course delivery, examinations or an LMS, plan that part of your learning experience separately.",
+    "faq": [
+      [
+        "Can customers book several places in a class?",
+        "Yes. Group bookings and participant capacity let several customers join a time slot. Configure the quantity and participant rules for the service."
+      ],
+      [
+        "Can I sell a pack of lessons?",
+        "Yes. Cowlendar supports booking bundles and subscriptions. Choose the format based on how sessions are redeemed and whether the offer renews."
+      ],
+      [
+        "Can I run an online group class?",
+        "Yes. Zoom supports a shared link for everyone booking the same slot when that setting is enabled. Meeting-provider limits still apply."
+      ],
+      [
+        "Can I collect student information before class?",
+        "Yes. Use booking questions and participant details for information needed to prepare the session."
+      ]
+    ],
+    "integrations": [
+      "zoom",
+      "google-calendar",
+      "klaviyo"
+    ],
+    "related": [
+      "fitness",
+      "event",
+      "appointment"
+    ],
+    "guides": [
+      [
+        "Set up bookable workshops",
+        "/blog/how-to-book-workshop-events-using-shopify-apps"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Cowlendar setup guides",
+        "https://help.cowlendar.com/"
+      ],
+      [
+        "Shared Zoom links for group bookings",
+        "https://help.cowlendar.com/how-to-zoom-outlook/how-to-use-a-shared-zoom-link-for-group-bookings-in-the-same-time-slot"
+      ]
+    ]
+  },
+  {
+    "key": "event",
+    "path": "/shopify-event-booking-app",
+    "updated": "2026-09-22",
+    "name": "Events & experiences",
+    "image": "tastings",
+    "color": "rose",
+    "title": "Shopify Event Booking App for Tickets & Experiences | Cowlendar",
+    "description": "Sell bookable events and experiences on Shopify. Set event dates, participant capacity, booking questions and reminders with Cowlendar.",
+    "heading": "Make your next event",
+    "accent": "the one they book.",
+    "intro": "A wine tasting. A launch-night workshop. A pop-up experience. Turn your Shopify product into a bookable event with dates, participant limits and a customer journey that stays with your brand.",
+    "imageAlt": "A small group enjoying a wine tasting experience",
+    "tags": [
+      "Specific event dates",
+      "Group capacity",
+      "Participant categories"
+    ],
+    "visual": {
+      "title": "An evening at the vineyard",
+      "subtitle": "Guided tasting · 90 minutes",
+      "label": "Choose your event",
+      "values": [
+        "Thu 24",
+        "Fri 25",
+        "Sat 26"
+      ],
+      "selected": "Fri 25",
+      "note": "Example: 12 places · In person"
+    },
+    "problemTitle": "The booking is the first part of the experience.",
+    "problem": "Give guests the practical details before the doors open: when to arrive, where to go and what their reservation includes. Cowlendar lets you sell the date and the place together, with attendee questions and notifications built around the event.",
+    "features": [
+      [
+        "Dates chosen by you",
+        "Offer only the dates and time slots that belong to the event. A one-off launch and a weekly tasting do not need the same availability schedule."
+      ],
+      [
+        "Places that match your capacity",
+        "Control the participants accepted per slot. Use participant categories when your offer has different guest types and prices."
+      ],
+      [
+        "Useful details before arrival",
+        "Collect booking questions for preparation, then include the meeting location and practical instructions in your customer communication."
+      ],
+      [
+        "A route back for your guests",
+        "Use booking data with Klaviyo to build follow-up or rebooking flows. Configure the beta integration and test the relevant events before activating messages."
+      ]
+    ],
+    "example": {
+      "title": "A tasting that works for guests and hosts.",
+      "intro": "Imagine a tasting offered on three selected evenings. Each evening has twelve places and a preparation question for the host.",
+      "rows": [
+        [
+          "Choose an evening",
+          "Specific dates",
+          "Show only the event schedule"
+        ],
+        [
+          "Choose participants",
+          "Capacity + categories",
+          "Price and count the guests"
+        ],
+        [
+          "Prepare the visit",
+          "Questions + reminders",
+          "Share location and arrival details"
+        ]
+      ],
+      "note": "Illustrative configuration. The final seat count and payment rules are set by the merchant."
+    },
+    "steps": [
+      [
+        "Publish the event offer",
+        "Create the bookable service with its date, duration, meeting location and description. Explain what the ticket or reservation covers."
+      ],
+      [
+        "Set the attendance rules",
+        "Configure capacity, participant categories and required questions. Decide how cancellation and rescheduling should work for a date-specific event."
+      ],
+      [
+        "Run through the guest journey",
+        "Test a group purchase, the final available places and the confirmation. Make sure guests can find their date, venue and booking management details."
+      ]
+    ],
+    "fit": [
+      "Workshops, tastings, pop-ups, small events and scheduled brand experiences.",
+      "Shopify merchants who want products and experiences in the same store."
+    ],
+    "boundary": "For allocated seating maps, accreditation, complex ticket scanning or large festival operations, verify those requirements separately. Event capacity is not the same as a full venue-management system.",
+    "faq": [
+      [
+        "Can I sell tickets for a specific event date?",
+        "You can sell reservations for specific dates and time slots using a bookable Shopify service. Confirm any separate requirements for ticket formats, scanning or assigned seating."
+      ],
+      [
+        "Can guests book as a group?",
+        "Yes. Configure group quantities, participant types and a per-slot capacity that reflects how many guests can attend."
+      ],
+      [
+        "Can I run the event online?",
+        "Yes. Configure a virtual meeting location. For Zoom group sessions, enable the shared-link setting so guests booking the same slot receive the same meeting link."
+      ],
+      [
+        "Can I follow up with guests afterward?",
+        "Yes. The Klaviyo beta integration documents booking-ended and follow-up events. Build and test your flow using the actual event data and your messaging preferences."
+      ]
+    ],
+    "integrations": [
+      "klaviyo",
+      "shopify-pos",
+      "zoom"
+    ],
+    "related": [
+      "class",
+      "tour",
+      "appointment"
+    ],
+    "guides": [
+      [
+        "Sell event and webinar tickets",
+        "/blog/how-to-sell-workshop-and-webinar-tickets-on-your-shopify-store"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Connect Cowlendar to Klaviyo",
+        "https://help.cowlendar.com/connecting-cowlendar-to-klaviyo"
+      ],
+      [
+        "Shared Zoom links for group bookings",
+        "https://help.cowlendar.com/how-to-zoom-outlook/how-to-use-a-shared-zoom-link-for-group-bookings-in-the-same-time-slot"
+      ]
+    ]
+  },
+  {
+    "key": "salon",
+    "path": "/shopify-salon-booking-app",
+    "updated": "2026-09-22",
+    "name": "Salons & beauty",
+    "image": "beauty",
+    "color": "peach",
+    "title": "Shopify Salon Booking App for Hair & Beauty | Cowlendar",
+    "description": "Accept salon appointments on Shopify with stylist availability, booking deposits, reminders and Shopify POS. Cowlendar makes beauty services bookable.",
+    "heading": "A full salon day.",
+    "accent": "A calmer booking desk.",
+    "intro": "Let customers book a haircut, treatment or nail appointment directly from your Shopify store. Keep the chosen service, stylist and time together, then welcome them back at the counter with Shopify POS.",
+    "imageAlt": "A stylist working with a customer in a bright salon",
+    "tags": [
+      "Choose a stylist",
+      "Booking deposits",
+      "Shopify POS"
+    ],
+    "visual": {
+      "title": "Cut, care & a little confidence",
+      "subtitle": "Haircut + finish · 60 minutes",
+      "label": "Appointments with Alex",
+      "values": [
+        "10:30",
+        "12:00",
+        "14:30"
+      ],
+      "selected": "14:30",
+      "note": "Example service · Deposit available"
+    },
+    "problemTitle": "The right stylist. The right amount of time.",
+    "problem": "A quick trim and a longer treatment should not compete for the same default slot. Configure the duration and price for your service menu, assign the people who provide it and leave preparation time where your salon needs it.",
+    "features": [
+      [
+        "Let customers choose their person",
+        "Assign services to teammates and manage availability per stylist. The booking can follow the provider rather than a single calendar for the whole salon."
+      ],
+      [
+        "A service menu with real durations",
+        "Offer the appointment lengths your services need. Custom durations and booking rules help shape the day around the work."
+      ],
+      [
+        "A clear commitment before arrival",
+        "Use deposits or prepayment and explain the cancellation policy before customers book. Add reminders to keep the appointment details easy to find."
+      ],
+      [
+        "Rebook while they are still smiling",
+        "Use Cowlendar in Shopify POS to make a follow-up appointment and take an in-person payment. Online and counter bookings belong to the same Cowlendar schedule."
+      ]
+    ],
+    "example": {
+      "title": "From the first appointment to the next one.",
+      "intro": "A salon selling hair care products on Shopify can add appointments to the same storefront and rebook returning customers in person.",
+      "rows": [
+        [
+          "Online booking",
+          "Choose service + stylist",
+          "Show the relevant availability"
+        ],
+        [
+          "Before the visit",
+          "Deposit + reminder",
+          "Make the commitment clear"
+        ],
+        [
+          "At the counter",
+          "Shopify POS",
+          "Schedule the next visit"
+        ]
+      ],
+      "note": "Illustrative salon journey. Shopify POS requires a supported Shopify setup; payment and POS charges are separate."
+    },
+    "steps": [
+      [
+        "Build the service menu",
+        "Create bookable products with the right duration, price and preparation instructions. Assign the stylists who can deliver each service."
+      ],
+      [
+        "Configure the calendar and payments",
+        "Set stylist availability, calendar connections and the deposit or prepayment flow. Make the cancellation policy visible."
+      ],
+      [
+        "Test online and at the desk",
+        "Place a storefront booking, confirm the stylist calendar and then try a follow-up in Shopify POS. Check changes and customer notifications."
+      ]
+    ],
+    "fit": [
+      "Hair salons, barbers, nail studios and beauty businesses on Shopify.",
+      "Salons combining appointment revenue with a retail product range."
+    ],
+    "boundary": "If a treatment needs processing gaps, several providers in sequence or specialized salon records, bring that exact workflow to the trial so the team can confirm the configuration.",
+    "faq": [
+      [
+        "Can customers choose a stylist?",
+        "Yes. Set up the teammates assigned to a service and their availability, then configure teammate selection in the booking flow."
+      ],
+      [
+        "Can I take a deposit for a hair appointment?",
+        "Yes. Cowlendar supports deposits and prepayment. Confirm how the remaining balance is collected and how cancellations affect payments."
+      ],
+      [
+        "Can I book a follow-up from Shopify POS?",
+        "Yes. Cowlendar’s POS guide documents creating bookings and collecting payment from the Shopify POS app."
+      ],
+      [
+        "Can I sell salon products alongside appointments?",
+        "Yes. Your Shopify store can offer physical products and bookable services. Only the products you configure as services need a booking flow."
+      ]
+    ],
+    "integrations": [
+      "shopify-pos",
+      "google-calendar",
+      "klaviyo"
+    ],
+    "related": [
+      "appointment",
+      "fitness",
+      "class"
+    ],
+    "guides": [
+      [
+        "Set up salon and spa appointments",
+        "/blog/how-to-set-up-salon-and-spa-appointments-on-shopify"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Set up Cowlendar in Shopify POS",
+        "https://help.cowlendar.com/how-to-calendar/how-to-set-up-cowlendar-in-the-shopify-pos-app"
+      ],
+      [
+        "Booking and busy-time sync",
+        "https://help.cowlendar.com/how-to-google/how-can-we-have-our-bookings-sync-into-our-google-calendar"
+      ]
+    ]
+  },
+  {
+    "key": "tour",
+    "path": "/shopify-tour-booking-app",
+    "updated": "2026-09-22",
+    "name": "Tours & activities",
+    "image": "kayak",
+    "color": "sky",
+    "title": "Shopify Tour Booking App for Activities & Trips | Cowlendar",
+    "description": "Sell tours and activities on Shopify. Manage departure times, participant capacity, equipment and multiday experiences with Cowlendar.",
+    "heading": "Book the adventure.",
+    "accent": "Keep the admin ashore.",
+    "intro": "Put your kayak tours, walking experiences and guided trips on your Shopify storefront. Let guests choose a departure, tell you who is coming and reserve the places your team can actually deliver.",
+    "imageAlt": "A kayak on calm water during an outdoor experience",
+    "tags": [
+      "Departure times",
+      "Guest capacity",
+      "Equipment availability"
+    ],
+    "visual": {
+      "title": "The morning kayak adventure",
+      "subtitle": "Guided tour · 2 hours",
+      "label": "Your next departure",
+      "values": [
+        "09:00",
+        "11:30",
+        "14:00"
+      ],
+      "selected": "09:00",
+      "note": "Example: 6 participants · Guide-led"
+    },
+    "problemTitle": "A departure has more than one moving part.",
+    "problem": "Your tour may depend on a guide, seats and equipment. Decide what controls availability, then build the service around that constraint. Clear participant information and meeting instructions help guests arrive ready for the experience.",
+    "features": [
+      [
+        "Departures that follow your operation",
+        "Set the time slots and specific dates you offer. Booking rules and preparation time help keep last-minute reservations and turnarounds manageable."
+      ],
+      [
+        "Count the guests who are coming",
+        "Configure group capacity and participant categories. Adult and child prices can represent different ticket types without losing sight of total places."
+      ],
+      [
+        "Connect the equipment you provide",
+        "Use equipment-based availability when bikes, boats or other items control the service. Confirm the right resource model for a guided activity that also depends on staff."
+      ],
+      [
+        "From an afternoon to several days",
+        "Offer a timed activity, a full-day experience or a multiday trip. Choose the booking format that matches the actual itinerary."
+      ]
+    ],
+    "example": {
+      "title": "Six kayaks. Two departures. One clear offer.",
+      "intro": "A small operator can offer morning and afternoon departures, collect participant information and explain where the group meets.",
+      "rows": [
+        [
+          "09:00 departure",
+          "Timed service",
+          "Set duration and guest capacity"
+        ],
+        [
+          "Equipment",
+          "Tracked availability",
+          "Link the items used by the service"
+        ],
+        [
+          "Guest preparation",
+          "Booking questions",
+          "Collect relevant details and share instructions"
+        ]
+      ],
+      "note": "This is a planning example. Test how guide and equipment constraints interact in your actual service."
+    },
+    "steps": [
+      [
+        "Choose the tour format",
+        "Define the departure dates, duration, location and participant prices. Explain inclusions, preparation and cancellation terms on the product page."
+      ],
+      [
+        "Set capacity and availability",
+        "Choose the availability model and resource rules that reflect the tour. Test a group booking against remaining capacity."
+      ],
+      [
+        "Prepare for a changed plan",
+        "Test rescheduling, cancellation and guest notifications. Decide how your team will handle weather decisions and payment outcomes."
+      ]
+    ],
+    "fit": [
+      "Local tour operators, guided activities and outdoor experience businesses.",
+      "Shopify stores selling experiences alongside gear or merchandise."
+    ],
+    "boundary": "Plan your weather policies, transport logistics and booking changes alongside the reservation flow. If you sell through tour marketplaces, confirm their distribution requirements separately.",
+    "faq": [
+      [
+        "Can I offer different tour departure times?",
+        "Yes. Define available time slots or specific dates for each service and set the duration of the activity."
+      ],
+      [
+        "Can I charge different prices for adults and children?",
+        "Participant types can represent different guest categories and prices. Configure the quantities and total capacity for the tour."
+      ],
+      [
+        "Can I sell a multiday trip?",
+        "Yes. Multiday services support date ranges and minimum or maximum bookable days. Test the dates and pricing for the itinerary you sell."
+      ],
+      [
+        "Can guests book equipment and a guide together?",
+        "Cowlendar supports teammate and equipment availability models. Ask the team to verify the exact resource configuration when one experience depends on both."
+      ]
+    ],
+    "integrations": [
+      "google-calendar",
+      "shopify-pos"
+    ],
+    "related": [
+      "rental",
+      "event",
+      "hotel"
+    ],
+    "guides": [
+      [
+        "Add tour bookings to Shopify",
+        "/blog/how-to-add-tour-booking-to-shopify-best-apps-setup-(2026)"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Configure multiday booking services",
+        "https://help.cowlendar.com/how-to-multiday/how-to-configure-multiday-booking-services"
+      ],
+      [
+        "Equipment availability for rentals",
+        "https://help.cowlendar.com/how-to-equipment/how-to-set-up-bikes-ski-gear-or-trailers-as-equipment-in-cowlendar"
+      ]
+    ]
+  },
+  {
+    "key": "hotel",
+    "path": "/shopify-hotel-booking-app",
+    "updated": "2026-09-22",
+    "name": "Hotels & stays",
+    "image": "hotel",
+    "color": "sage",
+    "title": "Shopify Hotel Booking App for Direct Stays | Cowlendar",
+    "description": "Accept direct hotel and holiday-stay bookings on Shopify. Configure date ranges, room availability and booking payments with Cowlendar.",
+    "heading": "Your stay. Your storefront.",
+    "accent": "Their next check-in.",
+    "intro": "Sell direct stays through your own Shopify store. Cowlendar gives boutique accommodation and holiday rentals a date-based booking flow, with availability configured around the room or property being reserved.",
+    "imageAlt": "A peaceful boutique hotel room ready for guests",
+    "tags": [
+      "Direct bookings",
+      "Date ranges",
+      "Room or property availability"
+    ],
+    "visual": {
+      "title": "A little weekend away",
+      "subtitle": "Garden room · Direct reservation",
+      "label": "Choose your stay",
+      "values": [
+        "Fri 25",
+        "Sat 26",
+        "Sun 27"
+      ],
+      "selected": "Sat 26",
+      "note": "Illustrative stay · Check date boundaries"
+    },
+    "problemTitle": "Make direct booking feel like part of the stay.",
+    "problem": "Your accommodation website should explain the room, the dates and the payment in one place. A multiday service can bring that reservation into Shopify, while equipment availability represents the room or property that must be free for the selected period.",
+    "features": [
+      [
+        "Reserve a period, not just a time",
+        "Let guests choose their dates and configure the minimum and maximum bookable days. Verify how the date selection corresponds to your check-in and check-out policy."
+      ],
+      [
+        "Availability by room or property",
+        "Choose equipment-based availability when each unit has its own calendar. A room label should match the unit the guest expects to reserve."
+      ],
+      [
+        "A reason to stay longer",
+        "Use multiday discount tiers for longer reservations. Test the total against your intended nightly or date-based charging rules."
+      ],
+      [
+        "A clear booking payment",
+        "Configure deposits or prepayment and put arrival details in the customer communication. Check remaining-balance and refund handling separately."
+      ]
+    ],
+    "example": {
+      "title": "A small property, selling stays directly.",
+      "intro": "A boutique accommodation business can represent its rooms or cottages as bookable resources, with an offer and date rules for each service.",
+      "rows": [
+        [
+          "Room or cottage",
+          "Equipment availability",
+          "Reserve the intended unit"
+        ],
+        [
+          "Date selection",
+          "Multiday service",
+          "Check arrival, departure and chargeable dates"
+        ],
+        [
+          "Reservation payment",
+          "Deposit or prepayment",
+          "Explain the balance and cancellation policy"
+        ]
+      ],
+      "note": "Example only. Validate night counting, turnaround time and same-day check-out/check-in before accepting guests."
+    },
+    "steps": [
+      [
+        "Map the accommodation",
+        "Decide which room or property is represented by each resource. Create the bookable service and a precise description of the stay."
+      ],
+      [
+        "Check the date and rate rules",
+        "Configure bookable days, availability and any discounts. Compare the total for a one-night, weekend and longer-stay example."
+      ],
+      [
+        "Reconcile other sales channels",
+        "If you also sell through travel marketplaces, establish how their reservations block your direct availability. Test the complete operational process before launch."
+      ]
+    ],
+    "fit": [
+      "Small accommodation businesses selling direct stays from Shopify.",
+      "Holiday properties and retreat businesses with a clear date-based offer."
+    ],
+    "boundary": "Cowlendar is a booking app, not a full hotel PMS or OTA channel manager. The help center currently states that direct Airbnb calendar synchronization is not available. Confirm external-channel, housekeeping and rate-management requirements separately.",
+    "faq": [
+      [
+        "Can Cowlendar take hotel or vacation-home bookings?",
+        "Yes. The multiday documentation lists hotel, vacation-home and room bookings. Configure the property availability and test the arrival, departure and pricing rules."
+      ],
+      [
+        "Does Cowlendar synchronize directly with Airbnb?",
+        "The current help-center answer says this is not available. Do not assume Airbnb reservations will automatically block your Shopify calendar."
+      ],
+      [
+        "Is Cowlendar a complete hotel property-management system?",
+        "No. It provides the booking flow for Shopify. Dedicated PMS functions, housekeeping workflows, OTA distribution and specialist hotel operations should be evaluated separately."
+      ],
+      [
+        "Can I set a minimum stay and a longer-stay discount?",
+        "Multiday settings document minimum and maximum bookable days and discounts based on selected days. Verify how those settings correspond to your intended number of nights."
+      ]
+    ],
+    "integrations": [
+      "google-calendar",
+      "klaviyo"
+    ],
+    "related": [
+      "rental",
+      "tour",
+      "event"
+    ],
+    "guides": [
+      [
+        "Plan vacation-rental bookings on Shopify",
+        "/blog/how-to-add-vacation-rental-booking-to-your-shopify-store-in-2026"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Configure multiday booking services",
+        "https://help.cowlendar.com/how-to-multiday/how-to-configure-multiday-booking-services"
+      ],
+      [
+        "Airbnb calendar sync: current limitation",
+        "https://help.cowlendar.com/questions/does-cowlendar-synchronize-to-airbnb-calendar-booking"
+      ]
+    ]
+  },
+  {
+    "key": "fitness",
+    "path": "/shopify-fitness-booking-app",
+    "updated": "2026-09-22",
+    "name": "Fitness & yoga",
+    "image": "fitness",
+    "color": "lavender",
+    "title": "Shopify Fitness Booking App for Yoga & Studios | Cowlendar",
+    "description": "Book fitness classes and personal training on Shopify. Offer session packs, subscriptions, class capacity and reminders with Cowlendar.",
+    "heading": "Make movement",
+    "accent": "part of their calendar.",
+    "intro": "Sell yoga classes, small-group training and personal sessions from your Shopify store. Cowlendar brings the class schedule, available places and repeat-booking offers into one customer journey.",
+    "imageAlt": "A yoga class in a bright fitness studio",
+    "tags": [
+      "Classes + personal training",
+      "Packs & subscriptions",
+      "Capacity & waitlists"
+    ],
+    "visual": {
+      "title": "A good morning to move",
+      "subtitle": "Studio yoga · 60 minutes",
+      "label": "Find your class",
+      "values": [
+        "07:30",
+        "09:00",
+        "18:00"
+      ],
+      "selected": "09:00",
+      "note": "Example: 10 mats · Class pass available"
+    },
+    "problemTitle": "One studio. More than one way to train.",
+    "problem": "A private coaching session reserves a trainer’s time. A yoga class reserves one of the places in a room. Cowlendar lets you build those services around different availability rules while keeping your offers in the same Shopify store.",
+    "features": [
+      [
+        "Keep classes at the right size",
+        "Set capacity for each time slot and collect participant information. Use a waitlist to capture interest when the class is full."
+      ],
+      [
+        "Give regulars a way to return",
+        "Sell a bundle of sessions or a recurring service subscription. Explain the booking credits, renewal schedule and redemption rules for your offer."
+      ],
+      [
+        "Protect personal-training time",
+        "Assign teammates and connect their calendars. Set the session duration and preparation time that fit the trainer’s day."
+      ],
+      [
+        "Connect the visit to the next one",
+        "Use reminders before class and the Klaviyo beta integration for attended-customer segments or follow-up messages. Test the events and avoid duplicate notifications."
+      ]
+    ],
+    "example": {
+      "title": "Drop in. Build a habit. Book a coach.",
+      "intro": "A studio can serve a new visitor, a regular class member and a personal-training customer with different service formats.",
+      "rows": [
+        [
+          "Drop-in yoga",
+          "Group class",
+          "One place from the class capacity"
+        ],
+        [
+          "Recurring class offer",
+          "Subscription",
+          "Define the booking credits and renewal"
+        ],
+        [
+          "Personal training",
+          "One-to-one appointment",
+          "Trainer availability and a dedicated duration"
+        ]
+      ],
+      "note": "Illustrative offer. A subscription is a booking entitlement; confirm how credits, renewal and future reservations work for your setup."
+    },
+    "steps": [
+      [
+        "Separate the service formats",
+        "Create class and private-training services with the correct duration, capacity and assigned teammates."
+      ],
+      [
+        "Build the repeat-visit offer",
+        "Choose a bundle or subscription and write clear credit and renewal terms. Test a first purchase and the next booking made with it."
+      ],
+      [
+        "Try a full class and a changed session",
+        "Reserve the final place, inspect the waitlist and test a reschedule. Check customer communication and the trainer’s calendar."
+      ]
+    ],
+    "fit": [
+      "Yoga and Pilates studios, small-group fitness and personal trainers.",
+      "Businesses selling classes together with equipment, apparel or wellness products."
+    ],
+    "boundary": "If your business needs turnstile access, gym-floor attendance hardware or a full gym-management suite, evaluate those requirements separately from the booking flow.",
+    "faq": [
+      [
+        "Can I sell class passes or recurring memberships?",
+        "Cowlendar supports bundles and recurring service subscriptions. Define the credits and renewal rules, then test how customers use them to book classes."
+      ],
+      [
+        "Can I combine classes with personal training?",
+        "Yes. Use separate services with the appropriate group capacity or individual teammate availability."
+      ],
+      [
+        "Does buying a subscription automatically reserve every future class?",
+        "Do not assume it does. The subscription and the actual session reservations have separate rules. Configure and test the booking-credit flow for your offer."
+      ],
+      [
+        "Can I offer virtual fitness classes?",
+        "Yes. A service can use a virtual meeting location. Zoom has a shared-link option for people booking the same group slot."
+      ]
+    ],
+    "integrations": [
+      "google-calendar",
+      "zoom",
+      "klaviyo"
+    ],
+    "related": [
+      "class",
+      "appointment",
+      "event"
+    ],
+    "guides": [
+      [
+        "Yoga and fitness booking setup",
+        "/blog/best-shopify-booking-app-for-yoga-studios-and-fitness-classes-(2026)"
+      ]
+    ],
+    "sources": [
+      [
+        "Cowlendar on the Shopify App Store",
+        "https://apps.shopify.com/cowlendar"
+      ],
+      [
+        "Cowlendar setup guides",
+        "https://help.cowlendar.com/"
+      ],
+      [
+        "Connect Cowlendar to Klaviyo",
+        "https://help.cowlendar.com/connecting-cowlendar-to-klaviyo"
+      ],
+      [
+        "Shared Zoom links for group bookings",
+        "https://help.cowlendar.com/how-to-zoom-outlook/how-to-use-a-shared-zoom-link-for-group-bookings-in-the-same-time-slot"
+      ]
+    ]
+  }
+]
