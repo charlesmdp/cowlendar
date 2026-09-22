@@ -4,7 +4,7 @@
 
 - Canonical: https://cowlendar.com/blog/how-to-add-tour-booking-to-shopify-best-apps-setup-(2026)
 - Published: 2026-08-02T00:00:00.000Z
-- Updated: 2026-08-02T18:07:26.836Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 A boutique winery in Napa Valley offers walking vineyard tours with wine tastings capped at 12 guests per group. On a sunny Saturday morning, four walk-in guests purchase tickets at the tasting room counter while eight customers buy tickets on the website for the same 2:00 PM slot.
@@ -141,7 +141,7 @@ Selecting the right booking application depends on your group size, budget, and 
 
 **Pricing:**
 
--   Free Plan: €0/month (Up to 5 bookings)
+-   Free Plan: $0/month, all features; see current usage allowance on the pricing page.
     
 -   Starter Plan: €13.99/month (Up to $1,000 revenue or 50 bookings)
     

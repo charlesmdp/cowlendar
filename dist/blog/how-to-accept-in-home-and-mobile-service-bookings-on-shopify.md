@@ -4,7 +4,7 @@ Accept in-home service bookings on Shopify
 
 - Canonical: https://cowlendar.com/blog/how-to-accept-in-home-and-mobile-service-bookings-on-shopify
 - Published: 2026-06-14T00:00:00.000Z
-- Updated: 2026-06-15T04:16:03.627Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 A plumbing company in Phoenix, AZ has four technicians and a Shopify store where it sells water filters, pipe repair kits, and branded merchandise alongside its service appointments. The company currently handles bookings through a mix of phone calls, text messages, and a contact form on its website. The office manager spends 2.5 hours per day scheduling appointments, confirming addresses, and reminding technicians where to go. Last month, two technicians drove to the wrong address because the booking confirmation email did not include the full service address. The wasted trips cost $180 in fuel and 3 hours of lost billable time. The company also lost a $420 water heater installation because the client booked through the contact form and never received a confirmation, so the client assumed the appointment was not scheduled and called a competitor.
@@ -73,7 +73,7 @@ Cowlendar supports deposits on all paid plans. You can set deposit amounts per s
 
 ### Cowlendar
 
-[Cowlendar](https://apps.shopify.com/cowlendar) is the most feature-rich Shopify-native booking app with 22,500+ active merchants, a 4.9-star rating across 2,056+ reviews, and a Built for Shopify badge. It supports custom intake questions with file upload on every plan, multiple provider scheduling, deposits and pre-payment, automated email reminders, and Google Calendar two-way sync. The free plan covers all features with 5 bookings per month. All paid plans include every feature with no feature gating; the only difference is the monthly booking revenue cap: Starter ($13.99/month) up to $1,000 revenue, Basic ($29.99/month) up to $3,000 revenue, and Growth ($59.99/month) up to $10,000 revenue.
+[Cowlendar](https://apps.shopify.com/cowlendar) is the most feature-rich Shopify-native booking app with 22,500+ active merchants, a 4.9-star rating across 2,056+ reviews, and a Built for Shopify badge. It supports custom intake questions with file upload on every plan, multiple provider scheduling, deposits and pre-payment, automated email reminders, and Google Calendar two-way sync. The free plan covers all features with a free plan with all features. All paid plans include every feature with no feature gating; the only difference is the monthly booking revenue cap: Starter ($13.99/month) up to $1,000 revenue, Basic ($29.99/month) up to $3,000 revenue, and Growth ($59.99/month) up to $10,000 revenue.
 
 For an in-home service business, Cowlendar's custom intake forms are the key differentiator. A plumbing company can collect the type of plumbing issue, photos of the problem, the age of the home, and whether there is a basement or crawlspace. A cleaning company can collect the number of rooms, whether there are pets, and any areas to avoid. This information is passed to the technician automatically, eliminating the pre-visit phone call.
 

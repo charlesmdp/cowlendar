@@ -30,7 +30,7 @@ On mobile, the customer should be able to see the date, start time, instructor a
 ## Budget for the studio you are becoming
 Calculate the next six months of expected bookings and revenue, then include staff logins, required integrations and any messaging or subscription charges. Some free plans are generous for a single service; they may still lack the pass or calendar behavior you need.
 
-Cowlendar's five-booking free plan is a small test allowance. A studio running daily classes should compare the relevant paid revenue tier with the competitor plan that actually includes groups, passes and waitlists.
+Cowlendar's free plan with all features is a small test allowance. A studio running daily classes should compare the relevant paid revenue tier with the competitor plan that actually includes groups, passes and waitlists.
 
 ## Pilot one recurring class
 Start with one class type and two weeks of dates. Test payment, cancellation, a full class, a substitute instructor and a credit redemption if you sell packs. Keep your current attendance records until the new system's counts are reconciled.

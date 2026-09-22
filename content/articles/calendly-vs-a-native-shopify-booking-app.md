@@ -64,7 +64,7 @@ Connect Google Calendar or [Outlook](https://outlook.com/) for two-way sync. Blo
 
 ### Step 4: Configure reminders and notifications
 
-Set email reminders at the intervals that fit your business. The free plan includes email notifications. Pro and above add reminder customization and additional notification triggers.
+Set email reminders at the intervals that fit your business. The free plan includes email notifications. The current plans include the full feature set; check the available reminder options in your service settings.
 
 ### Step 5: Test the full flow before going live
 
@@ -76,15 +76,15 @@ If you want to see the complete process in under 10 minutes, this walkthrough by
 
 ### Cowlendar
 
-Cowlendar has moved to a revenue-based pricing model. The **free plan** gives you up to 5 bookings to test the setup. After that, plans scale with your booking revenue: **Pro at $13.99/month** covers up to $1,000 in monthly booking revenue; **Elite at $29.99/month** covers up to $3,000; **Ultra at $59.99/month** covers up to $10,000; and higher tiers from $99.99 to $299.99/month go up to unlimited revenue.
+Cowlendar has moved to a revenue-based pricing model. The **free plan** includes all features; usage allowances apply. After that, plans scale with your booking revenue: **Starter at $13.99/month** covers up to $1,000 in monthly booking revenue; **Basic at $29.99/month** covers up to $3,000; **Growth at $59.99/month** covers up to $10,000; ask the team about needs above the published tiers.
 
 Every paid plan includes all features: group booking, multiday, full-day, bundle, subscription, court sport, restaurant, and virtual booking types. [Google Calendar](https://calendar.google.com/), Outlook, Zoom, and [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams) integration. POS support. Deposits and prepayment. Custom booking duration. Live chat support.
 
-The revenue-based model is worth understanding. A surf school doing $800/month in bookings stays on the $13.99/month Pro plan with no feature restrictions. A yoga studio hitting $2,500/month stays on the $29.99/month Elite plan. You pay for the scale you actually use, not for features you may or may not need.
+The revenue-based model is worth understanding. A surf school doing $800/month in bookings stays on the $13.99/month Starter plan with no feature restrictions. A yoga studio hitting $2,500/month stays on the $29.99/month Basic plan. You pay for the scale you actually use, not for features you may or may not need.
 
 Where Cowlendar has a genuine edge: the breadth of booking types in a single app, and the upsell and bundle booking features that let you combine services at checkout. A cooking class business can sell a class spot, a recipe PDF, and a wine pairing kit in one Shopify transaction.
 
-Where Cowlendar falls short: the free plan's 5-booking limit means testing is minimal before committing to a paid tier. Businesses already generating significant booking revenue will find the per-plan cost higher than the old flat-fee model.
+Budget consideration: Cowlendar’s free plan includes all features, with a usage allowance. Paid tiers scale with booking revenue, so compare your typical and busiest months against the published thresholds.
 
 4.9 stars, 2,000+ reviews on the Shopify App Store.
 
@@ -92,7 +92,7 @@ Where Cowlendar falls short: the free plan's 5-booking limit means testing is mi
 
 [Sesami](https://apps.shopify.com/sesami) starts at $19/month with a free trial. It is built for multi-location businesses and team-based services: beauty chains, wellness studios, corporate training programs. Sesami Flows allow automated email sequences and webhooks triggered by booking events, which is powerful for businesses that need marketing automation tied to scheduling.
 
-Sesami's reporting is more detailed than Cowlendar's at comparable price points, especially useful for businesses tracking staff utilization across multiple locations. The SDK and API access make Sesami the better choice for businesses with technical teams who want to customize the booking experience.
+Sesami is worth evaluating for teams that want its SDK and automation ecosystem. Cowlendar also documents a public API and webhooks in beta, so developer access alone does not decide the comparison. Compare the required endpoints, booking events and plan access.
 
 Where Sesami falls short: the pricing model is per-feature-tier, not per-revenue, so smaller businesses pay for capabilities they don't use. Solo service providers rarely need what Sesami offers.
 
@@ -100,11 +100,9 @@ Where Sesami falls short: the pricing model is per-feature-tier, not per-revenue
 
 ### BTA (BookThatApp)
 
-[BTA](https://apps.shopify.com/bookthatapp) now offers a free plan, with paid tiers starting at $19.95/month. It has been in the Shopify ecosystem for over 15 years and handles multi-day rentals and resource allocation (tracking rooms, equipment, vehicles) better than any other native app.
+[BookThatApp](https://apps.shopify.com/bookthatapp) is worth evaluating for rentals and resource-based scheduling. Its published Lite plan is $25/month for 50 bookings; Premium is $49.95 for 350 bookings and lists deposits; Business is $110 for 1,000 bookings and lists API access. Compare the required tier with your booking volume.
 
-A boat rental company managing 8 vessels, each with different availability, seasonal pricing, and maintenance blocks, needs BTA. Cowlendar and Sesami are not built for that level of resource tracking. BTA is the right choice for equipment rental, vacation properties, and venue booking where the asset being reserved (not just the service) needs its own calendar.
-
-4.6 stars, 379 reviews.
+Cowlendar also supports multiday booking and equipment availability. For a fleet or equipment business, test a real example with maintenance blocks, overlapping bookings and the required checkout flow before choosing. See the [full Cowlendar vs BookThatApp comparison](/cowlendar-vs-book-that-app) for current sources and cost scenarios.
 
 ### What about Calendly?
 
@@ -134,7 +132,7 @@ Calendly can be embedded on a Shopify page using third-party embed tools, but th
 
 ### How does Cowlendar's pricing work in 2026?
 
-Cowlendar now uses a revenue-based model. The free plan allows up to 5 bookings. Paid plans scale with your monthly booking revenue: $13.99/month for up to $1,000, $29.99/month for up to $3,000, $59.99/month for up to $10,000, and higher tiers up to $299.99/month for unlimited revenue. All paid plans include the same full feature set. You pay for scale, not for features.
+Cowlendar now uses a revenue-based model. The free plan includes all features; usage allowances apply. Paid plans scale with your monthly booking revenue: $13.99/month for up to $1,000, $29.99/month for up to $3,000, $59.99/month for up to $10,000; ask the team about needs above the published tiers. All paid plans include the same full feature set. You pay for scale, not for features.
 
 ### What happens to existing Calendly bookings when I switch?
 

@@ -4,7 +4,7 @@ Choose between Google Calendar appointment schedules and Cowlendar for Shopify, 
 
 - Canonical: https://cowlendar.com/blog/google-calendar-appointments-versus-cowlendar
 - Published: 2024-06-03T00:00:00.000Z
-- Updated: 2026-09-22T10:00:00Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 ## The short answer
@@ -37,7 +37,7 @@ If the booking is free or does not belong in your store's order history, a separ
 ## When Cowlendar fits better
 Cowlendar is worth evaluating when customers should discover a service in your Shopify store, select a date or time and follow the configured store payment flow. It lists groups, multi-day bookings, bundles, deposits and several calendar/meeting integrations.
 
-Its free plan includes five bookings per month, followed by booking-revenue tiers. That is a different cost model from a Google subscription. Compare the total system you need, including Shopify, rather than claiming that either option is universally cheaper.
+Its free plan includes all features; paid plans follow booking-revenue tiers. That is a different cost model from a Google subscription. Compare the total system you need, including Shopify, rather than claiming that either option is universally cheaper.
 
 ## Test calendar conflicts rather than assuming sync
 Create a busy event in the relevant external calendar, then check whether the customer can still choose that time. Test a cancellation and a reschedule in both directions supported by the tool. Record where staff should make changes.

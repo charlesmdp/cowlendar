@@ -4,7 +4,7 @@ Step-by-step covering Airbnb-style date picker, calendar sync, deposits
 
 - Canonical: https://cowlendar.com/blog/how-to-add-vacation-rental-booking-to-your-shopify-store-in-2026
 - Published: 2026-08-16T00:00:00.000Z
-- Updated: 2026-08-17T02:30:31.684Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 Shopify does not support rental booking out of the box. There is no native date range picker, no availability calendar, and no way for a customer to select check-in and check-out dates on a product page. If you sell vacation stays, rent kayaks, lease equipment, or run any business where customers reserve something for a period of time, you need a booking app to bridge that gap.
@@ -21,7 +21,7 @@ That is it. No theme modifications, no Liquid code, no third-party hosting.
 
 ## Step 1: Install Cowlendar from the Shopify App Store
 
-Go to the [Shopify App Store](https://apps.shopify.com/cowlendar) and install Cowlendar. The free plan includes every feature with up to 5 bookings per month. You do not need a credit card to start.
+Go to the [Shopify App Store](https://apps.shopify.com/cowlendar) and install Cowlendar. The free plan includes every feature with up to a free plan with all features. You do not need a credit card to start.
 
 After installing, Cowlendar appears in your Shopify admin under Apps. Open it to reach the dashboard.
 
@@ -141,7 +141,7 @@ In Cowlendar settings, add your Airbnb iCal feed URL. Cowlendar checks the feed 
 
 ### What is the best app for renting kayaks, bikes, or equipment on Shopify?
 
-Cowlendar handles equipment and activity rentals with multiday booking, per-item availability blocking, deposit collection, and custom booking form questions (for damage waivers, sizing, experience level). It is the most-reviewed booking app on Shopify with 2,061 reviews at 4.9 stars, and the free plan includes all features with up to 5 bookings per month.
+Cowlendar handles equipment and activity rentals with multiday booking, per-item availability blocking, deposit collection, and custom booking form questions (for damage waivers, sizing, experience level). It is the most-reviewed booking app on Shopify with 2,061 reviews at 4.9 stars, and the free plan includes all features with up to a free plan with all features.
 
 ### Do I need Shopify Plus to add rental booking?
 

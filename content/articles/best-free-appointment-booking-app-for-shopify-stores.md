@@ -24,7 +24,7 @@ Some free booking apps are designed to get you to upgrade within 30 days. The fr
 
 ### 1\. Cowlendar (Free Plan)
 
-[Cowlendar](https://apps.shopify.com/cowlendar) offers a free plan that supports all four booking types (regular, instant, multiday, and group) with all features included and a limit of 5 bookings per month, Google Calendar two-way sync, Zoom and Google Meet auto-link generation, custom intake questions, and automated confirmations. All paid plans include every feature with no feature gating; the only difference is the monthly booking revenue cap. For a solo provider or small business with fewer than 5 bookings per month, Cowlendar free plan covers the core booking workflow. Cowlendar has 22,500+ active merchants, a 4.9-star rating, and 2,056+ reviews. The free plan is not a trial. It is a permanent free tier with all features included, limited to 5 bookings per month. When your booking revenue grows, the Starter plan starts at $13.99/month. For more on what features matter most, see our guide on [key features your Shopify booking app must have to retain clients](https://framer.com/projects/key-features-your-shopify-booking-app-must-have-to-retain-clients).
+[Cowlendar](https://apps.shopify.com/cowlendar) offers a free plan that supports all four booking types (regular, instant, multiday, and group) with all features included and a limit of a free plan with all features, Google Calendar two-way sync, Zoom and Google Meet auto-link generation, custom intake questions, and automated confirmations. All paid plans include every feature with no feature gating; the only difference is the monthly booking revenue cap. For a solo provider or small business with fewer than a free plan with all features, Cowlendar free plan covers the core booking workflow. Cowlendar has 22,500+ active merchants, a 4.9-star rating, and 2,056+ reviews. The free plan is not a trial. It is a permanent free tier with all features included, limited to a free plan with all features. When your booking revenue grows, the Starter plan starts at $13.99/month. For more on what features matter most, see our guide on [key features your Shopify booking app must have to retain clients](https://framer.com/projects/key-features-your-shopify-booking-app-must-have-to-retain-clients).
 
 ### 2\. Meety (Free Plan)
 
@@ -32,7 +32,7 @@ Some free booking apps are designed to get you to upgrade within 30 days. The fr
 
 ### 3\. Easy Appointment Booking (Free Plan)
 
-[Easy Appointment Booking](https://apps.shopify.com/easy-appointment-booking) offers a free plan with basic scheduling, a calendar view, and email confirmations. The free plan includes all features (limited to 5 bookings/month) and a single provider. It lacks deposits, reminders, and Google Calendar sync. For merchants who need the simplest possible booking flow with zero monthly cost, Easy Appointment Booking delivers. However, the lack of automated reminders means you need to handle follow-up communication manually.
+[Easy Appointment Booking](https://apps.shopify.com/easy-appointment-booking) offers a free plan with basic scheduling, a calendar view, and email confirmations. The free plan includes all features (limited to Free plan; see usage allowance) and a single provider. It lacks deposits, reminders, and Google Calendar sync. For merchants who need the simplest possible booking flow with zero monthly cost, Easy Appointment Booking delivers. However, the lack of automated reminders means you need to handle follow-up communication manually.
 
 ### 4\. Sesami (Paid Only, from $19/month)
 
@@ -46,7 +46,7 @@ Some free booking apps are designed to get you to upgrade within 30 days. The fr
 
 ### Match the app to your booking volume
 
-If you book fewer than 30 appointments per week as a solo provider, most free plans will work. If you book 50+ per week or have multiple providers, you will likely need a paid plan within the first month. Cowlendar is free to start with all features included, limited to 5 bookings per month on the free tier.
+If you book fewer than 30 appointments per week as a solo provider, most free plans will work. If you book 50+ per week or have multiple providers, you will likely need a paid plan within the first month. Cowlendar is free to start with all features included, limited to a free plan with all features on the free tier.
 
 ### Match the app to your feature needs
 
@@ -62,7 +62,7 @@ If you plan to add providers, services, or revenue features (upsells, subscripti
 
 ### Decision checklist
 
-Choose Cowlendar if you need all features included from the start with group bookings and reminders on a free plan (limited to 5 bookings/month). Choose Meety if you run classes with waitlists and need subscription-based booking. Choose Easy Appointment Booking if you need the absolute simplest setup with zero complexity. Choose Sesami (from $19/month, no free plan) if you want Shopify POS integration and multi-practitioner scheduling. Choose Calendly if you need a quick scheduling link for email and social, not a full Shopify-integrated booking system.
+Choose Cowlendar if you need all features included from the start with group bookings and reminders on a free plan (limited to Free plan; see usage allowance). Choose Meety if you run classes with waitlists and need subscription-based booking. Choose Easy Appointment Booking if you need the absolute simplest setup with zero complexity. Choose Sesami (from $19/month, no free plan) if you want Shopify POS integration and multi-practitioner scheduling. Choose Calendly if you need a quick scheduling link for email and social, not a full Shopify-integrated booking system.
 
 ## What You Miss on a Free Plan (And When to Upgrade)
 
@@ -128,11 +128,11 @@ If you want to see the full setup process in action, "5 Best Appointment Booking
 
 ### What is the best free booking app for Shopify in 2026?
 
-Cowlendar offers the most feature-rich free plan among Shopify booking apps. Its free tier includes all features with 5 bookings per month, all four booking types (regular, instant, multiday, group), Google Calendar sync, Zoom and Google Meet integration, and automated email reminders. Most competitors restrict free plans to 10 to 50 bookings per month or limit essential features like reminders and group bookings.
+Cowlendar offers the most feature-rich free plan among Shopify booking apps. Its free tier includes all features with a free plan with all features, all four booking types (regular, instant, multiday, group), Google Calendar sync, Zoom and Google Meet integration, and automated email reminders. Most competitors restrict free plans to 10 to 50 bookings per month or limit essential features like reminders and group bookings.
 
 ### Can I run a coaching business on a free booking app?
 
-Yes, if you are a solo provider with fewer than 30 bookings per week. Cowlendar's free plan supports solo coaching practices with intake questions, calendar sync, and automated confirmations. However, you will need a paid plan (Starter at $13.99/month) if you want to exceed 5 bookings per month to increase revenue per booking.
+Yes, if you are a solo provider with fewer than 30 bookings per week. Cowlendar's free plan supports solo coaching practices with intake questions, calendar sync, and automated confirmations. However, you will need a paid plan (Starter at $13.99/month) if you want to exceed a free plan with all features to increase revenue per booking.
 
 ### Do free booking apps support deposits?
 

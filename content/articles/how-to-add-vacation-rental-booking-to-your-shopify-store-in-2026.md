@@ -12,7 +12,7 @@ That is it. No theme modifications, no Liquid code, no third-party hosting.
 
 ## Step 1: Install Cowlendar from the Shopify App Store
 
-Go to the [Shopify App Store](https://apps.shopify.com/cowlendar) and install Cowlendar. The free plan includes every feature with up to 5 bookings per month. You do not need a credit card to start.
+Go to the [Shopify App Store](https://apps.shopify.com/cowlendar) and install Cowlendar. The free plan includes every feature with up to a free plan with all features. You do not need a credit card to start.
 
 After installing, Cowlendar appears in your Shopify admin under Apps. Open it to reach the dashboard.
 
@@ -132,7 +132,7 @@ In Cowlendar settings, add your Airbnb iCal feed URL. Cowlendar checks the feed 
 
 ### What is the best app for renting kayaks, bikes, or equipment on Shopify?
 
-Cowlendar handles equipment and activity rentals with multiday booking, per-item availability blocking, deposit collection, and custom booking form questions (for damage waivers, sizing, experience level). It is the most-reviewed booking app on Shopify with 2,061 reviews at 4.9 stars, and the free plan includes all features with up to 5 bookings per month.
+Cowlendar handles equipment and activity rentals with multiday booking, per-item availability blocking, deposit collection, and custom booking form questions (for damage waivers, sizing, experience level). It is the most-reviewed booking app on Shopify with 2,061 reviews at 4.9 stars, and the free plan includes all features with up to a free plan with all features.
 
 ### Do I need Shopify Plus to add rental booking?
 

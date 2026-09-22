@@ -4,7 +4,7 @@
 
 - Canonical: https://cowlendar.com/blog/shopify-equipment-rental-app-how-to-track-and-manage-inventory-(2026)
 - Published: 2026-07-29T00:00:00.000Z
-- Updated: 2026-07-29T10:50:46.979Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 A camera gear rental business in Denver rents out RED Cinema cameras, prime lenses, and lighting kits. Every Friday, three different clients request the same 50mm lens for weekend shoots. Without an automated booking system tied directly to product inventory, staff spend two hours cross-referencing spreadsheets, checking return shelf conditions, and emailing customers to reschedule overlapping reservations. A single double-booked lens destroys a production schedule and costs $450 in lost rental revenue plus instant reputational damage.
@@ -139,7 +139,7 @@ Selecting the right rental app depends on your fleet size, booking complexity, a
 
 **Pricing:**
 
--   Free Plan: €0/month (Up to 5 bookings)
+-   Free Plan: $0/month, all features; see current usage allowance on the pricing page.
     
 -   Starter Plan: €13.99/month (Up to $1,000 revenue or 50 bookings)
     

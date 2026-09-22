@@ -4,7 +4,7 @@ Both apps address Shopify booking needs, but the pricing models ask different qu
 Our [permanent Cowlendar vs Appointo page](/cowlendar-vs-appointo) contains the detailed feature table. This guide focuses on how to evaluate the choice for your store. It is written by the Cowlendar team, not an independent testing organization.
 
 ## Compare the free plans honestly
-Appointo's listing includes unlimited services and bookings on the free plan, plus multi-day booking. Calendar integrations and reminders are listed on paid plans. Cowlendar's free plan includes all features with five bookings per month.
+Appointo's listing includes unlimited services and bookings on the free plan, plus multi-day booking. Calendar integrations and reminders are listed on paid plans. Cowlendar's free plan includes all features on the free plan.
 
 If your ongoing needs fit Appointo's free capabilities, that is a meaningful advantage. If you need to evaluate several advanced booking features with a few test reservations, Cowlendar's allowance may be useful. Neither conclusion requires pretending the two free offers are identical.
 

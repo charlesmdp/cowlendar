@@ -9,7 +9,7 @@
   },
   {
     "key": "cowlendar-screen",
-    "url": "https://cdn.shopify.com/app-store/listing_images/e297c43d07c087a231c656afcdca283f/desktop_screenshot/COr4z42i-4wDEAE=.png?height=360&width=640",
+    "url": "https://cdn.shopify.com/app-store/listing_images/e297c43d07c087a231c656afcdca283f/desktop_screenshot/COr4z42i-4wDEAE=.png?height=720&width=1280",
     "kind": "screen",
     "source": "https://apps.shopify.com/cowlendar",
     "alt": "booking app so more appointments and more bookings",
@@ -25,7 +25,7 @@
   },
   {
     "key": "apntly-screen",
-    "url": "https://cdn.shopify.com/app-store/listing_images/883122886ab7faa62c87a8519152d0c5/desktop_screenshot/CLT-xcyunoMDEAE=.png?height=360&width=640",
+    "url": "https://cdn.shopify.com/app-store/listing_images/883122886ab7faa62c87a8519152d0c5/desktop_screenshot/CLT-xcyunoMDEAE=.png?height=720&width=1280",
     "kind": "screen",
     "source": "https://apps.shopify.com/appointly",
     "alt": "Appointment Booking Widget",
@@ -41,7 +41,7 @@
   },
   {
     "key": "appointo-screen",
-    "url": "https://cdn.shopify.com/app-store/listing_images/b3dccf14643e2c76121cb5c5ca9a068e/desktop_screenshot/CJaq8N3J3YMDEAE=.jpeg?height=360&quality=90&width=640",
+    "url": "https://cdn.shopify.com/app-store/listing_images/b3dccf14643e2c76121cb5c5ca9a068e/desktop_screenshot/CJaq8N3J3YMDEAE=.jpeg?height=720&quality=90&width=1280",
     "kind": "screen",
     "source": "https://apps.shopify.com/appointo-appointments-and-bookings",
     "alt": "Appointment Booking Modal",
@@ -57,7 +57,7 @@
   },
   {
     "key": "easy-appointment-booking-screen",
-    "url": "https://cdn.shopify.com/app-store/listing_images/bf510b52ef314616e8735ded3fd16d0b/desktop_screenshot/CKnx6YT5oIkDEAE=.png?height=360&width=640",
+    "url": "https://cdn.shopify.com/app-store/listing_images/bf510b52ef314616e8735ded3fd16d0b/desktop_screenshot/CKnx6YT5oIkDEAE=.png?height=720&width=1280",
     "kind": "screen",
     "source": "https://apps.shopify.com/appointments-and-bookings",
     "alt": "Booking appointments for any product. Start for free! 🏆",
@@ -73,7 +73,7 @@
   },
   {
     "key": "bookx-screen",
-    "url": "https://cdn.shopify.com/app-store/listing_images/9c675d0bbcbe0209ed5982adee417ccd/desktop_screenshot/CLjvsczM5I0DEAE=.png?height=360&width=640",
+    "url": "https://cdn.shopify.com/app-store/listing_images/9c675d0bbcbe0209ed5982adee417ccd/desktop_screenshot/CLjvsczM5I0DEAE=.png?height=720&width=1280",
     "kind": "screen",
     "source": "https://apps.shopify.com/appointment-booking-bookeasy",
     "alt": "Shopify booking app for reservations & event ticketing.",
@@ -89,7 +89,7 @@
   },
   {
     "key": "meety-screen",
-    "url": "https://cdn.shopify.com/app-store/listing_images/b951a800586a400c245b5d4d91ea5189/desktop_screenshot/CNKqyo74q4wDEAE=.png?height=360&width=640",
+    "url": "https://cdn.shopify.com/app-store/listing_images/b951a800586a400c245b5d4d91ea5189/desktop_screenshot/CNKqyo74q4wDEAE=.png?height=720&width=1280",
     "kind": "screen",
     "source": "https://apps.shopify.com/meety-appointment-booking",
     "alt": "Customize your appointment with timeslot and add-ons",
@@ -2894,6 +2894,22 @@
     "url": "https://framerusercontent.com/images/zxBCUAajPu17ELV5mfznbVdCA.png",
     "kind": "legacy-inline",
     "source": "Original Cowlendar blog",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "izyrent-icon",
+    "url": "https://cdn.shopify.com/app-store/listing_images/4a0f1e1d352c9968474bf69ab15f5f0a/icon/CM7j6N3Ft4wDEAE=.png",
+    "kind": "icon",
+    "alt": "IzyRent: Rentals & Bookings",
+    "source": "https://apps.shopify.com/rental-booking-izyrent",
+    "checked": "2026-09-22"
+  },
+  {
+    "key": "izyrent-screen",
+    "url": "https://cdn.shopify.com/app-store/listing_images/4a0f1e1d352c9968474bf69ab15f5f0a/desktop_screenshot/CNHEjprTpoMDEAE=.png?height=720&width=1280",
+    "kind": "screen",
+    "alt": "IzyRent rental booking calendar",
+    "source": "https://apps.shopify.com/rental-booking-izyrent",
     "checked": "2026-09-22"
   }
 ]

@@ -13,7 +13,7 @@
 - [Journal](https://cowlendar.com/blog)
 - [Comparisons](https://cowlendar.com/compare)
 - [Alternatives](https://cowlendar.com/alternatives)
-- [Best Shopify Appointment Booking Apps for Service Businesses (2026)](https://cowlendar.com/blog/best-shopify-appointment-booking-apps-for-service-businesses-(2026).md)
+- [6 Best Shopify Appointment Booking Apps for Service Businesses (2026)](https://cowlendar.com/blog/best-shopify-appointment-booking-apps-for-service-businesses-(2026).md)
 - [Five Practical Ways to Reduce No-Shows for Shopify Bookings](https://cowlendar.com/blog/5-powerful-strategies-to-instantly-reduce-no-shows-and-boost-sales-in-your-shopify-store.md)
 - [Hotel Booking on Shopify: Rooms, Nights & Daily Operations](https://cowlendar.com/blog/best-booking-apps-for-hotels-on-shopify.md)
 - [How to Choose a Nail Salon Booking App for Shopify in 2026](https://cowlendar.com/blog/best-nail-salon-booking-app-for-shopify-in-2026.md)
@@ -43,6 +43,11 @@
 - [How to Manage Cancellations and Rescheduling on Shopify](https://cowlendar.com/blog/manage-cancellations-and-rescheduling-in-shopify-bookings.md)
 - [Four Shopify Booking Apps Compared: Cowlendar, Apntly, Appointo and Sesami](https://cowlendar.com/blog/top-4-shopify-booking-apps.md)
 - [Flexible Booking Payments on Shopify: Deposits, Prepayment and Pay Later](https://cowlendar.com/blog/why-flexible-payment-options-boost-shopify-booking-conversions.md)
+
+## Free tools
+- [All free tools](https://cowlendar.com/free-tools)
+- [No-show calculator](https://cowlendar.com/free-tools/no-show-calculator)
+- [Appointment time slot generator](https://cowlendar.com/free-tools/time-slot-generator)
 
 ## Legal
 - [Privacy](https://cowlendar.com/privacy-policy)

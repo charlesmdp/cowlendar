@@ -98,7 +98,7 @@ Any admin can reschedule a booking from the Cowlendar bookings view. If you've g
 
 ### Is Cowlendar free for barbershops?
 
-Cowlendar has a free plan that supports up to 5 bookings per month with all features included: enough to set up and test the complete booking flow before committing to a paid plan. The Starter plan at €13.99/month covers up to €1,000 in monthly booking revenue or 50 bookings, which is the practical starting point for a solo barber or a small shop building its online booking presence. All Cowlendar paid plans include every feature: per-barber scheduling, upsells, Google Calendar sync, deposits, reminders, and the team portal.
+Cowlendar has a free plan that supports up to a free plan with all features with all features included: enough to set up and test the complete booking flow before committing to a paid plan. The Starter plan at €13.99/month covers up to €1,000 in monthly booking revenue or 50 bookings, which is the practical starting point for a solo barber or a small shop building its online booking presence. All Cowlendar paid plans include every feature: per-barber scheduling, upsells, Google Calendar sync, deposits, reminders, and the team portal.
 
 ## Conclusion
 

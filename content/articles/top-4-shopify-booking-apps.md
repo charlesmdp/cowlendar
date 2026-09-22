@@ -5,13 +5,13 @@ All prices below are monthly USD from official Shopify listings checked Septembe
 
 | App | Free entry point | First paid tier | Main pricing consideration |
 | --- | --- | --- | --- |
-| Cowlendar | 5 bookings/month, all features | $13.99/month | Paid tiers depend on booking revenue |
+| Cowlendar | Free plan; see usage allowance, all features | $13.99/month | Paid tiers depend on booking revenue |
 | Apntly | 1 service, 1 staff member, unlimited bookings | $5/month | Pro features are listed at $9/month |
 | Appointo | Unlimited services and bookings | $14/month | Advanced workflows and some usage charges are separate |
 | Sesami | Development stores only | $19/month | Resources and advanced capabilities differ sharply by tier |
 
 ## Cowlendar: varied booking types in one storefront
-Cowlendar is worth considering when you combine appointments, group activities or multi-day services and want access to the feature set from the free trial-sized allowance. Its five-booking free plan is intended for a small start or evaluation, not unlimited ongoing volume.
+Cowlendar is worth considering when you combine appointments, group activities or multi-day services and want access to the feature set from the free trial-sized allowance. Its free plan with all features is intended for a small start or evaluation, not unlimited ongoing volume.
 
 Budget using expected booking revenue. Starter covers up to $1,000, Basic up to $3,000 and Growth up to $10,000 at the checked prices. Confirm the applicable tier and any usage-specific costs before launch. See [Cowlendar pricing](/pricing).
 

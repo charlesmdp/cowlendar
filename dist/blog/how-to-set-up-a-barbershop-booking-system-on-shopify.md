@@ -4,7 +4,7 @@ Per-barber schedules, upsells, reminders. Everything configured.
 
 - Canonical: https://cowlendar.com/blog/how-to-set-up-a-barbershop-booking-system-on-shopify
 - Published: 2026-07-03T00:00:00.000Z
-- Updated: 2026-07-04T02:24:13.569Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 A 4-chair barbershop in Miami with three barbers and one owner is doing 60 appointments a week. The owner's phone rings constantly. He's missing 35% of those calls, according to SQUIRE's 2026 barbershop report, which means at least 20 appointments a week are either lost or going to a competitor who answers. Two of his barbers have different days off. One takes walk-ins only until 2pm, then switches to appointments. He's been running this on a paper book and a group chat. This guide covers how to move that entire operation onto [Cowlendar](https://apps.shopify.com/cowlendar) on Shopify in an afternoon, including per-barber availability, upsell add-ons in the booking form, and automated reminders that reduce no-shows without calling anyone.
@@ -107,7 +107,7 @@ Any admin can reschedule a booking from the Cowlendar bookings view. If you've g
 
 ### Is Cowlendar free for barbershops?
 
-Cowlendar has a free plan that supports up to 5 bookings per month with all features included: enough to set up and test the complete booking flow before committing to a paid plan. The Starter plan at €13.99/month covers up to €1,000 in monthly booking revenue or 50 bookings, which is the practical starting point for a solo barber or a small shop building its online booking presence. All Cowlendar paid plans include every feature: per-barber scheduling, upsells, Google Calendar sync, deposits, reminders, and the team portal.
+Cowlendar has a free plan that supports up to a free plan with all features with all features included: enough to set up and test the complete booking flow before committing to a paid plan. The Starter plan at €13.99/month covers up to €1,000 in monthly booking revenue or 50 bookings, which is the practical starting point for a solo barber or a small shop building its online booking presence. All Cowlendar paid plans include every feature: per-barber scheduling, upsells, Google Calendar sync, deposits, reminders, and the team portal.
 
 ## Conclusion
 

@@ -6,7 +6,7 @@ This article answers whether free salon booking software is actually worth it fo
 
 The word "free" covers three completely different models. Understanding which one you're looking at changes the calculation entirely.
 
-The first model is a free plan with a booking cap. You get the software at no monthly cost, but you can only process a limited number of appointments per month. Cowlendar's free plan on Shopify covers up to 5 bookings per month with all features included: every tool the app offers is active, but you hit the ceiling quickly in a working salon. Appointo's free plan covers unlimited bookings but shows the app's branding on your booking widget. Most Shopify booking apps with free plans follow this structure.
+The first model is a free plan with a booking cap. You get the software at no monthly cost, but you can only process a limited number of appointments per month. Cowlendar's free plan on Shopify covers up to a free plan with all features with all features included: every tool the app offers is active, but you hit the ceiling quickly in a working salon. Appointo's free plan covers unlimited bookings but shows the app's branding on your booking widget. Most Shopify booking apps with free plans follow this structure.
 
 The second model is a free trial. The software looks free until you actually use it. GlossGenius, for example, starts at $24 per month with no free plan at all. Many platforms described as "free" on comparison sites have a free trial period that runs 14 to 30 days, then switches to a paid subscription. This is not a free plan. It's a sales tool.
 
@@ -28,7 +28,7 @@ Deposit collection is the second major gap. Requiring a deposit at booking funda
 
 Per-technician scheduling is the third gap. Solo technicians can run on a single shared schedule. A salon with 2 or more staff needs individual calendars per technician, with different hours, days off, and service assignments. This is typically a paid feature. A free plan that shows all technicians as available all the time is worse than useless for a multi-staff salon: it creates booking errors that damage client trust.
 
-Two-way Google Calendar sync, upsells in the booking form, buffer time between appointments, and the removal of third-party branding from your booking widget are all commonly gated behind paid plans. On Cowlendar specifically, all of these are included on paid plans starting from the Starter tier at €13.99 per month, and uniquely, every feature is also included on the free plan, just with a cap of 5 bookings per month.
+Two-way Google Calendar sync, upsells in the booking form, buffer time between appointments, and the removal of third-party branding from your booking widget are all commonly gated behind paid plans. On Cowlendar specifically, all of these are included on paid plans starting from the Starter tier at €13.99 per month, and uniquely, every feature is also included on the free plan, just with a cap of a free plan with all features.
 
 One additional gap worth naming for Shopify-based salons specifically: the native Shopify Digital Downloads app, which some salon owners consider for delivering service-related files or digital products, does not function as a booking system at all. It doesn't handle appointment scheduling, time slots, or technician availability. This is not a gap in the tool: it's the wrong category of tool for a salon's scheduling needs.
 
@@ -64,7 +64,7 @@ For the full breakdown of which Shopify booking apps have the strongest free pla
 
 ## What Cowlendar's free plan actually gives you
 
-Cowlendar's free plan is unusual compared to most free salon booking plans because it doesn't gate features by plan. Every feature the app offers (per-technician scheduling, buffer time between appointments, upsells in the booking form, deposits, Google Calendar two-way sync, automated reminders) is active on the free plan. The only restriction is volume: 5 bookings per month.
+Cowlendar's free plan is unusual compared to most free salon booking plans because it doesn't gate features by plan. Every feature the app offers (per-technician scheduling, buffer time between appointments, upsells in the booking form, deposits, Google Calendar two-way sync, automated reminders) is active on the free plan. The only restriction is volume: a free plan with all features.
 
 This makes Cowlendar's free plan genuinely useful for testing. A solo lash technician who installs Cowlendar free can set up per-technician availability, add a nail art upsell to her booking form, configure a 15-minute buffer between clients, and test the deposit flow, all before spending a dollar. She sees the exact feature set she'd be paying for, just at testing volume.
 

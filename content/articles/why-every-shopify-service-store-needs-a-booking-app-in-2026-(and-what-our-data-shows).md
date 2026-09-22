@@ -74,7 +74,7 @@ Cowlendar is built specifically to integrate cleanly into your existing theme wi
 
 -   **Best for**: Solo service providers, growing agencies, and hybrid merchants who want an intuitive, fast setup with direct theme integration.
     
--   **Price range**: Free plan available (up to 5 bookings per month). Paid tiers scale from Pro at $13.99/month up to higher growth tiers based on your booking volume requirements.
+-   **Price range**: Free plan available (up to a free plan with all features). Paid tiers scale from Pro at $13.99/month up to higher growth tiers based on your booking volume requirements.
     
 -   **App store link**: [Cowlendar App Listing](https://apps.shopify.com/cowlendar)
     

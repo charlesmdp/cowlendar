@@ -130,7 +130,7 @@ Selecting the right rental app depends on your fleet size, booking complexity, a
 
 **Pricing:**
 
--   Free Plan: €0/month (Up to 5 bookings)
+-   Free Plan: $0/month, all features; see current usage allowance on the pricing page.
     
 -   Starter Plan: €13.99/month (Up to $1,000 revenue or 50 bookings)
     

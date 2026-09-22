@@ -4,7 +4,7 @@ Compare free Shopify appointment apps honestly: booking limits, service counts, 
 
 - Canonical: https://cowlendar.com/blog/free-shopify-booking-apps-in-2026-reviews-pricing-and-setup
 - Published: 2026-06-25T00:00:00.000Z
-- Updated: 2026-09-22T10:00:00Z
+- Updated: 2026-09-22T16:38:32.222451Z
 - Publisher: Cowlendar
 
 ## The short answer
@@ -18,7 +18,7 @@ The following facts come from official listings checked September 22, 2026. This
 
 | App | Documented free allowance | Important boundary |
 | --- | --- | --- |
-| Cowlendar | 5 bookings/month, all features | Paid tier needed beyond the allowance |
+| Cowlendar | Free plan; see usage allowance, all features | Paid tier needed beyond the allowance |
 | Apntly | Unlimited bookings, 1 service, 1 staff member | Advanced features require paid plans |
 | Appointo | Unlimited services and bookings | Reminders and calendar integrations are paid features |
 | Easy Appointment Booking | 1 event, unlimited bookings/team | More advanced workflows require upgrades |
@@ -46,7 +46,7 @@ Avoid configuring a business-critical workflow around a feature that disappears 
 5. Test a conflict, cancellation and any payment change.
 6. Confirm which plan features were active during the test.
 
-Cowlendar's five-booking allowance lets you evaluate its feature set on a small scale. If you need unlimited ongoing free bookings for a simple service, compare the other documented options fairly. The best free choice is the one that stays usable for your actual operation.
+Cowlendar's free plan lets you evaluate all features before choosing a paid revenue tier. If you need unlimited ongoing free bookings for a simple service, compare the other documented options fairly. The best free choice is the one that stays usable for your actual operation.
 
 ## Official sources
 - [Cowlendar](https://apps.shopify.com/cowlendar)
