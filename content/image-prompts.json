@@ -1,0 +1,51 @@
+{
+  "generator": "built-in image_gen",
+  "taxonomy": "photorealistic-natural",
+  "dimensions": "1536x1024",
+  "qa": "Visually inspected each image. All requested subjects and formats passed; vineyard was corrected once to place the poured-into glass on the table.",
+  "assets": [
+    {
+      "name": "yoga-studio",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: A yoga fitness class of authentic adults practicing a calm standing yoga pose in a bright airy studio with pale oak floors and large windows, instructor centrally framed.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-9ca36366-4244-4e40-8ecc-aa3047aedd31.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/yoga-studio.png"
+    },
+    {
+      "name": "hair-salon",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: A professional hairstylist carefully cutting an adult client's hair in an elegant contemporary salon, natural candid service moment, scissors and comb used plausibly, warm mirrors and salon furniture in the background.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-f591816c-cc4f-4b8b-8860-abd3dd8ee084.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/hair-salon.png"
+    },
+    {
+      "name": "portrait-photographer",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: An adult professional portrait photographer adjusting a camera in a beautiful daylight studio with an adult portrait client nearby, candid working moment, camera is central and physically plausible.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-6b43f673-9c95-4428-8932-c42bafcd9e83.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/portrait-photographer.png"
+    },
+    {
+      "name": "pottery-workshop",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: A close editorial view of an adult pottery workshop participant's hands carefully forming a ceramic bowl on a pottery wheel, wet clay with rich tactile detail, welcoming ceramics studio blurred behind.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-b5cac275-cebb-4af7-87df-ff97f71de91e.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/pottery-workshop.png"
+    },
+    {
+      "name": "vineyard-wine-tasting",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: A small relaxed vineyard wine tasting experience outdoors with a few clearly adult guests around a wooden table and wine glasses, rows of vines beyond, authentic warm daylight, graceful restrained setting.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-31d3937e-6545-4353-a0f8-e5832c08f0cd.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/vineyard-wine-tasting.png",
+      "editPrompt": "Correct the physically implausible wine glass in this vineyard tasting photograph. Keep the entire scene, adults, clothing, beautiful vineyard, lighting and photographic style unchanged. All wine glasses must be physically supported: the glass into which wine is poured must stand on the wooden table with its base clearly visible and resting on the tabletop. Adjust the server's pose and bottle height just enough to pour naturally into that glass on the tabletop. All other glasses may be held realistically by guests or stand on the tabletop. No floating glasses, no text, no logos. Preserve 3:2 landscape."
+    },
+    {
+      "name": "coastal-bicycle-rental",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: Premium bicycles neatly lined up at a beautiful coastal bicycle rental shop, ocean glimpses and relaxed seaside architecture in the background, central bicycle is the focal point, realistic bicycle frames and wheels.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-29185b3a-16c2-430f-a8eb-29bb1cd30054.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/coastal-bicycle-rental.png"
+    },
+    {
+      "name": "spa-massage-room",
+      "prompt": "Use case: photorealistic-natural\nAsset type: large booking-service website image\nPrimary request: A serene premium spa massage room with a fully clothed adult massage therapist preparing folded fresh linens on an empty massage table, textured neutral walls, calm natural window light, no nude people.\nStyle: premium natural editorial photography, believable candid scene, authentic adult people where described, tactile detail, restrained rich colors, no excessive saturation or artificial stock-photo posing.\nComposition: landscape 3:2 aspect ratio. Main subject centrally framed with room around the focal point, suitable for mobile center-cropping. Single photograph, no collage.\nConstraints: no text, no letters, no logos, no watermarks, no UI. Realistic anatomy and physically plausible objects.",
+      "source": "/Users/mahedesportes/.codex/generated_images/01a0c86d-9356-7eb3-bfed-73f6249f0435/exec-9c87e92c-f723-4cee-9b71-74ec1991cc68.png",
+      "savedPath": "/Users/mahedesportes/Documents/Codex/2026-09-22/https-cowlendar-com-https-cowlendar-com/work/generated-usecases/spa-massage-room.png"
+    }
+  ]
+}

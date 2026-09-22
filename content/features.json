@@ -1,0 +1,294 @@
+[
+  [
+    "booking",
+    "calendar",
+    "Every kind of booking",
+    [
+      [
+        "One-to-one appointments",
+        "Sell your time with bookable slots for individual customers."
+      ],
+      [
+        "Group bookings",
+        "Sell several places in the same class, tour or experience."
+      ],
+      [
+        "Participant details",
+        "Collect the information you need about the people attending."
+      ],
+      [
+        "Multiday bookings",
+        "Let customers book an experience or rental across several days."
+      ],
+      [
+        "Overnight stays",
+        "Make consecutive nights bookable for rooms and overnight experiences."
+      ],
+      [
+        "Full-day bookings",
+        "Make a whole day bookable for a service or rental."
+      ],
+      [
+        "Bundles & session packs",
+        "Offer multiple sessions together."
+      ],
+      [
+        "Subscriptions",
+        "Offer recurring services through subscription booking."
+      ],
+      [
+        "Unlimited services",
+        "Build your catalogue without choosing which services to leave out."
+      ],
+      [
+        "Bookable events",
+        "Create dated workshops, experiences and events from Shopify products."
+      ],
+      [
+        "Bookings without checkout",
+        "Let customers reserve without completing a payment checkout."
+      ],
+      [
+        "Online appointments",
+        "Offer services delivered by video call."
+      ],
+      [
+        "In-person appointments",
+        "Take bookings for experiences at your physical location."
+      ]
+    ]
+  ],
+  [
+    "availability",
+    "clock",
+    "Availability that follows your rules",
+    [
+      [
+        "Custom durations",
+        "Set the length of each service or meeting."
+      ],
+      [
+        "Specific dates",
+        "Open bookings for the dates you choose."
+      ],
+      [
+        "Blocked dates",
+        "Keep holidays, days off and unavailable dates out of your booking calendar."
+      ],
+      [
+        "Daily booking limits",
+        "Control how many bookings you accept in a day."
+      ],
+      [
+        "Per-slot capacity",
+        "Set capacity for each available time slot."
+      ],
+      [
+        "Booking rules",
+        "Adapt the booking flow to your operating requirements."
+      ],
+      [
+        "Waitlists",
+        "Collect interest when a service is fully booked."
+      ],
+      [
+        "Time zone handling",
+        "Help customers book across time zones."
+      ]
+    ]
+  ],
+  [
+    "team",
+    "users",
+    "Teams, spaces & equipment",
+    [
+      [
+        "Teammates",
+        "Connect the people who deliver your services."
+      ],
+      [
+        "Team portal",
+        "Give your team a dedicated place to manage their bookings."
+      ],
+      [
+        "Equipment availability",
+        "Coordinate bookings with the equipment needed to deliver the service."
+      ],
+      [
+        "Resource availability",
+        "Manage availability for the resources your services share."
+      ],
+      [
+        "Book a specific teammate",
+        "Let customers choose the person they want to book."
+      ],
+      [
+        "Confirm requests",
+        "Review and accept booking requests when confirmation is required."
+      ],
+      [
+        "Decline requests",
+        "Decline a booking request when it cannot be accommodated."
+      ]
+    ]
+  ],
+  [
+    "payments",
+    "card",
+    "Payments & more ways to sell",
+    [
+      [
+        "Booking deposits",
+        "Collect a deposit when customers reserve."
+      ],
+      [
+        "Booking prepayments",
+        "Collect payment ahead of the service."
+      ],
+      [
+        "Product add-ons",
+        "Offer a useful product alongside a booked service."
+      ],
+      [
+        "Service upsells",
+        "Give customers the option to add more to their experience."
+      ],
+      [
+        "Shopify POS",
+        "Support bookings sold in person."
+      ],
+      [
+        "Shopify checkout",
+        "Keep paid booking purchases within your Shopify store."
+      ]
+    ]
+  ],
+  [
+    "communications",
+    "message",
+    "Customer communication",
+    [
+      [
+        "Email reminders",
+        "Send reminders ahead of upcoming bookings."
+      ],
+      [
+        "Email history",
+        "Keep track of booking emails."
+      ],
+      [
+        "SMS notifications",
+        "Send text notifications. Separate usage pricing applies."
+      ],
+      [
+        "Abandoned booking follow-ups",
+        "Follow up with customers who leave a booking unfinished."
+      ],
+      [
+        "Custom sender",
+        "Use a custom sender for booking emails."
+      ],
+      [
+        "Customer cancellations",
+        "Let customers cancel according to your booking settings."
+      ],
+      [
+        "Customer rescheduling",
+        "Let customers move their appointment to another available time."
+      ],
+      [
+        "Booking confirmations",
+        "Keep customers informed once their booking is confirmed."
+      ]
+    ]
+  ],
+  [
+    "customization",
+    "spark",
+    "A booking experience that is yours",
+    [
+      [
+        "Custom design",
+        "Adjust the booking experience to fit your store."
+      ],
+      [
+        "Remove Cowlendar branding",
+        "Keep the customer experience focused on your brand."
+      ],
+      [
+        "Custom booking questions",
+        "Ask for the details you need ahead of a booking."
+      ],
+      [
+        "Multiple languages",
+        "Serve customers in different languages."
+      ],
+      [
+        "Customer tags",
+        "Use tags to organize customers and support your store workflows."
+      ],
+      [
+        "Customer metafields",
+        "Connect booking-related customer information to your Shopify workflows."
+      ]
+    ]
+  ],
+  [
+    "integrations",
+    "globe",
+    "The tools you already use",
+    [
+      [
+        "Google Calendar",
+        "Connect your booking schedule with Google Calendar."
+      ],
+      [
+        "Apple Calendar",
+        "Bring your Cowlendar bookings into Apple Calendar."
+      ],
+      [
+        "Outlook Calendar",
+        "Bring Outlook into your booking workflow."
+      ],
+      [
+        "Google Meet",
+        "Create links for virtual appointments."
+      ],
+      [
+        "Zoom",
+        "Connect video meetings to your services."
+      ],
+      [
+        "Microsoft Teams",
+        "Meet customers using Microsoft Teams."
+      ],
+      [
+        "Klaviyo",
+        "Connect booking activity with your marketing."
+      ],
+      [
+        "Shopify POS",
+        "Connect your in-person sales and services."
+      ]
+    ]
+  ],
+  [
+    "help",
+    "heart",
+    "People on your side",
+    [
+      [
+        "24/7 live chat",
+        "Ask the Cowlendar team for help, any day of the week."
+      ],
+      [
+        "Setup support",
+        "Get help configuring services, integrations and booking rules."
+      ],
+      [
+        "Help center",
+        "Find guides for your next setup step."
+      ]
+    ]
+  ]
+]

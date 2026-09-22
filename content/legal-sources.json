@@ -1,0 +1,29 @@
+[
+  {
+    "path": "/terms-and-conditions",
+    "source": "https://cowlendar.com/terms-and-conditions",
+    "source_text_characters": 14573,
+    "sections": 6,
+    "wording": "Cowlendar-specific text adapted from the original published page and owner-provided company details.",
+    "v4_update": "Operator identity updated from owner-supplied September 22 2026 company record; Cowlendar-only scope. Privacy policy reorganized. Conflicting legacy fixed retention periods replaced with purpose-based retention.",
+    "v5_update": "Removed complete clauses for unrelated apps, including customer-review collection, logo showcases, digital-download distribution, bandwidth limits and uploaded-content liability. Audited legal pages for remaining unrelated app names."
+  },
+  {
+    "path": "/privacy-policy",
+    "source": "https://cowlendar.com/privacy-policy",
+    "source_text_characters": 3699,
+    "sections": 11,
+    "wording": "Cowlendar-specific text adapted from the original published page and owner-provided company details.",
+    "v4_update": "Operator identity updated from owner-supplied September 22 2026 company record; Cowlendar-only scope. Privacy policy reorganized. Conflicting legacy fixed retention periods replaced with purpose-based retention.",
+    "v5_update": "Removed complete clauses for unrelated apps, including customer-review collection, logo showcases, digital-download distribution, bandwidth limits and uploaded-content liability. Audited legal pages for remaining unrelated app names."
+  },
+  {
+    "path": "/gdpr",
+    "source": "https://cowlendar.com/gdpr",
+    "source_text_characters": 2949,
+    "sections": 8,
+    "wording": "Cowlendar-specific text adapted from the original published page and owner-provided company details.",
+    "v4_update": "Operator identity updated from owner-supplied September 22 2026 company record; Cowlendar-only scope. Privacy policy reorganized. Conflicting legacy fixed retention periods replaced with purpose-based retention.",
+    "v5_update": "Removed complete clauses for unrelated apps, including customer-review collection, logo showcases, digital-download distribution, bandwidth limits and uploaded-content liability. Audited legal pages for remaining unrelated app names."
+  }
+]

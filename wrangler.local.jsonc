@@ -1,0 +1,6 @@
+{
+ "name":"cowlendar-local",
+ "compatibility_date":"2026-09-22",
+ "pages_build_output_dir":"dist",
+ "d1_databases":[{"binding":"BLOG_DB","database_name":"cowlendar-blog","database_id":"local-cowlendar-blog","migrations_dir":"cloudflare/migrations"}]
+}

@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {resolveWallTime,partsAt,offsetMinutes,formatOffset} from '../dist/timezone-core.mjs';
+test('Paris winter noon is 11:00 UTC',()=>assert.equal(new Date(resolveWallTime('2026-01-15','12:00','Europe/Paris')[0]).toISOString(),'2026-01-15T11:00:00.000Z'));
+test('New York spring-forward gap is rejected',()=>assert.equal(resolveWallTime('2026-03-08','02:30','America/New_York').length,0));
+test('New York repeated hour offers both instants',()=>{const a=resolveWallTime('2026-11-01','01:30','America/New_York');assert.deepEqual(a.map(t=>new Date(t).toISOString()),['2026-11-01T05:30:00.000Z','2026-11-01T06:30:00.000Z']);});
+test('Paris spring-forward gap is rejected',()=>assert.equal(resolveWallTime('2026-03-29','02:30','Europe/Paris').length,0));
+test('Kathmandu keeps its 45-minute offset',()=>assert.equal(offsetMinutes(Date.parse('2026-01-15T11:00:00Z'),'Asia/Kathmandu'),345));
+test('Tokyo crosses to the next day',()=>assert.equal(partsAt(Date.parse('2026-01-15T20:00:00Z'),'Asia/Tokyo').date,'2026-01-16'));
+test('Impossible calendar dates are rejected',()=>assert.equal(resolveWallTime('2026-02-30','12:00','UTC').length,0));
+test('Lord Howe repeated hour is only 30 minutes apart',()=>{const a=resolveWallTime('2026-04-05','01:45','Australia/Lord_Howe');assert.equal(a.length,2);assert.equal(a[1]-a[0],1800000);});
+test('Offsets retain historical seconds when present',()=>{assert.equal(formatOffset(345),'UTC+05:45');assert.equal(formatOffset(-240),'UTC−04:00');assert.equal(formatOffset(341+16/60),'UTC+05:41:16');});

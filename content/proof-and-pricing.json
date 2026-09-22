@@ -1,0 +1,86 @@
+{
+  "checked_at": "2026-09-22",
+  "source": "https://apps.shopify.com/cowlendar",
+  "rating": 4.9,
+  "review_count": 2236,
+  "reviews": [
+    {
+      "id": "2368210",
+      "name": "Hampshire Trailer Co",
+      "country": "United Kingdom",
+      "date": "2026-09-21",
+      "dateLabel": "September 21, 2026",
+      "quote": "Incredibly user friendly app with an amazing team of staff on hand to offer support.",
+      "initials": "HT"
+    },
+    {
+      "id": "2362888",
+      "name": "VEFA Gallery",
+      "country": "United States",
+      "date": "2026-09-16",
+      "dateLabel": "September 16, 2026",
+      "quote": "Everything feels thoughtfully designed, from booking flow to reminders",
+      "initials": "VG"
+    },
+    {
+      "id": "2365676",
+      "name": "Les Sardines Studio",
+      "country": "United States",
+      "date": "2026-09-18",
+      "dateLabel": "September 18, 2026",
+      "quote": "once I got on the live chat, everything fell into place!",
+      "initials": "LS"
+    },
+    {
+      "id": "2364695",
+      "name": "Before Midnight Rentals",
+      "country": "New Zealand",
+      "date": "2026-09-18",
+      "dateLabel": "September 18, 2026",
+      "quote": "Sofia is amazing! Super helpful and easy to understand. Would highly recommend this app and her!",
+      "initials": "BM"
+    },
+    {
+      "id": "2364929",
+      "name": "Atelier Rouji",
+      "country": "France",
+      "date": "2026-09-18",
+      "dateLabel": "September 18, 2026",
+      "quote": "Merci à Sofia pour sa réactivité par chat et ses explications très claires.",
+      "initials": "AR",
+      "lang": "fr"
+    },
+    {
+      "id": "2360736",
+      "name": "Vänerstad Fönsterputs & Service",
+      "country": "Sweden",
+      "date": "2026-09-15",
+      "dateLabel": "September 15, 2026",
+      "quote": "love that you can test all functions on the free tier",
+      "initials": "VF"
+    }
+  ],
+  "public_plans": [
+    {
+      "name": "Free",
+      "price_usd": "0",
+      "limit": "5 bookings per month"
+    },
+    {
+      "name": "Starter",
+      "price_usd": "13.99",
+      "limit": "Up to $1,000 in booking revenue"
+    },
+    {
+      "name": "Basic",
+      "price_usd": "29.99",
+      "limit": "Up to $3,000 in booking revenue"
+    },
+    {
+      "name": "Growth",
+      "price_usd": "59.99",
+      "limit": "Up to $10,000 in booking revenue"
+    }
+  ],
+  "feature_source": "Founder-provided screenshot dated 2026-09-22. Its different plan names and EUR prices are not used for public pricing."
+}

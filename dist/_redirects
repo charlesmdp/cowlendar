@@ -1,0 +1,2 @@
+/feature /features/ 301
+/feature/* /features/:splat 301

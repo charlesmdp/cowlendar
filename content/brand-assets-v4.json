@@ -1,0 +1,152 @@
+{
+  "verified_at": "2026-09-22",
+  "apple_calendar": {
+    "name": "Apple Calendar",
+    "status": "verified_official",
+    "source_page": "https://www.apple.com/apps/",
+    "source_context": "Calendar card on the official Apps by Apple page",
+    "download_url": "https://www.apple.com/v/apps/f/images/overview/apps/tier1/chiclets/calendar_chiclet__c1v02zaw5vgy_xlarge_2x.png",
+    "local_file": "dist/assets/logos/apple-calendar.png",
+    "display_note": "Authentic Apple-hosted Calendar icon; date shown in source artwork is SEP 12.",
+    "pixels": [
+      144,
+      144
+    ],
+    "sha256": "38789adb9f67729e63db5809794d6595bc9668ef933686bd02500986bad67164"
+  },
+  "merchants": [
+    {
+      "name": "Hampshire Trailer Co",
+      "slug": "hampshire-trailer",
+      "review_id": "2368210",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "domain": "hampshiretrailer.co.uk",
+      "source_page": "https://hampshiretrailer.co.uk/",
+      "identity_source": "https://hampshiretrailer.co.uk/pages/about-us",
+      "identity_evidence": "Exact merchant name; Southampton, England address; Cowlendar app assets in storefront HTML.",
+      "favicon_source_url": "https://hampshiretrailer.co.uk/cdn/shop/files/Hampshire_Trailer_CO_2.png?crop=center&height=32&v=1760536639&width=32",
+      "download_url": "https://hampshiretrailer.co.uk/cdn/shop/files/Hampshire_Trailer_CO_2.png?crop=center&height=96&v=1760536639&width=96",
+      "local_file": "dist/assets/merchants/hampshire-trailer.png",
+      "status": "verified",
+      "review_source": "https://apps.shopify.com/reviews/2368210",
+      "review_country_verified": true,
+      "shopify_store": "9qfunz-u1.myshopify.com",
+      "storefront_country": "GB",
+      "cowlendar_in_storefront_html": true,
+      "pixels": [
+        96,
+        96
+      ],
+      "sha256": "7aca09802978af917068dca180561f231139af04842fc8710a30e917622e4768"
+    },
+    {
+      "name": "VEFA Gallery",
+      "slug": "vefa-gallery",
+      "review_id": "2362888",
+      "country": "United States",
+      "country_code": "US",
+      "domain": "www.vefagallery.com",
+      "source_page": "https://www.vefagallery.com/",
+      "identity_source": "https://www.vefagallery.com/policies/privacy-policy",
+      "identity_evidence": "Exact merchant name; 21825 Hawthorne Boulevard, Torrance, CA 90503, US; Cowlendar booking blocks in storefront HTML.",
+      "favicon_source_url": "https://www.vefagallery.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1783848842&width=32",
+      "download_url": "https://www.vefagallery.com/cdn/shop/files/favicon.png?crop=center&height=96&v=1783848842&width=96",
+      "local_file": "dist/assets/merchants/vefa-gallery.png",
+      "status": "verified",
+      "display_note": "White line symbol with transparency; use a dark background.",
+      "review_source": "https://apps.shopify.com/reviews/2362888",
+      "review_country_verified": true,
+      "shopify_store": "evwtns-dw.myshopify.com",
+      "storefront_country": "US",
+      "cowlendar_in_storefront_html": true,
+      "pixels": [
+        96,
+        96
+      ],
+      "sha256": "08f0364da94e86982ee17665f734ff8dbc02d97166ad40c079dc250c80bc3857"
+    },
+    {
+      "name": "Les Sardines Studio",
+      "slug": "les-sardines",
+      "review_id": "2365676",
+      "country": "United States",
+      "country_code": "US",
+      "domain": "lessardinesstudio.com",
+      "source_page": "https://lessardinesstudio.com/",
+      "identity_source": "https://lessardinesstudio.com/collections",
+      "identity_evidence": "Exact merchant name; 425 Strawberry Street, Richmond, VA; Cowlendar app assets in storefront HTML. Canadian sardinesstudio.com is a different merchant and must not be used.",
+      "status": "favicon_unavailable",
+      "reason": "Homepage has no rel=icon or apple-touch-icon link; official /favicon.ico returned HTTP 404. Keep initials.",
+      "review_source": "https://apps.shopify.com/reviews/2365676",
+      "review_country_verified": true,
+      "shopify_store": "mrpvf5-fj.myshopify.com",
+      "storefront_country": "US",
+      "cowlendar_in_storefront_html": true
+    },
+    {
+      "name": "Before Midnight Rentals",
+      "slug": "before-midnight",
+      "review_id": "2364695",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "domain": "beforemidnightrentals.co.nz",
+      "source_page": "https://beforemidnightrentals.co.nz/",
+      "identity_source": "https://beforemidnightrentals.co.nz/",
+      "identity_evidence": "Exact merchant name; homepage describes designer dress rentals in Hamilton, New Zealand; Cowlendar app assets in storefront HTML.",
+      "status": "favicon_unavailable",
+      "reason": "Homepage has no rel=icon or apple-touch-icon link; official /favicon.ico returned HTTP 404. Keep initials.",
+      "review_source": "https://apps.shopify.com/reviews/2364695",
+      "review_country_verified": true,
+      "shopify_store": "beforemidnightrentals.myshopify.com",
+      "storefront_country": "NZ",
+      "cowlendar_in_storefront_html": true
+    },
+    {
+      "name": "Atelier Rouji",
+      "slug": "atelier-rouji",
+      "review_id": "2364929",
+      "country": "France",
+      "country_code": "FR",
+      "domain": "atelierrouji.com",
+      "source_page": "https://atelierrouji.com/",
+      "identity_source": "https://atelierrouji.com/",
+      "identity_evidence": "Exact merchant name; Champigny-sur-Marne, France address; Cowlendar app assets in storefront HTML.",
+      "favicon_source_url": "https://atelierrouji.com/cdn/shop/files/ICONE_V_Blanc.png?crop=center&height=32&v=1746526938&width=32",
+      "download_url": "https://atelierrouji.com/cdn/shop/files/ICONE_V_Blanc.png?crop=center&height=96&v=1746526938&width=96",
+      "local_file": "dist/assets/merchants/atelier-rouji.png",
+      "status": "verified",
+      "display_note": "White textured symbol with transparency; use a dark background.",
+      "review_source": "https://apps.shopify.com/reviews/2364929",
+      "review_country_verified": true,
+      "shopify_store": "mdbq6c-xy.myshopify.com",
+      "storefront_country": "FR",
+      "cowlendar_in_storefront_html": true,
+      "pixels": [
+        96,
+        96
+      ],
+      "sha256": "d67f6e30942d137e34d81ef51b1040f204b9cc04985dfe7399977c2e453a63e3"
+    },
+    {
+      "name": "V\u00e4nerstad F\u00f6nsterputs & Service",
+      "slug": "vanerstad",
+      "review_id": "2360736",
+      "country": "Sweden",
+      "country_code": "SE",
+      "domain": null,
+      "source_page": "https://apps.shopify.com/reviews/2360736",
+      "identity_evidence": "Exact merchant name and Sweden confirmed by Shopify review HTML. No verified official domain located.",
+      "status": "domain_and_favicon_unavailable",
+      "reason": "Search results did not establish an official merchant site; no guessed domain or same-name favicon used. Keep initials.",
+      "review_source": "https://apps.shopify.com/reviews/2360736",
+      "review_country_verified": true
+    }
+  ],
+  "notes": [
+    "All downloaded images visually inspected.",
+    "Favicon assets requested from the exact Shopify image sources declared by each merchant, at 96 x 96 rather than the declared 32 x 32.",
+    "Review pages do not expose merchant domains. Domain matching uses exact merchant identity, geography and active Cowlendar storefront references.",
+    "No site files edited."
+  ]
+}

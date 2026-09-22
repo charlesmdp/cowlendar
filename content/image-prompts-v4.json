@@ -1,0 +1,113 @@
+{
+  "mode": "built-in image_gen",
+  "generated_count": 7,
+  "requested_dimensions": [
+    1200,
+    800
+  ],
+  "format": "WebP",
+  "reference_style_assets": [
+    "dist/assets/usecases/fitness.webp",
+    "dist/assets/usecases/workshops.webp"
+  ],
+  "assets": [
+    {
+      "slug": "cleaning",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: A professional home cleaner naturally wiping a pale stone kitchen countertop with a folded cloth. A woman in a simple muted sage work shirt and subtle gray apron works in an actual bright contemporary home, side profile, concentrated on the surface rather than facing the camera. Ordinary well-kept kitchen with light oak cabinetry and a daylight window, understated cleaning caddy nearby with unbranded bottles. Candid waist-up medium-wide 35mm documentary photograph. Slightly imperfect domestic details, soft window light, tactile linen and wood. Show the service clearly.",
+      "optimized": "dist/assets/usecases/cleaning.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 89370
+    },
+    {
+      "slug": "hotel",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: A tranquil boutique hotel guest room, editorial travel interior photograph. A generously made bed in off-white linen with subtly rumpled texture, light oak bedside furniture, warm neutral plaster walls, a small armchair by tall windows and a glimpse of green foliage outside. An intimate tasteful real independent hotel, not an extravagant palatial suite. Uncontrived three-quarter room view at human eye level, 28mm lens with straight vertical lines. Natural daylight enters from one side, soft shadows, believable architectural proportions and quiet welcoming atmosphere. No people needed.",
+      "optimized": "dist/assets/usecases/hotel.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 190874
+    },
+    {
+      "slug": "consulting",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: A candid consulting session between three adult professionals gathered around a modest oak meeting table in a bright small contemporary studio office. One woman listens attentively while a man explains an idea to another colleague using a small plain notebook; an open laptop sits turned away so no screen text is visible. Relaxed smart casual clothing in soft navy, cream and brown, no suits required. Natural hand gestures, real conversational focus, not looking at camera. Medium-wide editorial documentary photo at seated eye level, 35mm lens, warm daylight from large windows, a few ordinary plant and book details out of focus.",
+      "optimized": "dist/assets/usecases/consulting.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 120558
+    },
+    {
+      "slug": "kayak",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: A real kayak rental adventure on a calm green-blue lake. Two adult friends in properly fitted life jackets paddle separate recreational kayaks near a natural wooded shoreline; one nearer in a subdued yellow kayak, the other further away in a red kayak. Viewed from low shore level at a slight angle, candid in-motion recreation photography, distant rolling wooded hills. Correct kayak hulls, correct double-ended paddles held naturally, small real ripples and reflections. Warm gentle morning daylight, natural color, adventurous but relaxed. Believable scale, no dramatic fantasy landscape or turquoise oversaturation.",
+      "optimized": "dist/assets/usecases/kayak.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 220190
+    },
+    {
+      "slug": "pets",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: An attentive professional dog groomer gently brushing the shoulder fur of a calm golden retriever in a small sunlit pet grooming studio. The groomer is shown at a natural three-quarter angle in a plain muted work apron, focused on the dog. The dog's paws rest comfortably on a safe sturdy grooming table, its coat has real irregular fine texture, relaxed mouth and ears. Candid 50mm editorial photo, warm window light, simple cream tiled wall and a few ordinary blurred unbranded grooming tools behind. Animal comfort, real fur and true canine anatomy; no bows, costumes, cartoons or humanlike expressions.",
+      "optimized": "dist/assets/usecases/pet.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 134990
+    },
+    {
+      "slug": "lessons",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: A warm candid private acoustic guitar lesson. An adult woman instructor and an adult beginner student sit beside each other in a sunlit intimate teaching room; the student holds an ordinary wooden acoustic guitar in a physically correct seated playing position, the instructor demonstrates a simple hand position on her own guitar. Both focused gently on the strings and lesson, not facing camera. Clear anatomically correct hands and instrument structures, contemporary casual muted clothing, a small shelf and green plant in softly blurred background. Natural 50mm editorial lifestyle photo, tactile wood, daylight, authentic instructional interaction.",
+      "optimized": "dist/assets/usecases/lessons.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 148858
+    },
+    {
+      "slug": "llamas",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: landscape 3:2 editorial photograph for a premium service booking website. Produce exactly one photograph.\nVisual style: natural contemporary lifestyle editorial photography, authentic lived-in setting, restrained warm earth tones and soft greens, real texture, subtle fine photographic grain, true proportions, delicate warm natural daylight. Similar quality to a real daylight yoga studio photograph or close-up pottery workshop photograph. Full-bleed 3:2 landscape composition, 1536x1024 if possible. The image should read immediately at card size.\nConstraints: No text, no letters, no logos, no watermark, no UI, no graphics. Avoid synthetic waxy skin, glossy advertising retouching, exaggerated smiles, staged symmetry, heavy cinematic color grading. All anatomy and objects physically plausible.\nPrimary request: An exceptionally natural documentary travel photograph of a llama walk on a working countryside farm trail. Show one ordinary healthy adult brown-and-white llama with correct long neck, long banana-shaped ears, long fine muzzle and true llama body proportions walking along a worn grassy dirt lane beside a casually dressed adult farm guide holding its simple halter lead with visible natural slack. The llama is in a relaxed three-quarter side view, mid-step with coherent four-legged anatomy, uneven wool with a little everyday dust. The guide looks ahead rather than posing. Humble wooden fencing, mixed field grass and hedgerows, low countryside hills in the background. Captured as an unplanned moment on a real farm visit using a 50mm documentary camera at human eye level, subjects fully grounded with contact shadows, realistic depth, subdued late morning daylight under thin cloud. Keep colors quiet and ordinary. The llama must look like a real photographed animal, not an alpaca plush toy: no giant round eyes, no absurdly fluffy head, no grinning mouth, no fantasy wool, no exaggerated cuteness. Avoid tourist-ad staged tableau, stylized pastel scene, artificial bokeh, sun flare, composited animals, overly perfect surroundings, floating feet, duplicated limbs. This should look convincingly like an unretouched countryside travel photograph.",
+      "optimized": "dist/assets/usecases/llama.webp",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "optimized_dimensions": [
+        1200,
+        800
+      ],
+      "optimized_bytes": 230954
+    }
+  ]
+}
