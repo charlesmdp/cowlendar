@@ -41,17 +41,69 @@ Chaque envoi sur `main` déclenche ensuite un nouveau déploiement. Les autres b
 
 ## 3. Créer et connecter D1
 
-Le code et la migration sont prêts et ont été testés avec une vraie base D1 locale. **Aucune base distante n’a encore été créée dans ton compte Cloudflare.**
+La base distante **cowlendar-blog** existe déjà. Si tu configures un autre compte, crée d'abord cette base dans **Storage & databases → D1 SQL Database → Create database**.
 
-1. Dans Cloudflare, ouvrir **Storage & databases → D1 SQL Database → Create database**.
-2. Nommer la base **cowlendar-blog**. Choisir la juridiction UE si souhaitée et proposée.
-3. Ouvrir la console de cette base et exécuter le contenu de `cloudflare/migrations/0000_smiling_grey_gargoyle.sql`, une seule fois. Cela crée la table et ses index. Il n’y a aucun faux article prérempli.
-4. Revenir au projet Pages → **Settings → Bindings → Add → D1 database binding**.
-5. Nom de la variable : **BLOG_DB**. Base sélectionnée : **cowlendar-blog**.
-6. Redéployer le projet Pages pour activer la liaison.
-7. Ouvrir `/api/posts` : le résultat attendu pour un blog vide est `{"posts":[],"page":1,"hasMore":false}`.
+### Initialiser la table dans la console Cloudflare
 
-Pour les aperçus GitHub, créer une base D1 distincte et lier `BLOG_DB` dans l’environnement Preview. Cela évite de travailler sur le contenu public pendant les essais.
+Ouvrir **cowlendar-blog → Console**. Copier le **code SQL** ci-dessous, un bloc à la fois, puis cliquer sur **Execute** après chaque bloc. Ne pas coller le chemin `cloudflare/migrations/0000_smiling_grey_gargoyle.sql` : c'est le nom du fichier dans GitHub, pas une commande SQL. Cette confusion provoque l'erreur `near "cloudflare": syntax error`.
+
+Ces trois commandes reprennent le schéma du fichier de migration. `IF NOT EXISTS` permet de les relancer sans recréer les objets déjà présents. Aucun article n'est ajouté et aucune donnée n'est supprimée. Si une table existe déjà avec une structure différente, ces commandes ne la mettent pas à jour : il faut une migration adaptée.
+
+**1. Créer la table :**
+
+```sql
+CREATE TABLE IF NOT EXISTS `blog_posts` (
+	`id` integer PRIMARY KEY AUTOINCREMENT NOT NULL,
+	`slug` text NOT NULL,
+	`title` text NOT NULL,
+	`excerpt` text DEFAULT '' NOT NULL,
+	`content_markdown` text DEFAULT '' NOT NULL,
+	`cover_url` text,
+	`author` text DEFAULT 'Cowlendar team' NOT NULL,
+	`category` text DEFAULT 'Booking tips' NOT NULL,
+	`status` text DEFAULT 'draft' NOT NULL,
+	`published_at` integer,
+	`created_at` integer DEFAULT (unixepoch()) NOT NULL,
+	`updated_at` integer DEFAULT (unixepoch()) NOT NULL,
+	`seo_title` text,
+	`seo_description` text,
+	CONSTRAINT "blog_status_valid" CHECK("blog_posts"."status" IN ('draft', 'published')),
+	CONSTRAINT "published_date_required" CHECK("blog_posts"."status" != 'published' OR "blog_posts"."published_at" IS NOT NULL),
+	CONSTRAINT "slug_valid" CHECK(length("blog_posts"."slug") BETWEEN 1 AND 160 AND "blog_posts"."slug" NOT GLOB '*[^a-z0-9-]*' AND substr("blog_posts"."slug",1,1) != '-' AND substr("blog_posts"."slug",-1,1) != '-'),
+	CONSTRAINT "title_required" CHECK(length(trim("blog_posts"."title")) > 0)
+);
+```
+
+**2. Garantir une URL unique par article :**
+
+```sql
+CREATE UNIQUE INDEX IF NOT EXISTS `blog_posts_slug_unique` ON `blog_posts` (`slug`);
+```
+
+**3. Ajouter l’index des publications :**
+
+```sql
+CREATE INDEX IF NOT EXISTS `idx_blog_posts_status_published_at` ON `blog_posts` (`status`,`published_at`);
+```
+
+Vérifier ensuite la table :
+
+```sql
+SELECT COUNT(*) AS nombre_articles FROM blog_posts;
+```
+
+Le résultat doit être `0` pour un blog neuf. Un message `table already exists` lors d'une exécution de la migration originale ne demande pas de supprimer la table : utiliser les commandes ci-dessus pour terminer les index manquants.
+
+### Relier la base au site Pages
+
+1. Revenir au projet Pages → **Settings → Bindings → Add → D1 database binding** et sélectionner l'environnement **Production**.
+2. Nom de la variable : **BLOG_DB**. Base sélectionnée : **cowlendar-blog**. Si cette liaison existe déjà, vérifier ses valeurs.
+3. Enregistrer, puis redéployer le projet Pages pour activer la liaison.
+4. Ouvrir **l'adresse de ton site Cloudflare suivie de `/api/posts`**. Pour un blog vide, le résultat attendu est `{"posts":[],"page":1,"hasMore":false}`.
+
+En cas de réponse `Blog temporarily unavailable`, vérifier la liaison `BLOG_DB`, les trois commandes SQL et le redéploiement après l'enregistrement de la liaison. Si `/api/posts` affiche une page HTML ou une erreur 404, vérifier que le déploiement contient bien le dossier `functions/` à la racine du dépôt.
+
+Pour les aperçus GitHub, créer une base D1 distincte et lier `BLOG_DB` dans l'environnement Preview. Cela évite de travailler sur le contenu public pendant les essais.
 
 Le fichier `wrangler.local.jsonc` sert exclusivement aux essais locaux. Ne pas le renommer en `wrangler.jsonc` pour la production : il contient un identifiant local, pas celui de ta base distante. La configuration de production décrite ci-dessus reste dans le tableau de bord Cloudflare.
 
