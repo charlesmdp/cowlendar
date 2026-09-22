@@ -1,4 +1,6 @@
-import fs from 'node:fs/promises';import path from 'node:path';import {minify} from 'html-minifier-terser';import {transform} from 'esbuild';
+import {createHash} from 'node:crypto';import fs from 'node:fs/promises';import path from 'node:path';import {minify} from 'html-minifier-terser';import {transform} from 'esbuild';
+const siteScript='/site.js?v='+createHash('sha256').update(await fs.readFile('ui/site.js')).digest('hex').slice(0,12);
+await fs.writeFile('lib/site-assets.generated.mjs',`export const siteScript=${JSON.stringify(siteScript)};\n`);
 const chromeEntries=await Promise.all(['header','footer','prefooter'].map(async name=>[name,(await fs.readFile(`lib/${name}.html`,'utf8')).trim()]));
 await fs.writeFile('lib/chrome.generated.mjs',chromeEntries.map(([name,html])=>`export const ${name}=${JSON.stringify(html)};`).join('\n')+'\n');
 const {header,footer,prefooter}=Object.fromEntries(chromeEntries);
@@ -49,6 +51,7 @@ const software={'@context':'https://schema.org','@type':'SoftwareApplication',na
 const staticRoutes=[];for(const file of (await walk(root)).filter(f=>f.endsWith('.html'))){let html=await fs.readFile(file,'utf8');const route=file===root+'/index.html'?'/':'/'+path.relative(root,file).replace(/\.html$/,'');
  if(route==='/')html=linkHomepage(html);
  html=enhanceProductPage(html,route,own);
+ html=html.replace(/src="\/site\.js(?:\?[^"]*)?"/g,`src="${siteScript}"`);
  if(metadata[route]){const [title,desc]=metadata[route];html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${esc(title)}</title>`);html=html.replace(/<meta\b[^>]*(?:name=["']description["']|property=["']og:(?:title|description|url|image)["'])[^>]*>/gi,'');html=html.replace(/<link\b[^>]*rel=["']canonical["'][^>]*>/gi,'');html=html.replace('</head>',`<meta name="description" content="${esc(desc)}"><link rel="canonical" href="${ORIGIN+route}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN+route}"><meta property="og:image" content="${ORIGIN}/assets/blog/01-service-booking.webp"><meta name="twitter:card" content="summary_large_image"></head>`);}
  html=html.replace(/<header\b[^>]*class="site-header"[^>]*>[\s\S]*?<\/header>/,header).replace(/<footer\b[^>]*class="site-footer"[^>]*>[\s\S]*?<\/footer>/,footer);
  html=html.replace(/https:\/\/cowlendar\.com\/blog(?=["'#?])/g,'/blog');
