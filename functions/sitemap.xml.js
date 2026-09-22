@@ -1,4 +1,4 @@
-import routes from '../content/static-routes.json' with {type:'json'};
+import {routes} from '../lib/runtime-data.generated.mjs';
 import {publicCatalog,finish} from '../lib/public-blog.mjs';
 import {ORIGIN,esc} from '../lib/editorial.mjs';
 export async function onRequest({request,env}){
