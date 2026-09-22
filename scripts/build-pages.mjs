@@ -4,7 +4,7 @@ await fs.writeFile('lib/chrome.generated.mjs',chromeEntries.map(([name,html])=>`
 const {header,footer,prefooter}=Object.fromEntries(chromeEntries);
 const {blogIndex,articlePage,comparisonPage,alternativesPage,comparisonHub,notFound,simplePage,ORIGIN,esc,json,comparePath}=await import('../lib/editorial.mjs');
 await fs.mkdir('dist',{recursive:true});
-for(const name of ['growth.js','growth.css','commercial.css'])await fs.copyFile('ui/'+name,'dist/'+name);
+for(const name of ['site.js','growth.js','growth.css','commercial.css'])await fs.copyFile('ui/'+name,'dist/'+name);
 await fs.copyFile('lib/booking-math.mjs','dist/booking-math.mjs');
 const {solutionPage,integrationPage,commercialHub}=await import('../lib/commercial.mjs');
 const {enhanceProductPage,linkHomepage}=await import('../lib/product-seo.mjs');
