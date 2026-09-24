@@ -54,7 +54,8 @@ const staticRoutes=[];for(const file of (await walk(root)).filter(f=>f.endsWith(
  html=html.replace(/src="\/site\.js(?:\?[^"]*)?"/g,`src="${siteScript}"`);
  if(metadata[route]){const [title,desc]=metadata[route];html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${esc(title)}</title>`);html=html.replace(/<meta\b[^>]*(?:name=["']description["']|property=["']og:(?:title|description|url|image)["'])[^>]*>/gi,'');html=html.replace(/<link\b[^>]*rel=["']canonical["'][^>]*>/gi,'');html=html.replace('</head>',`<meta name="description" content="${esc(desc)}"><link rel="canonical" href="${ORIGIN+route}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN+route}"><meta property="og:image" content="${ORIGIN}/assets/blog/01-service-booking.webp"><meta name="twitter:card" content="summary_large_image"></head>`);}
  html=html.replace(/<header\b[^>]*class="site-header"[^>]*>[\s\S]*?<\/header>/,header).replace(/<footer\b[^>]*class="site-footer"[^>]*>[\s\S]*?<\/footer>/,footer);
- html=html.replace(/https:\/\/cowlendar\.com\/blog(?=["'#?])/g,'/blog');
+ // Preserve absolute URLs in JSON-LD and canonical metadata. Navigation uses
+ // relative links in its templates; do not rewrite URLs across the entire HTML.
  if(!html.includes('href="/chrome.css"'))html=html.replace('</head>','<link rel="stylesheet" href="/chrome.css"></head>');
  html=html.replace(/<meta\s+[^>]*name=["']robots["'][^>]*>/gi,'');html=html.replace('</head>',`<meta name="robots" content="${!production||route==='/404'?'noindex, follow':'index, follow, max-image-preview:large'}"></head>`);
  if(route==='/'&&!html.includes('"@type":"SoftwareApplication"'))html=html.replace('</head>',`<script type="application/ld+json">${json(software)}</script><script type="application/ld+json">${json({'@context':'https://schema.org','@type':'WebSite',name:'Cowlendar',url:ORIGIN})}</script></head>`);
