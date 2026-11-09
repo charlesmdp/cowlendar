@@ -84,6 +84,7 @@
 - [ical feed validator](https://cowlendar.com/free-tools/ical-feed-validator)
 - [salon commission calculator](https://cowlendar.com/free-tools/salon-commission-calculator)
 - [class check in sheet generator](https://cowlendar.com/free-tools/class-check-in-sheet-generator)
+- [team working hours planner](https://cowlendar.com/free-tools/team-working-hours-planner)
 - [service price calculator](https://cowlendar.com/free-tools/service-price-calculator)
 - [time slot generator](https://cowlendar.com/free-tools/time-slot-generator)
 - [timezone converter](https://cowlendar.com/free-tools/timezone-converter)

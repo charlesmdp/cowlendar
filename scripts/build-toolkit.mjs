@@ -4,6 +4,9 @@ import {build} from 'esbuild';
 import {toolGuides} from '../lib/tool-guides.mjs';
 import {toolPage,toolPath} from '../lib/toolkit/pages.mjs';
 
+import {teamPage} from '../lib/toolkit/team-hours/page.mjs';
+import {slug as teamSlug} from '../lib/toolkit/team-hours/model.mjs';
+
 export async function buildToolkit(write){
   const slugs=Object.keys(toolGuides), outdir='dist/assets/toolkit';
   await fs.mkdir(outdir,{recursive:true});
@@ -23,6 +26,13 @@ export async function buildToolkit(write){
       }
     }]
   });
+  const planner = await build({
+    entryPoints:[{in:'lib/toolkit/team-hours/browser.mjs',out:teamSlug}],
+    outdir:outdir+'/ui',entryNames:'[name]-[hash]',bundle:true,minify:true,
+    platform:'browser',format:'esm',target:'es2022',metafile:true
+  });
+  const urls=Object.keys(planner.metafile.outputs).map(file=>file.slice('dist'.length));
+  await write(toolPath(teamSlug),teamPage(urls.find(file=>file.endsWith('.js')),urls.find(file=>file.endsWith('.css'))));
   // Keep published content-addressed chunks available to open tabs and cached entries.
   for(const slug of slugs){
     const {default:tool}=await import('../lib/toolkit/tools/'+slug+'.mjs');

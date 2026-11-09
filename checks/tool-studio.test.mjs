@@ -8,19 +8,20 @@ import {toolGuides} from '../lib/tool-guides.mjs';
 import {legacyToolGuides} from '../lib/legacy-tool-guides.mjs';
 import {parseDocument} from 'htmlparser2';
 import {findAll} from 'domutils';
+import {teamGuide} from '../lib/toolkit/team-hours/page.mjs';
 const definitions={};
 for(const slug of Object.keys(toolGuides))definitions[slug]=(await import('../lib/toolkit/tools/'+slug+'.mjs')).default;
 function run(slug,values={},state={}){
  const t=definitions[slug];return t.run({...Object.fromEntries(t.fields.map(f=>[f.key,f.value])),...values},'',state);
 }
-test('the 24 visible tools have their own canonical, H1, social image, six FAQs and sitemap entry',()=>{
+test('all visible tools have their own canonical, H1, social image, six FAQs and sitemap entry',()=>{
  const sitemap=fs.readFileSync('dist/sitemap.xml','utf8'),titles=new Set(),questions=new Set();
- for(const [slug,g] of Object.entries({...toolGuides,...legacyToolGuides})){
+ for(const [slug,g] of Object.entries({...toolGuides,...legacyToolGuides,'team-working-hours-planner':teamGuide})){
   const path='/free-tools/'+slug,html=fs.readFileSync('dist'+path+'.html','utf8'),doc=parseDocument(html),nodes=findAll(n=>!!n.name,doc.children);
   assert.equal(nodes.filter(n=>n.name==='h1').length,1,slug);assert.equal(nodes.filter(n=>n.attribs.rel==='canonical'&&n.attribs.href==='https://cowlendar.com'+path).length,1,slug);assert.ok(sitemap.includes('<loc>https://cowlendar.com'+path+'</loc>'));
   assert.ok(fs.existsSync('dist/assets/toolkit/'+slug+'.png'));assert.ok(g.faq.length>=6);for(const [q] of g.faq){questions.add(q);assert.ok(nodes.some(n=>n.name==='summary'&&n.children?.some(c=>c.data?.includes(q))),slug+' '+q);}
   titles.add(g.title);
- }assert.equal(titles.size,24);assert.equal(questions.size,144);
+ }assert.equal(titles.size,25);assert.equal(questions.size,150);
 });
 test('booking audit reads the service, ignores scripts/nav, and uses the booking action',()=>{
  const page=auditStorefront('<html><head><title>Shop</title></head><body><main><h1>Sunset tour</h1><div>$60 · 90 minutes</div><script>cancellation</script><a href="/book">Book now</a></main><footer>Refund policy</footer></body></html>','https://example.com/');
