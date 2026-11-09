@@ -17,6 +17,18 @@ const {toolsHub,addSolutionTools,allToolSlugs,toolPath}=await import('../lib/too
 const {enhanceLegacyTool}=await import('../lib/toolkit/legacy-pages.mjs');
 const {legacyToolGuides}=await import('../lib/legacy-tool-guides.mjs');
 await fs.appendFile('dist/booking-tools.css','\n'+await fs.readFile('ui/tool-result-visuals.css','utf8')+'\n'+await fs.readFile('ui/tool-studio.css','utf8'));
+// Name the actual served bytes so a cached stylesheet always matches its markup.
+const toolAssetPaths = new Map();
+await fs.mkdir('dist/assets/toolkit/ui', { recursive: true });
+for (const name of ['booking-tools.css', 'legacy-toolkit.css', 'tool-library.js']) {
+  const extension = path.extname(name);
+  const source = await fs.readFile('dist/' + name, 'utf8');
+  const {code} = await transform(source, { loader: extension.slice(1), minify: true, target: 'es2022' });
+  const digest = createHash('sha256').update(code).digest('hex').slice(0, 12);
+  const url = '/assets/toolkit/ui/' + path.basename(name, extension) + '-' + digest + extension;
+  await fs.writeFile('dist' + url, code);
+  toolAssetPaths.set(name, url);
+}
 const {buildToolkit}=await import('./build-toolkit.mjs');
 const root=path.resolve('dist'),posts=await Promise.all(JSON.parse(await fs.readFile('content/posts.json','utf8')).map(async p=>({...p,markdown:await fs.readFile('content/'+p.sourceFile,'utf8')}))),apps=JSON.parse(await fs.readFile('content/apps.json','utf8')),own=apps[0];
 for(const p of posts)p.minutes=Math.max(2,Math.ceil(p.markdown.split(/\s+/).length/210));
@@ -60,7 +72,10 @@ const staticRoutes=[];for(const file of (await walk(root)).filter(f=>f.endsWith(
  html=enhanceProductPage(html,route,own);
  html=html.replace(/src="\/site\.js(?:\?[^"]*)?"/g,`src="${siteScript}"`);
  if(metadata[route]){const [title,desc]=metadata[route];html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${esc(title)}</title>`);html=html.replace(/<meta\b[^>]*(?:name=["'](?:description|twitter:card)["']|property=["']og:(?:title|description|url|image)["'])[^>]*>/gi,'');html=html.replace(/<link\b[^>]*rel=["']canonical["'][^>]*>/gi,'');html=html.replace('</head>',`<meta name="description" content="${esc(desc)}"><link rel="canonical" href="${ORIGIN+route}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN+route}"><meta property="og:image" content="${ORIGIN}/assets/blog/01-service-booking.webp"><meta name="twitter:card" content="summary_large_image"></head>`);}
- html=html.replace(/<header\b[^>]*class="site-header"[^>]*>[\s\S]*?<\/header>/,header).replace(/<footer\b[^>]*class="site-footer"[^>]*>[\s\S]*?<\/footer>/,footer);
+ const pageHeader = route === '/free-tools' || route.startsWith('/free-tools/')
+   ? header.replaceAll('href="/free-tools"', 'href="/free-tools" aria-current="' + (route === '/free-tools' ? 'page' : 'location') + '"')
+   : header;
+ html=html.replace(/<header\b[^>]*class="site-header"[^>]*>[\s\S]*?<\/header>/,pageHeader).replace(/<footer\b[^>]*class="site-footer"[^>]*>[\s\S]*?<\/footer>/,footer);
  // Preserve absolute URLs in JSON-LD and canonical metadata. Navigation uses
  // relative links in its templates; do not rewrite URLs across the entire HTML.
  if(!html.includes('href="/chrome.css"'))html=html.replace('</head>','<link rel="stylesheet" href="/chrome.css"></head>');
@@ -69,6 +84,10 @@ const staticRoutes=[];for(const file of (await walk(root)).filter(f=>f.endsWith(
  // Match canonical paths in internal navigation.
  html=html.replace(/href="(\/(?:features|pricing|privacy-policy|terms-and-conditions|gdpr|free-tools\/timezone-converter))\/"/g,'href="$1"');
  if(route.startsWith('/free-tools/')){const slug=route.split('/').pop();if(legacyToolGuides[slug])html=enhanceLegacyTool(html,slug,legacyToolGuides[slug]);}
+ if (route === '/free-tools' || route.startsWith('/free-tools/')) {
+   html = html.replace(/\b(href|src)="\/(booking-tools\.css|legacy-toolkit\.css|tool-library\.js)"/g,
+     (_, attribute, name) => attribute + '="' + toolAssetPaths.get(name) + '"');
+ }
  html=await minify(html,{collapseWhitespace:true,removeComments:true,removeRedundantAttributes:true,minifyCSS:true,minifyJS:true,keepClosingSlash:false});await fs.writeFile(file,html);
  if(route!=='/404')staticRoutes.push({path:route,...(route.startsWith('/blog/')?{modified:posts.find(p=>'/blog/'+p.slug===route)?.modified}: (route==='/free-tools'||route.startsWith('/free-tools/'))?{modified:'2026-11-09'}:[...solutions,...integrations].some(p=>p.path===route)||['/features','/pricing','/integrations','/use-cases'].includes(route)||route.endsWith('-alternatives')?{modified:'2026-09-22'}:{})});
 }

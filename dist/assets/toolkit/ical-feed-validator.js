@@ -1,4 +1,4 @@
-import{c as u,e as l,f as g,k as w,l as p,m as d,n as y,r as f,z as T}from"./shared/chunk-3Y4BBDPN.js";var E=`BEGIN:VCALENDAR\r
+import{c as u,e as l,f as g,k as w,l as p,m as d,n as y,r as f,z as T}from"./shared/chunk-3AWU6XUU.js";var E=`BEGIN:VCALENDAR\r
 VERSION:2.0\r
 PRODID:-//Studio//Booking calendar//EN\r
 BEGIN:VEVENT\r
