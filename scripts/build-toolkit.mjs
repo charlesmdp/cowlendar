@@ -1,5 +1,4 @@
 import fs from 'node:fs/promises';
-import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {build} from 'esbuild';
 import {toolGuides} from '../lib/tool-guides.mjs';
@@ -8,9 +7,10 @@ import {toolPage,toolPath} from '../lib/toolkit/pages.mjs';
 export async function buildToolkit(write){
   const slugs=Object.keys(toolGuides), outdir='dist/assets/toolkit';
   await fs.mkdir(outdir,{recursive:true});
-  const result=await build({
+  await build({entryPoints:['lib/toolkit/workers/ical.mjs'],outfile:outdir+'/ical-reader.js',format:'esm',bundle:true,minify:true,target:'es2022'});
+  await build({
     entryPoints:slugs.map(slug=>({in:'booking-tool:'+slug,out:slug})),
-    outdir, entryNames:'[name]', chunkNames:'shared/[name]-[hash]',metafile:true,
+    outdir, entryNames:'[name]', chunkNames:'shared/[name]-[hash]',
     platform:'browser',format:'esm',bundle:true,splitting:true,minify:true,target:'es2022',legalComments:'inline',
     plugins:[{
       name:'booking-tools',
@@ -23,12 +23,7 @@ export async function buildToolkit(write){
       }
     }]
   });
-  // Only the generated chunks referenced by this build belong in the static release.
-  const outputs=new Set(Object.keys(result.metafile.outputs).map(f=>path.resolve(f)));
-  for(const file of await fs.readdir(outdir+'/shared')){
-    const chunk=path.resolve(outdir,'shared',file);
-    if(/^chunk-[A-Z0-9]+\.js$/.test(file)&&!outputs.has(chunk))await fs.unlink(chunk);
-  }
+  // Keep published content-addressed chunks available to open tabs and cached entries.
   for(const slug of slugs){
     const {default:tool}=await import('../lib/toolkit/tools/'+slug+'.mjs');
     const revision=createHash('sha256').update(await fs.readFile(outdir+'/'+slug+'.js')).digest('hex').slice(0,12);

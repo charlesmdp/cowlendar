@@ -6,7 +6,7 @@ await fs.writeFile('lib/chrome.generated.mjs',chromeEntries.map(([name,html])=>`
 const {header,footer,prefooter}=Object.fromEntries(chromeEntries);
 const {blogIndex,articlePage,comparisonPage,alternativesPage,comparisonHub,notFound,simplePage,ORIGIN,esc,json,comparePath}=await import('../lib/editorial.mjs');
 await fs.mkdir('dist',{recursive:true});
-for(const name of ['site.js','growth.js','growth.css','commercial.css','partners.css','booking-tools.css'])await fs.copyFile('ui/'+name,'dist/'+name);
+for(const name of ['site.js','growth.js','growth.css','commercial.css','partners.css','booking-tools.css','legacy-toolkit.css','tool-library.js'])await fs.copyFile('ui/'+name,'dist/'+name);
 await fs.copyFile('lib/booking-math.mjs','dist/booking-math.mjs');
 const {partnersPage}=await import('../lib/partners.mjs');
 const {solutionPage,integrationPage,commercialHub}=await import('../lib/commercial.mjs');
@@ -14,6 +14,9 @@ const {enhanceProductPage,linkHomepage}=await import('../lib/product-seo.mjs');
 const solutions=JSON.parse(await fs.readFile('content/solutions.json','utf8')),integrations=JSON.parse(await fs.readFile('content/integrations.json','utf8')),alternativesEditorial=JSON.parse(await fs.readFile('content/alternatives-editorial.json','utf8'));
 const {noShowPage,slotPage}=await import('../lib/free-tools.mjs');
 const {toolsHub,addSolutionTools,allToolSlugs,toolPath}=await import('../lib/toolkit/pages.mjs');
+const {enhanceLegacyTool}=await import('../lib/toolkit/legacy-pages.mjs');
+const {legacyToolGuides}=await import('../lib/legacy-tool-guides.mjs');
+await fs.appendFile('dist/booking-tools.css','\n'+await fs.readFile('ui/tool-result-visuals.css','utf8')+'\n'+await fs.readFile('ui/tool-studio.css','utf8'));
 const {buildToolkit}=await import('./build-toolkit.mjs');
 const root=path.resolve('dist'),posts=await Promise.all(JSON.parse(await fs.readFile('content/posts.json','utf8')).map(async p=>({...p,markdown:await fs.readFile('content/'+p.sourceFile,'utf8')}))),apps=JSON.parse(await fs.readFile('content/apps.json','utf8')),own=apps[0];
 for(const p of posts)p.minutes=Math.max(2,Math.ceil(p.markdown.split(/\s+/).length/210));
@@ -65,8 +68,9 @@ const staticRoutes=[];for(const file of (await walk(root)).filter(f=>f.endsWith(
  if(route==='/'&&!html.includes('"@type":"SoftwareApplication"'))html=html.replace('</head>',`<script type="application/ld+json">${json(software)}</script><script type="application/ld+json">${json({'@context':'https://schema.org','@type':'WebSite',name:'Cowlendar',url:ORIGIN})}</script></head>`);
  // Match canonical paths in internal navigation.
  html=html.replace(/href="(\/(?:features|pricing|privacy-policy|terms-and-conditions|gdpr|free-tools\/timezone-converter))\/"/g,'href="$1"');
+ if(route.startsWith('/free-tools/')){const slug=route.split('/').pop();if(legacyToolGuides[slug])html=enhanceLegacyTool(html,slug,legacyToolGuides[slug]);}
  html=await minify(html,{collapseWhitespace:true,removeComments:true,removeRedundantAttributes:true,minifyCSS:true,minifyJS:true,keepClosingSlash:false});await fs.writeFile(file,html);
- if(route!=='/404')staticRoutes.push({path:route,...(route.startsWith('/blog/')?{modified:posts.find(p=>'/blog/'+p.slug===route)?.modified}: [...solutions,...integrations].some(p=>p.path===route)||['/features','/pricing','/integrations','/use-cases'].includes(route)||route.endsWith('-alternatives')?{modified:'2026-09-22'}:{})});
+ if(route!=='/404')staticRoutes.push({path:route,...(route.startsWith('/blog/')?{modified:posts.find(p=>'/blog/'+p.slug===route)?.modified}: (route==='/free-tools'||route.startsWith('/free-tools/'))?{modified:'2026-11-09'}:[...solutions,...integrations].some(p=>p.path===route)||['/features','/pricing','/integrations','/use-cases'].includes(route)||route.endsWith('-alternatives')?{modified:'2026-09-22'}:{})});
 }
 const xml=routes=>'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+routes.map(r=>`<url><loc>${esc(ORIGIN+r.path)}</loc>${r.modified?'<lastmod>'+r.modified.slice(0,10)+'</lastmod>':''}</url>`).join('')+'</urlset>\n';
 await fs.writeFile(root+'/sitemap.xml',xml(staticRoutes));await fs.writeFile('content/static-routes.json',JSON.stringify(staticRoutes.filter(r=>!r.path.startsWith('/blog/')))+'\n');
@@ -75,7 +79,7 @@ const redirects=[['/2','/'],['/2/','/'],['/feature','/features'],['/feature/','/
 for(const [from,to] of redirects){if(!staticRoutes.some(r=>r.path===to))throw new Error('Missing redirect target '+to);}
 await fs.writeFile('content/redirects.json',JSON.stringify(redirects)+'\n');await fs.writeFile(root+'/_redirects',redirects.map(([a,b])=>`${a} ${b} 301`).join('\n')+'\n');
 await fs.mkdir('docs',{recursive:true});await fs.writeFile('docs/URL-MIGRATION.csv','old_url,new_url,status,reason\n'+redirects.filter(([a])=>!a.endsWith('/')).map(([a,b])=>`${ORIGIN+a},${ORIGIN+b},301,${a==='/2'?'Removed design variant':'Equivalent canonical destination'}`).join('\n')+'\n');
-await fs.writeFile(root+'/_routes.json',JSON.stringify({version:1,include:['/api/posts','/api/posts/*','/blog','/blog/*','/sitemap.xml','/404'],exclude:[]})+'\n');
+await fs.writeFile(root+'/_routes.json',JSON.stringify({version:1,include:['/api/tool-inspect','/api/posts','/api/posts/*','/blog','/blog/*','/sitemap.xml','/404'],exclude:[]})+'\n');
 await fs.writeFile(root+'/_headers',`/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: camera=(), microphone=(), geolocation=()\n/assets/*\n  Cache-Control: public, max-age=86400, stale-while-revalidate=604800\n/blog/*.md\n  Content-Type: text/markdown; charset=utf-8\n/ai.md\n  Content-Type: text/markdown; charset=utf-8\n/llms.txt\n  Content-Type: text/plain; charset=utf-8\n/llms-full.txt\n  Content-Type: text/plain; charset=utf-8\n`);
 for(const file of (await walk(root)).filter(f=>!f.includes('/assets/toolkit/')&&(f.endsWith('.css')||f.endsWith('.js')))){const result=await transform(await fs.readFile(file,'utf8'),{loader:file.endsWith('.css')?'css':'js',minify:true,target:'es2022'});await fs.writeFile(file,result.code);}
 // Pages may use an older integrated Wrangler bundler than the project's CLI.

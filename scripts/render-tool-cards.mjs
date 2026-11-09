@@ -2,14 +2,15 @@
 import fs from 'node:fs/promises';
 import sharp from 'sharp';
 import {toolGuides} from '../lib/tool-guides.mjs';
+import {legacyToolGuides} from '../lib/legacy-tool-guides.mjs';
 import {toolArt} from '../lib/tool-art.mjs';
 import {escape} from '../lib/toolkit/shared.mjs';
 import {groups} from '../lib/toolkit/pages.mjs';
 
 const folder='dist/assets/toolkit';
 await fs.mkdir(folder,{recursive:true});
-const colors={apricot:'#faecda',lilac:'#efeafd',mint:'#e4f1e8'};
-const cards=[['free-tools','Free booking tools','workshop-break-even-calculator','mint'],...Object.entries(toolGuides).map(([key,g])=>[key,g.name,key,groups.find(x=>x.tools.includes(key)).theme])];
+const colors={apricot:'#faecda',lilac:'#efeafd',mint:'#e4f1e8',sky:'#e3edf8'};
+const cards=[['free-tools','Free booking tools','workshop-break-even-calculator','mint'],...Object.entries({...toolGuides,...legacyToolGuides}).map(([key,g])=>[key,g.name,key,groups.find(x=>x.tools.includes(key)).theme])];
 for(const [slug,title,icon,theme] of cards){
   const lines=[''];
   for(const word of title.split(' ')){

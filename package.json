@@ -19,6 +19,8 @@
     "esbuild": "^0.25.12",
     "html-minifier-terser": "^7.2.0",
     "htmlparser2": "^12.0.0",
+    "ical.js": "^2.2.1",
+    "ipaddr.js": "^2.2.0",
     "marked": "^18.0.14",
     "qrcode": "^1.5.4",
     "sanitize-html": "^2.17.7",

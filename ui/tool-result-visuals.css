@@ -1,0 +1,117 @@
+/* The work surface changes with the tool: a seating plan, inventory chart, calendar or deliverable. */
+.tv-figure {
+  --visual-ink: #393e41;
+  margin: 12px 0 20px;
+  padding: clamp(16px, 3vw, 24px);
+  border: 1px solid #d5d3cc;
+  border-radius: 14px;
+  background: #fffcf6;
+  color: var(--visual-ink);
+}
+.tv-figure > figcaption, .tv-calendar caption {
+  margin: 0 0 14px;
+  font-size: 15px;
+  line-height: 1.35;
+  font-weight: 600;
+  letter-spacing: -.015em;
+}
+.tv-figure > p, .tv-payment-key, .tv-ends, .tv-line-key {
+  margin: 12px 0 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #55565a;
+}
+.tv-seating {
+  padding: 7px 0;
+  display: grid;
+  grid-template-columns: repeat(8,minmax(0,1fr));
+  gap: 10px 6px;
+  max-width: 330px;
+}
+.tv-chair {
+  position: relative;
+  width: min(100%,24px);
+  aspect-ratio: 1.18;
+  justify-self: center;
+  border: 1px solid #87877f;
+  border-bottom-width: 4px;
+  border-radius: 6px 6px 4px 4px;
+  background: #f3f1e9;
+}
+.tv-chair::after {
+  content: "";
+  position: absolute;
+  inset: auto 8% 0;
+  height: 3px;
+  border-top: 1px solid currentColor;
+  color: #97948b;
+}
+.tv-chair.occupied {background: #b5daca; border-color: #3c7060}
+.tv-chair.occupied::after {color: #507766}
+.tv-track {display: flex; overflow: hidden; height: 11px; border-radius: 6px; background: #e7e5dd}
+.tv-track > i {display: block; height: 100%; background: #477e6c}
+.tv-room .tv-track {margin-top: 22px; height: 17px}
+.tv-installment {margin-bottom: 12px; padding: 16px 18px; background: #fffdf8; border: 1px solid #d9cdb9; border-radius: 12px}
+.tv-installment + .tv-installment {border-color: #cfc7df}
+.tv-installment .kit-metric {padding: 0 0 12px}
+.tv-installment .kit-metric strong {font-size: clamp(28px,3.5vw,43px)}
+.tv-payment {margin: 2px 0 12px}
+.tv-payment .tv-track {height: 15px; background: #ece6db}
+.tv-payment .tv-track > i {background: #a86646}
+.tv-installment + .tv-installment .tv-track > i {background: #72618d}
+.tv-payment-key, .tv-ends {display: flex; justify-content: space-between; gap: 8px; margin-top: 5px; font-variant-numeric: tabular-nums}
+.tv-ends span:last-child {text-align: end}
+.tv-fleet {background: #f6faf7}
+.tv-fleet svg {display: block; width: 100%; height: 85px; background: repeating-linear-gradient(to top, transparent 0 19px, #4b705415 19px 20px)}
+.tv-line-key {display: flex; align-items: center; gap: 8px}
+.tv-line-key::before {content: ""; display: block; width: 21px; border-top: 2px dashed #443c4b}
+.tv-fleet p {padding-top: 10px; border-top: 1px solid #d7dfd6}
+.tv-resources {background: #faf9f3}
+.tv-resource + .tv-resource {margin-top: 12px}
+.tv-resource > div:first-child {display: flex; justify-content: space-between; gap: 10px; margin-bottom: 4px; font-size: 13px}
+.tv-resource .tv-track {height: 10px}
+.tv-resource:nth-of-type(2) .tv-track i {background: #81719d}
+.tv-resource:nth-of-type(3) .tv-track i {background: #b0774e}
+.tv-calendar {background: white; padding: 17px clamp(10px,3vw,22px)}
+.tv-calendar table {width: 100%; table-layout: fixed; border-collapse: collapse; font-variant-numeric: tabular-nums}
+.tv-calendar caption {text-align: left; margin-bottom: 9px}
+.tv-calendar th, .tv-calendar td {padding: 2px 0; text-align: center; font-size: 13px; line-height: 1.3}
+.tv-calendar th {color: #656469; font-weight: 500; padding: 0 0 8px; border-bottom: 1px solid #e4e0db}
+.tv-date {display: inline-grid; place-items: center; min-width: 26px; height: 26px; vertical-align: middle; border-radius: 50%; color: #444249}
+.tv-date.outside {color: #87838a}
+.tv-date.session {background: #436f5b; color: #fff; font-weight: 600}
+.tv-date.closed {color: #8a4938; text-decoration: line-through; background: #f7e5db}
+.tv-calendar > figcaption {display: flex; align-items: center; gap: 6px; margin: 8px 0 0; padding-top: 8px; border-top: 1px solid #e4e0db; font-size: 12px; font-weight: 400}
+.tv-calendar figcaption i {width: 11px; height: 11px; background: #436f5b; border-radius: 50%}
+.tv-calendar figcaption s {color: #8a4938; margin-left: 8px}
+.tv-sms,.tv-mail {background: #fff; border: 1px solid #d8d4df; border-radius: 14px; overflow: hidden}
+.tv-sms header,.tv-mail header {background: #f5f2fa; padding: 14px 16px; border-bottom: 1px solid #e2dfe6}
+.tv-sms header {display: flex; align-items: center; gap: 10px}
+.tv-sms h3,.tv-mail h3 {margin: 0; font-size: 17px; line-height: 1.25}
+.tv-sms header span, .tv-mail header span {font-size: 12px; color: #5a5461}
+.tv-sms .tv-avatar {display: grid; flex: 0 0 34px; height: 34px; place-items: center; border-radius: 50%; background: #e5d8f1; color: #5f4973; font-size: 18px; font-weight: 600}
+.tv-sms .kit-message {margin: 14px 22px 8px 14px; padding: 11px 14px; border-radius: 13px 13px 13px 2px; border: 0; background: #e4eee7}
+.tv-sms .kit-note {margin: 7px 16px 14px; font-size: 12px}
+.tv-mail {margin-top: 12px}
+.tv-mail header {background: #faf8f3}
+.tv-mail header p {display: flex; gap: 9px; margin: 9px 0 0; align-items: baseline; font-size: 14px}
+.tv-mail .kit-message {margin: 0; padding: 15px; border: 0; background: #fff}
+.tv-invitation {display: flex; align-items: center; gap: 16px; margin: 6px 0 16px; padding: 16px; border: 1px solid #d6d2da; background: #fff; border-radius: 14px; break-inside: avoid}
+.tv-invitation h3 {margin: 2px 0; font-size: clamp(19px, 3vw, 29px); line-height: 1.1; overflow-wrap: anywhere}
+.tv-invitation > div > span {font-size: 13px; color: #5b555f}
+.tv-dayblock {flex: 0 0 58px; border: 1px solid #b89c91; border-radius: 9px; text-align: center; overflow: hidden}
+.tv-invitation .tv-dayblock span {display: block; padding: 3px; font-weight: 600; color: #fff; background: #aa6455; letter-spacing: .05em; text-transform: uppercase; font-size: 11px}
+.tv-dayblock b {display: block; padding: 3px; font-size: 28px; line-height: 1.15; font-weight: 500}
+@media screen {
+  main[data-tool="booking-qr-code-generator"] .kit-poster {max-width: 380px; margin: 0 auto; border: 1px solid #bfc7b9; border-top: 7px solid #547661; border-radius: 6px; box-shadow: 3px 4px 0 #d9dfd3}
+  main[data-tool="booking-qr-code-generator"] .kit-poster>small {display: inline-block; border-top: 1px solid #dfdfd6; padding-top: 9px}
+  main[data-tool="booking-intake-form-builder"] #kit-result:has(.kit-answer),
+  main[data-tool="equipment-rental-quote-generator"] #kit-result:has(.kit-table) {padding: clamp(14px, 3vw, 28px); border: 1px solid #ddd8c9; border-top: 5px solid #6d617c; border-radius: 3px; background: #fffdf8; box-shadow: 3px 4px 0 #dfddd8}
+  main[data-tool="equipment-rental-quote-generator"] #kit-result:has(.kit-table) {border-top-color: #78634b}
+  main[data-tool="equipment-rental-quote-generator"] #kit-result .kit-metric {border-block: 1px dashed #bbafa1; padding: 12px 0}
+  main[data-tool="equipment-rental-quote-generator"] #kit-result .kit-metric strong {font-size: clamp(28px, 3.2vw, 38px)}
+}
+@media print {
+ .tv-figure,.tv-invitation,.tv-installment,.tv-sms,.tv-mail {break-inside: avoid}
+ .tv-figure,.tv-payment,.tv-dayblock {print-color-adjust: exact}
+}
